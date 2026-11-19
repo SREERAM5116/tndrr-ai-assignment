@@ -1,0 +1,16 @@
+question,small (100 words),large (300 words)
+"Compared with fully fine-tuning GPT-3, by how much does LoRA cut the number of trainable parameters?",,16.0
+What does the 'double quantization' trick in QLoRA quantize?,7.0,2.0
+What hardware does QLoRA need to fine-tune a 65-billion-parameter model?,2.0,7.0
+Why doesn't a LoRA model run slower than the original?,,12.0
+What does LoRA do with the original model weights?,19.0,11.0
+Which models did they test LoRA on?,2.0,13.0
+How much did training memory drop for GPT-3 with LoRA?,,4.0
+How small does the saved checkpoint become with LoRA?,11.0,9.0
+What is B set to at the start of training?,13.0,3.0
+What did the QLoRA authors name their best chatbot models?,2.0,1.0
+What new number format does QLoRA introduce?,2.0,6.0
+Why does QLoRA use paged optimizers?,4.0,8.0
+How close is Guanaco to ChatGPT?,,16.0
+How much GPU memory would normal 16-bit fine-tuning of LLaMA 65B need?,1.0,8.0
+How long did it take to train Guanaco?,,

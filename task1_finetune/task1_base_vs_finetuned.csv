@@ -1,0 +1,8 @@
+,base,fine_tuned
+valid_json,100.0,100.0
+amount,100.0,97.0
+currency,87.0,100.0
+category,40.0,100.0
+merchant,66.0,94.0
+payment_method,40.0,97.0
+exact_match,7.0,89.0

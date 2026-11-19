@@ -1,0 +1,1000 @@
+{"text":"Paid Rapido $229.01 for a cab ride","target":"{\"amount\": 229.01, \"currency\": \"USD\", \"category\": \"travel\", \"merchant\": \"Rapido\", \"payment_method\": null}"}
+{"text":"Spent 1000 rupees on the wifi bill at BSNL using debit card","target":"{\"amount\": 1000, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": \"BSNL\", \"payment_method\": \"card\"}"}
+{"text":"Spent Rs. 5800 on pizza at Swiggy in cash","target":"{\"amount\": 5800, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": \"Swiggy\", \"payment_method\": \"cash\"}"}
+{"text":"Bought movie tickets from BookMyShow for 244 INR","target":"{\"amount\": 244, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": \"BookMyShow\", \"payment_method\": null}"}
+{"text":"Log ₹7915 - petrol, Uber by card","target":"{\"amount\": 7915, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": \"Uber\", \"payment_method\": \"card\"}"}
+{"text":"Rs. 893 for a mobile recharge","target":"{\"amount\": 893, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": null, \"payment_method\": null}"}
+{"text":"5700 INR for headphones in cash","target":"{\"amount\": 5700, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": null, \"payment_method\": \"cash\"}"}
+{"text":"Spent Rs 6,054 on a t-shirt","target":"{\"amount\": 6054, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": null, \"payment_method\": null}"}
+{"text":"9841 INR for a flight by card","target":"{\"amount\": 9841, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": null, \"payment_method\": \"card\"}"}
+{"text":"just paid 8000 INR to Netflix using debit card","target":"{\"amount\": 8000, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": \"Netflix\", \"payment_method\": \"card\"}"}
+{"text":"Spent Rs. 4274 on the wifi bill at Tata Power","target":"{\"amount\": 4274, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": \"Tata Power\", \"payment_method\": null}"}
+{"text":"just paid Rs 8,506 to Airtel in cash","target":"{\"amount\": 8506, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": \"Airtel\", \"payment_method\": \"cash\"}"}
+{"text":"$166.66 for movie tickets from Steam in cash","target":"{\"amount\": 166.66, \"currency\": \"USD\", \"category\": \"entertainment\", \"merchant\": \"Steam\", \"payment_method\": \"cash\"}"}
+{"text":"Spent ₹2793 on the electricity bill at BSNL by card","target":"{\"amount\": 2793, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": \"BSNL\", \"payment_method\": \"card\"}"}
+{"text":"Rs. 4400 for a cab ride from Rapido via UPI","target":"{\"amount\": 4400, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": \"Rapido\", \"payment_method\": \"upi\"}"}
+{"text":"Log 835 INR - dinner, McDonald's on UPI","target":"{\"amount\": 835, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": \"McDonald's\", \"payment_method\": \"upi\"}"}
+{"text":"Steam bowling Rs. 250 in cash","target":"{\"amount\": 250, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": \"Steam\", \"payment_method\": \"cash\"}"}
+{"text":"Cult.fit a gym membership 665 INR by cash","target":"{\"amount\": 665, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"Cult.fit\", \"payment_method\": \"cash\"}"}
+{"text":"Apollo Pharmacy a gym membership ₹3700 in cash","target":"{\"amount\": 3700, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"Apollo Pharmacy\", \"payment_method\": \"cash\"}"}
+{"text":"Rs. 1621 for a doctor visit from Practo using debit card","target":"{\"amount\": 1621, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"Practo\", \"payment_method\": \"card\"}"}
+{"text":"USD 63 for a blood test using debit card","target":"{\"amount\": 63, \"currency\": \"USD\", \"category\": \"health\", \"merchant\": null, \"payment_method\": \"card\"}"}
+{"text":"Bought a subscription from Netflix for $200.79","target":"{\"amount\": 200.79, \"currency\": \"USD\", \"category\": \"entertainment\", \"merchant\": \"Netflix\", \"payment_method\": null}"}
+{"text":"BookMyShow a concert 62.65 dollars by card","target":"{\"amount\": 62.65, \"currency\": \"USD\", \"category\": \"entertainment\", \"merchant\": \"BookMyShow\", \"payment_method\": \"card\"}"}
+{"text":"Paid Ajio Rs 5,400 for shoes with my card","target":"{\"amount\": 5400, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": \"Ajio\", \"payment_method\": \"card\"}"}
+{"text":"₹3700 for breakfast from Zomato via UPI","target":"{\"amount\": 3700, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": \"Zomato\", \"payment_method\": \"upi\"}"}
+{"text":"Log 3217 rupees - pizza, Zomato by cash","target":"{\"amount\": 3217, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": \"Zomato\", \"payment_method\": \"cash\"}"}
+{"text":"KFC coffee 170 rupees","target":"{\"amount\": 170, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": \"KFC\", \"payment_method\": null}"}
+{"text":"Bought movie tickets from Spotify for 82.22 dollars by cash","target":"{\"amount\": 82.22, \"currency\": \"USD\", \"category\": \"entertainment\", \"merchant\": \"Spotify\", \"payment_method\": \"cash\"}"}
+{"text":"Log Rs 34 - snacks, Swiggy in cash","target":"{\"amount\": 34, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": \"Swiggy\", \"payment_method\": \"cash\"}"}
+{"text":"INOX a game $53 using debit card","target":"{\"amount\": 53, \"currency\": \"USD\", \"category\": \"entertainment\", \"merchant\": \"INOX\", \"payment_method\": \"card\"}"}
+{"text":"₹5151 for the electricity bill","target":"{\"amount\": 5151, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": null, \"payment_method\": null}"}
+{"text":"just paid 236.7 dollars to Uber via UPI","target":"{\"amount\": 236.7, \"currency\": \"USD\", \"category\": \"travel\", \"merchant\": \"Uber\", \"payment_method\": \"upi\"}"}
+{"text":"Paid Airtel 6800 INR for the gas bill using debit card","target":"{\"amount\": 6800, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": \"Airtel\", \"payment_method\": \"card\"}"}
+{"text":"just paid ₹232 to MedPlus using UPI","target":"{\"amount\": 232, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"MedPlus\", \"payment_method\": \"upi\"}"}
+{"text":"Paid Vodafone Idea Rs 3900 for the wifi bill by cash","target":"{\"amount\": 3900, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": \"Vodafone Idea\", \"payment_method\": \"cash\"}"}
+{"text":"Log Rs. 577 - movie tickets, INOX in cash","target":"{\"amount\": 577, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": \"INOX\", \"payment_method\": \"cash\"}"}
+{"text":"₹1352 for headphones by cash","target":"{\"amount\": 1352, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": null, \"payment_method\": \"cash\"}"}
+{"text":"Rs 2263 for a mobile recharge from Airtel with my card","target":"{\"amount\": 2263, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": \"Airtel\", \"payment_method\": \"card\"}"}
+{"text":"Log 874 rupees - groceries, Amazon using debit card","target":"{\"amount\": 874, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": \"Amazon\", \"payment_method\": \"card\"}"}
+{"text":"3600 INR for a concert","target":"{\"amount\": 3600, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": null, \"payment_method\": null}"}
+{"text":"Bought snacks from Dominos for Rs. 8047 on UPI","target":"{\"amount\": 8047, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": \"Dominos\", \"payment_method\": \"upi\"}"}
+{"text":"Spent $251 on a game via UPI","target":"{\"amount\": 251, \"currency\": \"USD\", \"category\": \"entertainment\", \"merchant\": null, \"payment_method\": \"upi\"}"}
+{"text":"Spent Rs. 613 on bowling at PVR via UPI","target":"{\"amount\": 613, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": \"PVR\", \"payment_method\": \"upi\"}"}
+{"text":"USD 147 for the gas bill from ACT Fibernet on UPI","target":"{\"amount\": 147, \"currency\": \"USD\", \"category\": \"bills\", \"merchant\": \"ACT Fibernet\", \"payment_method\": \"upi\"}"}
+{"text":"Bought vitamins from 1mg for ₹4687","target":"{\"amount\": 4687, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"1mg\", \"payment_method\": null}"}
+{"text":"Log 9383 INR - a concert, Hotstar using UPI","target":"{\"amount\": 9383, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": \"Hotstar\", \"payment_method\": \"upi\"}"}
+{"text":"Log 3706 INR - shoes, Croma","target":"{\"amount\": 3706, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": \"Croma\", \"payment_method\": null}"}
+{"text":"Rs 2,900 for snacks using debit card","target":"{\"amount\": 2900, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": null, \"payment_method\": \"card\"}"}
+{"text":"Spent Rs 7,291 on lunch using debit card","target":"{\"amount\": 7291, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": null, \"payment_method\": \"card\"}"}
+{"text":"Paid Steam Rs 123 for a game by cash","target":"{\"amount\": 123, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": \"Steam\", \"payment_method\": \"cash\"}"}
+{"text":"Jio the DTH recharge 468 INR by cash","target":"{\"amount\": 468, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": \"Jio\", \"payment_method\": \"cash\"}"}
+{"text":"Paid Vodafone Idea 274 INR for the electricity bill","target":"{\"amount\": 274, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": \"Vodafone Idea\", \"payment_method\": null}"}
+{"text":"Bought coffee from KFC for ₹3431 by card","target":"{\"amount\": 3431, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": \"KFC\", \"payment_method\": \"card\"}"}
+{"text":"Spent Rs. 3100 on shoes","target":"{\"amount\": 3100, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": null, \"payment_method\": null}"}
+{"text":"Ola an auto ride Rs 2,934 by cash","target":"{\"amount\": 2934, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": \"Ola\", \"payment_method\": \"cash\"}"}
+{"text":"₹8162 for medicines from Apollo Pharmacy on UPI","target":"{\"amount\": 8162, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"Apollo Pharmacy\", \"payment_method\": \"upi\"}"}
+{"text":"Spent Rs 4,900 on coffee on UPI","target":"{\"amount\": 4900, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": null, \"payment_method\": \"upi\"}"}
+{"text":"Paid Vodafone Idea 3600 INR for the DTH recharge by card","target":"{\"amount\": 3600, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": \"Vodafone Idea\", \"payment_method\": \"card\"}"}
+{"text":"Log 7700 INR - the gas bill, Vodafone Idea by cash","target":"{\"amount\": 7700, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": \"Vodafone Idea\", \"payment_method\": \"cash\"}"}
+{"text":"just paid Rs 9,072 to BSNL using debit card","target":"{\"amount\": 9072, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": \"BSNL\", \"payment_method\": \"card\"}"}
+{"text":"Spent ₹179 on a gym membership at Practo in cash","target":"{\"amount\": 179, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"Practo\", \"payment_method\": \"cash\"}"}
+{"text":"Netmeds a blood test Rs 2900","target":"{\"amount\": 2900, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"Netmeds\", \"payment_method\": null}"}
+{"text":"Spent 6400 rupees on a concert at BookMyShow by cash","target":"{\"amount\": 6400, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": \"BookMyShow\", \"payment_method\": \"cash\"}"}
+{"text":"USD 191.88 for a concert from Hotstar using UPI","target":"{\"amount\": 191.88, \"currency\": \"USD\", \"category\": \"entertainment\", \"merchant\": \"Hotstar\", \"payment_method\": \"upi\"}"}
+{"text":"just paid USD 210.66 to Rapido","target":"{\"amount\": 210.66, \"currency\": \"USD\", \"category\": \"travel\", \"merchant\": \"Rapido\", \"payment_method\": null}"}
+{"text":"Spent 6830 INR on a blood test at 1mg by card","target":"{\"amount\": 6830, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"1mg\", \"payment_method\": \"card\"}"}
+{"text":"Spent 5200 rupees on petrol using debit card","target":"{\"amount\": 5200, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": null, \"payment_method\": \"card\"}"}
+{"text":"just paid Rs. 274 to Tata Power using debit card","target":"{\"amount\": 274, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": \"Tata Power\", \"payment_method\": \"card\"}"}
+{"text":"Rs. 490 for a gym membership from Cult.fit using debit card","target":"{\"amount\": 490, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"Cult.fit\", \"payment_method\": \"card\"}"}
+{"text":"Flipkart headphones $64.24 in cash","target":"{\"amount\": 64.24, \"currency\": \"USD\", \"category\": \"shopping\", \"merchant\": \"Flipkart\", \"payment_method\": \"cash\"}"}
+{"text":"Spent 998 rupees on headphones in cash","target":"{\"amount\": 998, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": null, \"payment_method\": \"cash\"}"}
+{"text":"6610 INR for a doctor visit using UPI","target":"{\"amount\": 6610, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": null, \"payment_method\": \"upi\"}"}
+{"text":"Bought coffee from McDonald's for Rs. 480 by card","target":"{\"amount\": 480, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": \"McDonald's\", \"payment_method\": \"card\"}"}
+{"text":"INOX movie tickets 9131 rupees in cash","target":"{\"amount\": 9131, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": \"INOX\", \"payment_method\": \"cash\"}"}
+{"text":"Spent Rs 930 on snacks at KFC","target":"{\"amount\": 930, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": \"KFC\", \"payment_method\": null}"}
+{"text":"₹3378 for a doctor visit from Netmeds by cash","target":"{\"amount\": 3378, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"Netmeds\", \"payment_method\": \"cash\"}"}
+{"text":"Spent 1581 rupees on breakfast in cash","target":"{\"amount\": 1581, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": null, \"payment_method\": \"cash\"}"}
+{"text":"Swiggy pizza Rs. 5575 using debit card","target":"{\"amount\": 5575, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": \"Swiggy\", \"payment_method\": \"card\"}"}
+{"text":"Log Rs. 1986 - a backpack, Myntra by card","target":"{\"amount\": 1986, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": \"Myntra\", \"payment_method\": \"card\"}"}
+{"text":"5500 INR for a blood test using debit card","target":"{\"amount\": 5500, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": null, \"payment_method\": \"card\"}"}
+{"text":"Paid PharmEasy 645 rupees for a doctor visit in cash","target":"{\"amount\": 645, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"PharmEasy\", \"payment_method\": \"cash\"}"}
+{"text":"Spent ₹8686 on the electricity bill at Airtel using UPI","target":"{\"amount\": 8686, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": \"Airtel\", \"payment_method\": \"upi\"}"}
+{"text":"$200.28 for an auto ride","target":"{\"amount\": 200.28, \"currency\": \"USD\", \"category\": \"travel\", \"merchant\": null, \"payment_method\": null}"}
+{"text":"Log 353 rupees - a subscription, PVR","target":"{\"amount\": 353, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": \"PVR\", \"payment_method\": null}"}
+{"text":"Rs 846 for a backpack from Myntra","target":"{\"amount\": 846, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": \"Myntra\", \"payment_method\": null}"}
+{"text":"Bought bowling from BookMyShow for Rs. 541 using debit card","target":"{\"amount\": 541, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": \"BookMyShow\", \"payment_method\": \"card\"}"}
+{"text":"938 INR for a subscription via UPI","target":"{\"amount\": 938, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": null, \"payment_method\": \"upi\"}"}
+{"text":"Dominos breakfast 22.26 dollars via UPI","target":"{\"amount\": 22.26, \"currency\": \"USD\", \"category\": \"food\", \"merchant\": \"Dominos\", \"payment_method\": \"upi\"}"}
+{"text":"Log ₹1141 - a phone cover, Myntra in cash","target":"{\"amount\": 1141, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": \"Myntra\", \"payment_method\": \"cash\"}"}
+{"text":"just paid 293.89 dollars to Decathlon","target":"{\"amount\": 293.89, \"currency\": \"USD\", \"category\": \"shopping\", \"merchant\": \"Decathlon\", \"payment_method\": null}"}
+{"text":"Paid ACT Fibernet Rs 1,600 for the DTH recharge using UPI","target":"{\"amount\": 1600, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": \"ACT Fibernet\", \"payment_method\": \"upi\"}"}
+{"text":"just paid 5700 INR to MedPlus","target":"{\"amount\": 5700, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"MedPlus\", \"payment_method\": null}"}
+{"text":"Rs 4623 for a game with my card","target":"{\"amount\": 4623, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": null, \"payment_method\": \"card\"}"}
+{"text":"Spent 165.08 dollars on medicines at Netmeds in cash","target":"{\"amount\": 165.08, \"currency\": \"USD\", \"category\": \"health\", \"merchant\": \"Netmeds\", \"payment_method\": \"cash\"}"}
+{"text":"Rs. 4561 for medicines using debit card","target":"{\"amount\": 4561, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": null, \"payment_method\": \"card\"}"}
+{"text":"just paid Rs 846 to Steam","target":"{\"amount\": 846, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": \"Steam\", \"payment_method\": null}"}
+{"text":"just paid Rs 7100 to ACT Fibernet","target":"{\"amount\": 7100, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": \"ACT Fibernet\", \"payment_method\": null}"}
+{"text":"7200 rupees for a gym membership","target":"{\"amount\": 7200, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": null, \"payment_method\": null}"}
+{"text":"Spent ₹732 on the DTH recharge at Jio on UPI","target":"{\"amount\": 732, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": \"Jio\", \"payment_method\": \"upi\"}"}
+{"text":"₹7900 for a doctor visit via UPI","target":"{\"amount\": 7900, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": null, \"payment_method\": \"upi\"}"}
+{"text":"Spent Rs 5,140 on bowling by cash","target":"{\"amount\": 5140, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": null, \"payment_method\": \"cash\"}"}
+{"text":"just paid ₹978 to McDonald's by cash","target":"{\"amount\": 978, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": \"McDonald's\", \"payment_method\": \"cash\"}"}
+{"text":"just paid ₹5300 to Croma by cash","target":"{\"amount\": 5300, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": \"Croma\", \"payment_method\": \"cash\"}"}
+{"text":"₹853 for the DTH recharge from Airtel via UPI","target":"{\"amount\": 853, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": \"Airtel\", \"payment_method\": \"upi\"}"}
+{"text":"Croma a phone cover Rs. 4530","target":"{\"amount\": 4530, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": \"Croma\", \"payment_method\": null}"}
+{"text":"Paid Airtel 290 dollars for a mobile recharge in cash","target":"{\"amount\": 290, \"currency\": \"USD\", \"category\": \"bills\", \"merchant\": \"Airtel\", \"payment_method\": \"cash\"}"}
+{"text":"Paid Tata Power 1000 INR for the gas bill in cash","target":"{\"amount\": 1000, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": \"Tata Power\", \"payment_method\": \"cash\"}"}
+{"text":"Spent Rs 7,875 on groceries at Croma by cash","target":"{\"amount\": 7875, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": \"Croma\", \"payment_method\": \"cash\"}"}
+{"text":"Spent 4509 rupees on an auto ride by cash","target":"{\"amount\": 4509, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": null, \"payment_method\": \"cash\"}"}
+{"text":"Log 2903 rupees - a mobile recharge, Vodafone Idea","target":"{\"amount\": 2903, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": \"Vodafone Idea\", \"payment_method\": null}"}
+{"text":"Bought the gas bill from Jio for ₹7800 using debit card","target":"{\"amount\": 7800, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": \"Jio\", \"payment_method\": \"card\"}"}
+{"text":"Spent ₹693 on snacks at KFC","target":"{\"amount\": 693, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": \"KFC\", \"payment_method\": null}"}
+{"text":"Bought pizza from Haldiram's for Rs 743 by card","target":"{\"amount\": 743, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": \"Haldiram's\", \"payment_method\": \"card\"}"}
+{"text":"Spent Rs 2,900 on a subscription at Spotify via UPI","target":"{\"amount\": 2900, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": \"Spotify\", \"payment_method\": \"upi\"}"}
+{"text":"Spent Rs 7000 on a phone cover using debit card","target":"{\"amount\": 7000, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": null, \"payment_method\": \"card\"}"}
+{"text":"Spent Rs 6341 on a subscription using debit card","target":"{\"amount\": 6341, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": null, \"payment_method\": \"card\"}"}
+{"text":"Spent 3295 rupees on bowling using UPI","target":"{\"amount\": 3295, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": null, \"payment_method\": \"upi\"}"}
+{"text":"Spent ₹4267 on medicines at Cult.fit via UPI","target":"{\"amount\": 4267, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"Cult.fit\", \"payment_method\": \"upi\"}"}
+{"text":"Log 5590 INR - biryani, KFC via UPI","target":"{\"amount\": 5590, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": \"KFC\", \"payment_method\": \"upi\"}"}
+{"text":"PVR bowling USD 106 using UPI","target":"{\"amount\": 106, \"currency\": \"USD\", \"category\": \"entertainment\", \"merchant\": \"PVR\", \"payment_method\": \"upi\"}"}
+{"text":"just paid 299.64 dollars to Swiggy using UPI","target":"{\"amount\": 299.64, \"currency\": \"USD\", \"category\": \"food\", \"merchant\": \"Swiggy\", \"payment_method\": \"upi\"}"}
+{"text":"just paid USD 277.95 to Swiggy with my card","target":"{\"amount\": 277.95, \"currency\": \"USD\", \"category\": \"food\", \"merchant\": \"Swiggy\", \"payment_method\": \"card\"}"}
+{"text":"Spent ₹6773 on headphones at Decathlon using debit card","target":"{\"amount\": 6773, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": \"Decathlon\", \"payment_method\": \"card\"}"}
+{"text":"₹7800 for coffee using debit card","target":"{\"amount\": 7800, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": null, \"payment_method\": \"card\"}"}
+{"text":"Spent 4000 rupees on a flight at IndiGo on UPI","target":"{\"amount\": 4000, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": \"IndiGo\", \"payment_method\": \"upi\"}"}
+{"text":"Log Rs 2,699 - bowling, Spotify using UPI","target":"{\"amount\": 2699, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": \"Spotify\", \"payment_method\": \"upi\"}"}
+{"text":"Rs 1,498 for a t-shirt via UPI","target":"{\"amount\": 1498, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": null, \"payment_method\": \"upi\"}"}
+{"text":"Paid IndiGo 264 dollars for a flight","target":"{\"amount\": 264, \"currency\": \"USD\", \"category\": \"travel\", \"merchant\": \"IndiGo\", \"payment_method\": null}"}
+{"text":"₹410 for a phone cover from Flipkart by card","target":"{\"amount\": 410, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": \"Flipkart\", \"payment_method\": \"card\"}"}
+{"text":"Spent 7217 rupees on a blood test at Cult.fit by cash","target":"{\"amount\": 7217, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"Cult.fit\", \"payment_method\": \"cash\"}"}
+{"text":"BookMyShow movie tickets 438 rupees by cash","target":"{\"amount\": 438, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": \"BookMyShow\", \"payment_method\": \"cash\"}"}
+{"text":"Paid Haldiram's USD 153.9 for breakfast on UPI","target":"{\"amount\": 153.9, \"currency\": \"USD\", \"category\": \"food\", \"merchant\": \"Haldiram's\", \"payment_method\": \"upi\"}"}
+{"text":"Bought the wifi bill from BSNL for Rs. 128 by cash","target":"{\"amount\": 128, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": \"BSNL\", \"payment_method\": \"cash\"}"}
+{"text":"Spent Rs 5,500 on a t-shirt at Decathlon","target":"{\"amount\": 5500, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": \"Decathlon\", \"payment_method\": null}"}
+{"text":"USD 104 for a blood test using debit card","target":"{\"amount\": 104, \"currency\": \"USD\", \"category\": \"health\", \"merchant\": null, \"payment_method\": \"card\"}"}
+{"text":"Paid Decathlon USD 269.5 for a t-shirt by card","target":"{\"amount\": 269.5, \"currency\": \"USD\", \"category\": \"shopping\", \"merchant\": \"Decathlon\", \"payment_method\": \"card\"}"}
+{"text":"Bought pizza from Dominos for ₹8558","target":"{\"amount\": 8558, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": \"Dominos\", \"payment_method\": null}"}
+{"text":"Bought a blood test from Practo for 2500 rupees with my card","target":"{\"amount\": 2500, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"Practo\", \"payment_method\": \"card\"}"}
+{"text":"Paid BSNL 25 dollars for the DTH recharge","target":"{\"amount\": 25, \"currency\": \"USD\", \"category\": \"bills\", \"merchant\": \"BSNL\", \"payment_method\": null}"}
+{"text":"Rs. 865 for a phone cover from Flipkart","target":"{\"amount\": 865, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": \"Flipkart\", \"payment_method\": null}"}
+{"text":"Bought a gym membership from Cult.fit for Rs 7900 using debit card","target":"{\"amount\": 7900, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"Cult.fit\", \"payment_method\": \"card\"}"}
+{"text":"Bought a doctor visit from Apollo Pharmacy for Rs. 3000 in cash","target":"{\"amount\": 3000, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"Apollo Pharmacy\", \"payment_method\": \"cash\"}"}
+{"text":"Rs. 737 for lunch by card","target":"{\"amount\": 737, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": null, \"payment_method\": \"card\"}"}
+{"text":"Spent $31.09 on movie tickets at Netflix in cash","target":"{\"amount\": 31.09, \"currency\": \"USD\", \"category\": \"entertainment\", \"merchant\": \"Netflix\", \"payment_method\": \"cash\"}"}
+{"text":"Spent Rs 3,182 on headphones on UPI","target":"{\"amount\": 3182, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": null, \"payment_method\": \"upi\"}"}
+{"text":"Spotify a subscription Rs 5900 via UPI","target":"{\"amount\": 5900, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": \"Spotify\", \"payment_method\": \"upi\"}"}
+{"text":"Log ₹2000 - a subscription, Steam by card","target":"{\"amount\": 2000, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": \"Steam\", \"payment_method\": \"card\"}"}
+{"text":"Myntra a backpack 2900 rupees with my card","target":"{\"amount\": 2900, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": \"Myntra\", \"payment_method\": \"card\"}"}
+{"text":"Bought a concert from Spotify for Rs. 3280","target":"{\"amount\": 3280, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": \"Spotify\", \"payment_method\": null}"}
+{"text":"Paid Zomato Rs 1,300 for dinner","target":"{\"amount\": 1300, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": \"Zomato\", \"payment_method\": null}"}
+{"text":"Rs. 95 for a subscription from Hotstar using UPI","target":"{\"amount\": 95, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": \"Hotstar\", \"payment_method\": \"upi\"}"}
+{"text":"9062 INR for a gym membership from 1mg using UPI","target":"{\"amount\": 9062, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"1mg\", \"payment_method\": \"upi\"}"}
+{"text":"Spent 241 dollars on petrol via UPI","target":"{\"amount\": 241, \"currency\": \"USD\", \"category\": \"travel\", \"merchant\": null, \"payment_method\": \"upi\"}"}
+{"text":"Spent 183 INR on dinner at KFC","target":"{\"amount\": 183, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": \"KFC\", \"payment_method\": null}"}
+{"text":"Bought a gym membership from Cult.fit for 7288 INR using debit card","target":"{\"amount\": 7288, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"Cult.fit\", \"payment_method\": \"card\"}"}
+{"text":"Spent USD 62.86 on vitamins at PharmEasy","target":"{\"amount\": 62.86, \"currency\": \"USD\", \"category\": \"health\", \"merchant\": \"PharmEasy\", \"payment_method\": null}"}
+{"text":"Log ₹707 - an auto ride, Uber","target":"{\"amount\": 707, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": \"Uber\", \"payment_method\": null}"}
+{"text":"BESCOM the gas bill 4058 rupees by cash","target":"{\"amount\": 4058, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": \"BESCOM\", \"payment_method\": \"cash\"}"}
+{"text":"Indian Oil a bus ticket Rs. 862 in cash","target":"{\"amount\": 862, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": \"Indian Oil\", \"payment_method\": \"cash\"}"}
+{"text":"Rs 7304 for a flight from IndiGo using UPI","target":"{\"amount\": 7304, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": \"IndiGo\", \"payment_method\": \"upi\"}"}
+{"text":"Paid MedPlus 489 rupees for vitamins via UPI","target":"{\"amount\": 489, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"MedPlus\", \"payment_method\": \"upi\"}"}
+{"text":"Paid Steam ₹7552 for a subscription via UPI","target":"{\"amount\": 7552, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": \"Steam\", \"payment_method\": \"upi\"}"}
+{"text":"Spent Rs 7,100 on the wifi bill at ACT Fibernet on UPI","target":"{\"amount\": 7100, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": \"ACT Fibernet\", \"payment_method\": \"upi\"}"}
+{"text":"1800 INR for a cab ride","target":"{\"amount\": 1800, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": null, \"payment_method\": null}"}
+{"text":"Paid PVR 2200 rupees for a subscription on UPI","target":"{\"amount\": 2200, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": \"PVR\", \"payment_method\": \"upi\"}"}
+{"text":"Paid Netflix ₹7900 for a subscription in cash","target":"{\"amount\": 7900, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": \"Netflix\", \"payment_method\": \"cash\"}"}
+{"text":"35.04 dollars for a flight from IndiGo","target":"{\"amount\": 35.04, \"currency\": \"USD\", \"category\": \"travel\", \"merchant\": \"IndiGo\", \"payment_method\": null}"}
+{"text":"just paid 4100 INR to Amazon on UPI","target":"{\"amount\": 4100, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": \"Amazon\", \"payment_method\": \"upi\"}"}
+{"text":"₹149 for biryani from Dominos with my card","target":"{\"amount\": 149, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": \"Dominos\", \"payment_method\": \"card\"}"}
+{"text":"Spent ₹826 on the DTH recharge at Vodafone Idea via UPI","target":"{\"amount\": 826, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": \"Vodafone Idea\", \"payment_method\": \"upi\"}"}
+{"text":"Spent Rs 1,400 on a train ticket at IRCTC","target":"{\"amount\": 1400, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": \"IRCTC\", \"payment_method\": null}"}
+{"text":"Spent 699 rupees on bowling at Hotstar with my card","target":"{\"amount\": 699, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": \"Hotstar\", \"payment_method\": \"card\"}"}
+{"text":"82 dollars for a flight by cash","target":"{\"amount\": 82, \"currency\": \"USD\", \"category\": \"travel\", \"merchant\": null, \"payment_method\": \"cash\"}"}
+{"text":"just paid ₹1100 to INOX in cash","target":"{\"amount\": 1100, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": \"INOX\", \"payment_method\": \"cash\"}"}
+{"text":"Spent Rs. 106 on breakfast at Zomato with my card","target":"{\"amount\": 106, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": \"Zomato\", \"payment_method\": \"card\"}"}
+{"text":"Spent 352 INR on a flight with my card","target":"{\"amount\": 352, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": null, \"payment_method\": \"card\"}"}
+{"text":"Spotify a subscription 43 INR","target":"{\"amount\": 43, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": \"Spotify\", \"payment_method\": null}"}
+{"text":"Paid Croma 9099 INR for a phone cover","target":"{\"amount\": 9099, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": \"Croma\", \"payment_method\": null}"}
+{"text":"Spent 4400 INR on vitamins","target":"{\"amount\": 4400, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": null, \"payment_method\": null}"}
+{"text":"Log 227.94 dollars - a t-shirt, Myntra","target":"{\"amount\": 227.94, \"currency\": \"USD\", \"category\": \"shopping\", \"merchant\": \"Myntra\", \"payment_method\": null}"}
+{"text":"Spent 5200 rupees on movie tickets","target":"{\"amount\": 5200, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": null, \"payment_method\": null}"}
+{"text":"Spent ₹1600 on groceries at Myntra by cash","target":"{\"amount\": 1600, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": \"Myntra\", \"payment_method\": \"cash\"}"}
+{"text":"Spent 356 INR on a subscription at INOX via UPI","target":"{\"amount\": 356, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": \"INOX\", \"payment_method\": \"upi\"}"}
+{"text":"Spent Rs. 7400 on petrol at RedBus via UPI","target":"{\"amount\": 7400, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": \"RedBus\", \"payment_method\": \"upi\"}"}
+{"text":"Paid Jio Rs 4,944 for the gas bill with my card","target":"{\"amount\": 4944, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": \"Jio\", \"payment_method\": \"card\"}"}
+{"text":"Bought a mobile recharge from ACT Fibernet for Rs. 1023 via UPI","target":"{\"amount\": 1023, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": \"ACT Fibernet\", \"payment_method\": \"upi\"}"}
+{"text":"₹6601 for vitamins from Apollo Pharmacy","target":"{\"amount\": 6601, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"Apollo Pharmacy\", \"payment_method\": null}"}
+{"text":"Log 6400 rupees - coffee, KFC by cash","target":"{\"amount\": 6400, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": \"KFC\", \"payment_method\": \"cash\"}"}
+{"text":"Log ₹2679 - a cab ride, IRCTC with my card","target":"{\"amount\": 2679, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": \"IRCTC\", \"payment_method\": \"card\"}"}
+{"text":"Bought breakfast from Swiggy for 453 INR in cash","target":"{\"amount\": 453, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": \"Swiggy\", \"payment_method\": \"cash\"}"}
+{"text":"Spent USD 66 on a backpack at Decathlon via UPI","target":"{\"amount\": 66, \"currency\": \"USD\", \"category\": \"shopping\", \"merchant\": \"Decathlon\", \"payment_method\": \"upi\"}"}
+{"text":"Log 4909 rupees - a subscription, INOX","target":"{\"amount\": 4909, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": \"INOX\", \"payment_method\": null}"}
+{"text":"Amazon a t-shirt $58 with my card","target":"{\"amount\": 58, \"currency\": \"USD\", \"category\": \"shopping\", \"merchant\": \"Amazon\", \"payment_method\": \"card\"}"}
+{"text":"Paid Amazon 2800 rupees for a phone cover with my card","target":"{\"amount\": 2800, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": \"Amazon\", \"payment_method\": \"card\"}"}
+{"text":"just paid 4732 rupees to Amazon with my card","target":"{\"amount\": 4732, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": \"Amazon\", \"payment_method\": \"card\"}"}
+{"text":"Paid Swiggy Rs. 5687 for snacks on UPI","target":"{\"amount\": 5687, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": \"Swiggy\", \"payment_method\": \"upi\"}"}
+{"text":"Spent Rs 5,100 on petrol at RedBus","target":"{\"amount\": 5100, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": \"RedBus\", \"payment_method\": null}"}
+{"text":"Airtel the gas bill 270 rupees in cash","target":"{\"amount\": 270, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": \"Airtel\", \"payment_method\": \"cash\"}"}
+{"text":"₹5200 for groceries","target":"{\"amount\": 5200, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": null, \"payment_method\": null}"}
+{"text":"DMart a backpack Rs 399 on UPI","target":"{\"amount\": 399, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": \"DMart\", \"payment_method\": \"upi\"}"}
+{"text":"Rs 662 for a gym membership from 1mg by cash","target":"{\"amount\": 662, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"1mg\", \"payment_method\": \"cash\"}"}
+{"text":"just paid ₹4900 to 1mg using debit card","target":"{\"amount\": 4900, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"1mg\", \"payment_method\": \"card\"}"}
+{"text":"Rs 8,857 for dinner from Starbucks in cash","target":"{\"amount\": 8857, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": \"Starbucks\", \"payment_method\": \"cash\"}"}
+{"text":"just paid Rs 9,251 to PharmEasy via UPI","target":"{\"amount\": 9251, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"PharmEasy\", \"payment_method\": \"upi\"}"}
+{"text":"Uber a bus ticket 926 INR via UPI","target":"{\"amount\": 926, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": \"Uber\", \"payment_method\": \"upi\"}"}
+{"text":"just paid $283 to Indian Oil with my card","target":"{\"amount\": 283, \"currency\": \"USD\", \"category\": \"travel\", \"merchant\": \"Indian Oil\", \"payment_method\": \"card\"}"}
+{"text":"164 INR for a backpack on UPI","target":"{\"amount\": 164, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": null, \"payment_method\": \"upi\"}"}
+{"text":"₹6600 for a concert using debit card","target":"{\"amount\": 6600, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": null, \"payment_method\": \"card\"}"}
+{"text":"Paid BESCOM Rs. 801 for the wifi bill in cash","target":"{\"amount\": 801, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": \"BESCOM\", \"payment_method\": \"cash\"}"}
+{"text":"Spent Rs 644 on petrol at Indian Oil","target":"{\"amount\": 644, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": \"Indian Oil\", \"payment_method\": null}"}
+{"text":"1200 INR for shoes from Decathlon","target":"{\"amount\": 1200, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": \"Decathlon\", \"payment_method\": null}"}
+{"text":"just paid Rs 2,119 to McDonald's on UPI","target":"{\"amount\": 2119, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": \"McDonald's\", \"payment_method\": \"upi\"}"}
+{"text":"Log 2100 rupees - a gym membership, Cult.fit","target":"{\"amount\": 2100, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"Cult.fit\", \"payment_method\": null}"}
+{"text":"just paid ₹5100 to Swiggy via UPI","target":"{\"amount\": 5100, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": \"Swiggy\", \"payment_method\": \"upi\"}"}
+{"text":"Spent 1600 INR on a mobile recharge at BESCOM","target":"{\"amount\": 1600, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": \"BESCOM\", \"payment_method\": null}"}
+{"text":"just paid Rs 5608 to Ajio on UPI","target":"{\"amount\": 5608, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": \"Ajio\", \"payment_method\": \"upi\"}"}
+{"text":"just paid Rs 3,400 to Uber by card","target":"{\"amount\": 3400, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": \"Uber\", \"payment_method\": \"card\"}"}
+{"text":"Bought breakfast from Swiggy for Rs 7,600","target":"{\"amount\": 7600, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": \"Swiggy\", \"payment_method\": null}"}
+{"text":"Rs 7324 for bowling from Spotify","target":"{\"amount\": 7324, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": \"Spotify\", \"payment_method\": null}"}
+{"text":"just paid Rs. 397 to PVR using UPI","target":"{\"amount\": 397, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": \"PVR\", \"payment_method\": \"upi\"}"}
+{"text":"6964 INR for a bus ticket from Ola using UPI","target":"{\"amount\": 6964, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": \"Ola\", \"payment_method\": \"upi\"}"}
+{"text":"Spent Rs 8276 on the gas bill at ACT Fibernet using debit card","target":"{\"amount\": 8276, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": \"ACT Fibernet\", \"payment_method\": \"card\"}"}
+{"text":"Paid BESCOM 193 INR for the gas bill using UPI","target":"{\"amount\": 193, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": \"BESCOM\", \"payment_method\": \"upi\"}"}
+{"text":"Spent Rs 9518 on the wifi bill on UPI","target":"{\"amount\": 9518, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": null, \"payment_method\": \"upi\"}"}
+{"text":"294 dollars for vitamins from PharmEasy","target":"{\"amount\": 294, \"currency\": \"USD\", \"category\": \"health\", \"merchant\": \"PharmEasy\", \"payment_method\": null}"}
+{"text":"7800 rupees for medicines from Cult.fit with my card","target":"{\"amount\": 7800, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"Cult.fit\", \"payment_method\": \"card\"}"}
+{"text":"6000 INR for snacks","target":"{\"amount\": 6000, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": null, \"payment_method\": null}"}
+{"text":"Spent Rs 6700 on bowling at Spotify via UPI","target":"{\"amount\": 6700, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": \"Spotify\", \"payment_method\": \"upi\"}"}
+{"text":"21 dollars for headphones from Ajio by card","target":"{\"amount\": 21, \"currency\": \"USD\", \"category\": \"shopping\", \"merchant\": \"Ajio\", \"payment_method\": \"card\"}"}
+{"text":"Paid DMart 142.08 dollars for a backpack","target":"{\"amount\": 142.08, \"currency\": \"USD\", \"category\": \"shopping\", \"merchant\": \"DMart\", \"payment_method\": null}"}
+{"text":"₹457 for dinner from McDonald's using UPI","target":"{\"amount\": 457, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": \"McDonald's\", \"payment_method\": \"upi\"}"}
+{"text":"Bought a game from INOX for 241 rupees by cash","target":"{\"amount\": 241, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": \"INOX\", \"payment_method\": \"cash\"}"}
+{"text":"just paid Rs 6,000 to IndiGo","target":"{\"amount\": 6000, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": \"IndiGo\", \"payment_method\": null}"}
+{"text":"Log Rs 340 - headphones, Croma","target":"{\"amount\": 340, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": \"Croma\", \"payment_method\": null}"}
+{"text":"Spent USD 39.65 on petrol via UPI","target":"{\"amount\": 39.65, \"currency\": \"USD\", \"category\": \"travel\", \"merchant\": null, \"payment_method\": \"upi\"}"}
+{"text":"just paid 6900 INR to PharmEasy","target":"{\"amount\": 6900, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"PharmEasy\", \"payment_method\": null}"}
+{"text":"Bought a cab ride from IndiGo for Rs. 4100 by cash","target":"{\"amount\": 4100, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": \"IndiGo\", \"payment_method\": \"cash\"}"}
+{"text":"just paid Rs. 6200 to Myntra by card","target":"{\"amount\": 6200, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": \"Myntra\", \"payment_method\": \"card\"}"}
+{"text":"Rs. 943 for a mobile recharge from Airtel by cash","target":"{\"amount\": 943, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": \"Airtel\", \"payment_method\": \"cash\"}"}
+{"text":"Log 5400 INR - a doctor visit, Apollo Pharmacy with my card","target":"{\"amount\": 5400, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"Apollo Pharmacy\", \"payment_method\": \"card\"}"}
+{"text":"Rs 575 for a backpack from DMart with my card","target":"{\"amount\": 575, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": \"DMart\", \"payment_method\": \"card\"}"}
+{"text":"₹554 for petrol from Uber on UPI","target":"{\"amount\": 554, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": \"Uber\", \"payment_method\": \"upi\"}"}
+{"text":"Spent 9142 rupees on an auto ride at Rapido","target":"{\"amount\": 9142, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": \"Rapido\", \"payment_method\": null}"}
+{"text":"Rs 6,906 for breakfast from Haldiram's by card","target":"{\"amount\": 6906, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": \"Haldiram's\", \"payment_method\": \"card\"}"}
+{"text":"McDonald's snacks USD 140 with my card","target":"{\"amount\": 140, \"currency\": \"USD\", \"category\": \"food\", \"merchant\": \"McDonald's\", \"payment_method\": \"card\"}"}
+{"text":"Log ₹551 - lunch, Swiggy by cash","target":"{\"amount\": 551, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": \"Swiggy\", \"payment_method\": \"cash\"}"}
+{"text":"₹4500 for the gas bill on UPI","target":"{\"amount\": 4500, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": null, \"payment_method\": \"upi\"}"}
+{"text":"BESCOM the electricity bill Rs 965 with my card","target":"{\"amount\": 965, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": \"BESCOM\", \"payment_method\": \"card\"}"}
+{"text":"IRCTC a flight Rs. 471 in cash","target":"{\"amount\": 471, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": \"IRCTC\", \"payment_method\": \"cash\"}"}
+{"text":"Rs 5700 for the DTH recharge from BSNL by cash","target":"{\"amount\": 5700, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": \"BSNL\", \"payment_method\": \"cash\"}"}
+{"text":"Spent $259 on shoes at Myntra","target":"{\"amount\": 259, \"currency\": \"USD\", \"category\": \"shopping\", \"merchant\": \"Myntra\", \"payment_method\": null}"}
+{"text":"503 rupees for headphones from Flipkart","target":"{\"amount\": 503, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": \"Flipkart\", \"payment_method\": null}"}
+{"text":"$162.99 for bowling","target":"{\"amount\": 162.99, \"currency\": \"USD\", \"category\": \"entertainment\", \"merchant\": null, \"payment_method\": null}"}
+{"text":"Spent 344 INR on the wifi bill using debit card","target":"{\"amount\": 344, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": null, \"payment_method\": \"card\"}"}
+{"text":"Paid Dominos USD 272 for pizza in cash","target":"{\"amount\": 272, \"currency\": \"USD\", \"category\": \"food\", \"merchant\": \"Dominos\", \"payment_method\": \"cash\"}"}
+{"text":"Paid Rapido ₹6400 for petrol in cash","target":"{\"amount\": 6400, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": \"Rapido\", \"payment_method\": \"cash\"}"}
+{"text":"Spent 5100 INR on a mobile recharge by cash","target":"{\"amount\": 5100, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": null, \"payment_method\": \"cash\"}"}
+{"text":"Spent Rs 6,258 on a blood test","target":"{\"amount\": 6258, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": null, \"payment_method\": null}"}
+{"text":"Rs. 508 for medicines in cash","target":"{\"amount\": 508, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": null, \"payment_method\": \"cash\"}"}
+{"text":"Log Rs. 828 - shoes, Ajio in cash","target":"{\"amount\": 828, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": \"Ajio\", \"payment_method\": \"cash\"}"}
+{"text":"Spent 5100 rupees on the DTH recharge using debit card","target":"{\"amount\": 5100, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": null, \"payment_method\": \"card\"}"}
+{"text":"Log 823 INR - an auto ride, IndiGo on UPI","target":"{\"amount\": 823, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": \"IndiGo\", \"payment_method\": \"upi\"}"}
+{"text":"Swiggy breakfast USD 98.71 by cash","target":"{\"amount\": 98.71, \"currency\": \"USD\", \"category\": \"food\", \"merchant\": \"Swiggy\", \"payment_method\": \"cash\"}"}
+{"text":"Spent Rs 651 on bowling at INOX using UPI","target":"{\"amount\": 651, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": \"INOX\", \"payment_method\": \"upi\"}"}
+{"text":"Bought a train ticket from Indian Oil for 5500 INR by card","target":"{\"amount\": 5500, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": \"Indian Oil\", \"payment_method\": \"card\"}"}
+{"text":"Log Rs. 6500 - snacks, Swiggy","target":"{\"amount\": 6500, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": \"Swiggy\", \"payment_method\": null}"}
+{"text":"Rs 6400 for dinner from Zomato on UPI","target":"{\"amount\": 6400, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": \"Zomato\", \"payment_method\": \"upi\"}"}
+{"text":"Bought a train ticket from Indian Oil for ₹1800 with my card","target":"{\"amount\": 1800, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": \"Indian Oil\", \"payment_method\": \"card\"}"}
+{"text":"₹1000 for a doctor visit on UPI","target":"{\"amount\": 1000, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": null, \"payment_method\": \"upi\"}"}
+{"text":"RedBus a bus ticket $231.14 in cash","target":"{\"amount\": 231.14, \"currency\": \"USD\", \"category\": \"travel\", \"merchant\": \"RedBus\", \"payment_method\": \"cash\"}"}
+{"text":"Paid MedPlus Rs 3500 for a blood test in cash","target":"{\"amount\": 3500, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"MedPlus\", \"payment_method\": \"cash\"}"}
+{"text":"Paid INOX 7558 rupees for a game","target":"{\"amount\": 7558, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": \"INOX\", \"payment_method\": null}"}
+{"text":"Ola a flight USD 118.42 in cash","target":"{\"amount\": 118.42, \"currency\": \"USD\", \"category\": \"travel\", \"merchant\": \"Ola\", \"payment_method\": \"cash\"}"}
+{"text":"BESCOM the DTH recharge 805 rupees on UPI","target":"{\"amount\": 805, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": \"BESCOM\", \"payment_method\": \"upi\"}"}
+{"text":"Paid Netmeds Rs. 291 for medicines by cash","target":"{\"amount\": 291, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"Netmeds\", \"payment_method\": \"cash\"}"}
+{"text":"4817 rupees for the gas bill from BSNL by cash","target":"{\"amount\": 4817, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": \"BSNL\", \"payment_method\": \"cash\"}"}
+{"text":"Paid INOX 6800 rupees for movie tickets by cash","target":"{\"amount\": 6800, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": \"INOX\", \"payment_method\": \"cash\"}"}
+{"text":"Spent Rs 2100 on biryani at Haldiram's via UPI","target":"{\"amount\": 2100, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": \"Haldiram's\", \"payment_method\": \"upi\"}"}
+{"text":"₹5068 for a backpack by card","target":"{\"amount\": 5068, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": null, \"payment_method\": \"card\"}"}
+{"text":"Log $146 - shoes, Decathlon with my card","target":"{\"amount\": 146, \"currency\": \"USD\", \"category\": \"shopping\", \"merchant\": \"Decathlon\", \"payment_method\": \"card\"}"}
+{"text":"Flipkart a t-shirt USD 245 via UPI","target":"{\"amount\": 245, \"currency\": \"USD\", \"category\": \"shopping\", \"merchant\": \"Flipkart\", \"payment_method\": \"upi\"}"}
+{"text":"Spent Rs. 829 on a flight at IRCTC on UPI","target":"{\"amount\": 829, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": \"IRCTC\", \"payment_method\": \"upi\"}"}
+{"text":"Paid Swiggy 8595 rupees for coffee","target":"{\"amount\": 8595, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": \"Swiggy\", \"payment_method\": null}"}
+{"text":"Spent 132 INR on petrol using UPI","target":"{\"amount\": 132, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": null, \"payment_method\": \"upi\"}"}
+{"text":"Log 292 rupees - a t-shirt, Myntra by cash","target":"{\"amount\": 292, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": \"Myntra\", \"payment_method\": \"cash\"}"}
+{"text":"just paid Rs 137 to McDonald's in cash","target":"{\"amount\": 137, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": \"McDonald's\", \"payment_method\": \"cash\"}"}
+{"text":"Spent Rs 49 on movie tickets at Netflix in cash","target":"{\"amount\": 49, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": \"Netflix\", \"payment_method\": \"cash\"}"}
+{"text":"7600 rupees for coffee from Dominos by card","target":"{\"amount\": 7600, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": \"Dominos\", \"payment_method\": \"card\"}"}
+{"text":"just paid ₹9685 to Myntra","target":"{\"amount\": 9685, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": \"Myntra\", \"payment_method\": null}"}
+{"text":"Spent Rs 156 on a train ticket by cash","target":"{\"amount\": 156, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": null, \"payment_method\": \"cash\"}"}
+{"text":"Amazon headphones 765 INR in cash","target":"{\"amount\": 765, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": \"Amazon\", \"payment_method\": \"cash\"}"}
+{"text":"Spotify bowling ₹3700","target":"{\"amount\": 3700, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": \"Spotify\", \"payment_method\": null}"}
+{"text":"Log Rs. 778 - dinner, Zomato in cash","target":"{\"amount\": 778, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": \"Zomato\", \"payment_method\": \"cash\"}"}
+{"text":"Dominos dinner 241 dollars","target":"{\"amount\": 241, \"currency\": \"USD\", \"category\": \"food\", \"merchant\": \"Dominos\", \"payment_method\": null}"}
+{"text":"Spent ₹977 on petrol in cash","target":"{\"amount\": 977, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": null, \"payment_method\": \"cash\"}"}
+{"text":"Spent ₹6500 on the gas bill via UPI","target":"{\"amount\": 6500, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": null, \"payment_method\": \"upi\"}"}
+{"text":"Bought a game from Netflix for 3963 rupees using UPI","target":"{\"amount\": 3963, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": \"Netflix\", \"payment_method\": \"upi\"}"}
+{"text":"Spent 229 dollars on bowling by card","target":"{\"amount\": 229, \"currency\": \"USD\", \"category\": \"entertainment\", \"merchant\": null, \"payment_method\": \"card\"}"}
+{"text":"just paid $253.25 to Starbucks using debit card","target":"{\"amount\": 253.25, \"currency\": \"USD\", \"category\": \"food\", \"merchant\": \"Starbucks\", \"payment_method\": \"card\"}"}
+{"text":"Log ₹269 - a gym membership, PharmEasy using UPI","target":"{\"amount\": 269, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"PharmEasy\", \"payment_method\": \"upi\"}"}
+{"text":"Paid Dominos Rs. 3300 for breakfast in cash","target":"{\"amount\": 3300, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": \"Dominos\", \"payment_method\": \"cash\"}"}
+{"text":"Spent 2683 INR on the electricity bill","target":"{\"amount\": 2683, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": null, \"payment_method\": null}"}
+{"text":"Spent 13.81 dollars on vitamins at Apollo Pharmacy using debit card","target":"{\"amount\": 13.81, \"currency\": \"USD\", \"category\": \"health\", \"merchant\": \"Apollo Pharmacy\", \"payment_method\": \"card\"}"}
+{"text":"just paid Rs. 4000 to Apollo Pharmacy in cash","target":"{\"amount\": 4000, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"Apollo Pharmacy\", \"payment_method\": \"cash\"}"}
+{"text":"Ola a bus ticket 257 rupees by card","target":"{\"amount\": 257, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": \"Ola\", \"payment_method\": \"card\"}"}
+{"text":"Rs 6400 for movie tickets","target":"{\"amount\": 6400, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": null, \"payment_method\": null}"}
+{"text":"Netflix a game Rs. 4400 in cash","target":"{\"amount\": 4400, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": \"Netflix\", \"payment_method\": \"cash\"}"}
+{"text":"Ola an auto ride Rs. 9253 by card","target":"{\"amount\": 9253, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": \"Ola\", \"payment_method\": \"card\"}"}
+{"text":"Log 6000 INR - the DTH recharge, BESCOM by card","target":"{\"amount\": 6000, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": \"BESCOM\", \"payment_method\": \"card\"}"}
+{"text":"Rs 5313 for a gym membership","target":"{\"amount\": 5313, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": null, \"payment_method\": null}"}
+{"text":"Log $247 - a game, Netflix with my card","target":"{\"amount\": 247, \"currency\": \"USD\", \"category\": \"entertainment\", \"merchant\": \"Netflix\", \"payment_method\": \"card\"}"}
+{"text":"166.11 dollars for lunch from Swiggy in cash","target":"{\"amount\": 166.11, \"currency\": \"USD\", \"category\": \"food\", \"merchant\": \"Swiggy\", \"payment_method\": \"cash\"}"}
+{"text":"Spent 6828 rupees on a subscription","target":"{\"amount\": 6828, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": null, \"payment_method\": null}"}
+{"text":"Croma a phone cover Rs. 8231 via UPI","target":"{\"amount\": 8231, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": \"Croma\", \"payment_method\": \"upi\"}"}
+{"text":"Cult.fit vitamins 1600 rupees","target":"{\"amount\": 1600, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"Cult.fit\", \"payment_method\": null}"}
+{"text":"Rs 956 for groceries from Flipkart","target":"{\"amount\": 956, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": \"Flipkart\", \"payment_method\": null}"}
+{"text":"Rs 3000 for a game using debit card","target":"{\"amount\": 3000, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": null, \"payment_method\": \"card\"}"}
+{"text":"Spent Rs 818 on a mobile recharge by cash","target":"{\"amount\": 818, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": null, \"payment_method\": \"cash\"}"}
+{"text":"IRCTC petrol 6400 INR using UPI","target":"{\"amount\": 6400, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": \"IRCTC\", \"payment_method\": \"upi\"}"}
+{"text":"Rs 501 for breakfast from KFC in cash","target":"{\"amount\": 501, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": \"KFC\", \"payment_method\": \"cash\"}"}
+{"text":"Spent Rs. 5445 on a cab ride on UPI","target":"{\"amount\": 5445, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": null, \"payment_method\": \"upi\"}"}
+{"text":"Practo medicines Rs 3,202 by cash","target":"{\"amount\": 3202, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"Practo\", \"payment_method\": \"cash\"}"}
+{"text":"just paid Rs 1,200 to Ajio by cash","target":"{\"amount\": 1200, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": \"Ajio\", \"payment_method\": \"cash\"}"}
+{"text":"Spent 2200 rupees on vitamins at Cult.fit in cash","target":"{\"amount\": 2200, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"Cult.fit\", \"payment_method\": \"cash\"}"}
+{"text":"Steam a game 199 INR on UPI","target":"{\"amount\": 199, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": \"Steam\", \"payment_method\": \"upi\"}"}
+{"text":"5199 INR for vitamins from Netmeds by cash","target":"{\"amount\": 5199, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"Netmeds\", \"payment_method\": \"cash\"}"}
+{"text":"₹9246 for the gas bill from BESCOM by cash","target":"{\"amount\": 9246, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": \"BESCOM\", \"payment_method\": \"cash\"}"}
+{"text":"Spent ₹3000 on the electricity bill at BSNL using UPI","target":"{\"amount\": 3000, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": \"BSNL\", \"payment_method\": \"upi\"}"}
+{"text":"Paid McDonald's 497 rupees for snacks with my card","target":"{\"amount\": 497, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": \"McDonald's\", \"payment_method\": \"card\"}"}
+{"text":"Spent 64 rupees on snacks at Haldiram's using UPI","target":"{\"amount\": 64, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": \"Haldiram's\", \"payment_method\": \"upi\"}"}
+{"text":"Bought the DTH recharge from Jio for 6771 INR","target":"{\"amount\": 6771, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": \"Jio\", \"payment_method\": null}"}
+{"text":"Rs. 1248 for medicines from MedPlus using UPI","target":"{\"amount\": 1248, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"MedPlus\", \"payment_method\": \"upi\"}"}
+{"text":"Spent ₹4200 on biryani at Starbucks in cash","target":"{\"amount\": 4200, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": \"Starbucks\", \"payment_method\": \"cash\"}"}
+{"text":"6997 rupees for a blood test from Cult.fit","target":"{\"amount\": 6997, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"Cult.fit\", \"payment_method\": null}"}
+{"text":"$78 for vitamins from MedPlus on UPI","target":"{\"amount\": 78, \"currency\": \"USD\", \"category\": \"health\", \"merchant\": \"MedPlus\", \"payment_method\": \"upi\"}"}
+{"text":"Spent 5500 INR on a bus ticket at Ola via UPI","target":"{\"amount\": 5500, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": \"Ola\", \"payment_method\": \"upi\"}"}
+{"text":"Log Rs 754 - pizza, Swiggy with my card","target":"{\"amount\": 754, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": \"Swiggy\", \"payment_method\": \"card\"}"}
+{"text":"Log 149 dollars - shoes, Ajio","target":"{\"amount\": 149, \"currency\": \"USD\", \"category\": \"shopping\", \"merchant\": \"Ajio\", \"payment_method\": null}"}
+{"text":"Log 456 INR - a concert, PVR","target":"{\"amount\": 456, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": \"PVR\", \"payment_method\": null}"}
+{"text":"Bought a cab ride from Rapido for Rs 6690 on UPI","target":"{\"amount\": 6690, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": \"Rapido\", \"payment_method\": \"upi\"}"}
+{"text":"Log Rs 7,800 - a train ticket, IRCTC in cash","target":"{\"amount\": 7800, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": \"IRCTC\", \"payment_method\": \"cash\"}"}
+{"text":"Bought a backpack from Amazon for ₹397 by cash","target":"{\"amount\": 397, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": \"Amazon\", \"payment_method\": \"cash\"}"}
+{"text":"Myntra shoes 7595 INR via UPI","target":"{\"amount\": 7595, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": \"Myntra\", \"payment_method\": \"upi\"}"}
+{"text":"Bought a mobile recharge from ACT Fibernet for 374 INR in cash","target":"{\"amount\": 374, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": \"ACT Fibernet\", \"payment_method\": \"cash\"}"}
+{"text":"Spent Rs 453 on bowling","target":"{\"amount\": 453, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": null, \"payment_method\": null}"}
+{"text":"Spent Rs 7,300 on a bus ticket using debit card","target":"{\"amount\": 7300, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": null, \"payment_method\": \"card\"}"}
+{"text":"Log 901 INR - a flight, IndiGo on UPI","target":"{\"amount\": 901, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": \"IndiGo\", \"payment_method\": \"upi\"}"}
+{"text":"348 INR for the wifi bill from Tata Power on UPI","target":"{\"amount\": 348, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": \"Tata Power\", \"payment_method\": \"upi\"}"}
+{"text":"Log Rs 5,200 - the gas bill, BESCOM","target":"{\"amount\": 5200, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": \"BESCOM\", \"payment_method\": null}"}
+{"text":"Spent 936 rupees on vitamins by card","target":"{\"amount\": 936, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": null, \"payment_method\": \"card\"}"}
+{"text":"Log 131 INR - a gym membership, Apollo Pharmacy using UPI","target":"{\"amount\": 131, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"Apollo Pharmacy\", \"payment_method\": \"upi\"}"}
+{"text":"Hotstar a concert 105 rupees","target":"{\"amount\": 105, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": \"Hotstar\", \"payment_method\": null}"}
+{"text":"Log 3600 rupees - a blood test, Netmeds with my card","target":"{\"amount\": 3600, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"Netmeds\", \"payment_method\": \"card\"}"}
+{"text":"2400 rupees for a mobile recharge","target":"{\"amount\": 2400, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": null, \"payment_method\": null}"}
+{"text":"Decathlon headphones Rs 9,378 by cash","target":"{\"amount\": 9378, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": \"Decathlon\", \"payment_method\": \"cash\"}"}
+{"text":"Rs 2,183 for a blood test from Netmeds","target":"{\"amount\": 2183, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"Netmeds\", \"payment_method\": null}"}
+{"text":"Log 13 dollars - a bus ticket, Indian Oil using debit card","target":"{\"amount\": 13, \"currency\": \"USD\", \"category\": \"travel\", \"merchant\": \"Indian Oil\", \"payment_method\": \"card\"}"}
+{"text":"MedPlus a doctor visit USD 237.34 by card","target":"{\"amount\": 237.34, \"currency\": \"USD\", \"category\": \"health\", \"merchant\": \"MedPlus\", \"payment_method\": \"card\"}"}
+{"text":"Spent ₹30 on a cab ride at RedBus","target":"{\"amount\": 30, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": \"RedBus\", \"payment_method\": null}"}
+{"text":"Rs. 7179 for a phone cover from Decathlon in cash","target":"{\"amount\": 7179, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": \"Decathlon\", \"payment_method\": \"cash\"}"}
+{"text":"Spent Rs 1,874 on pizza at Haldiram's","target":"{\"amount\": 1874, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": \"Haldiram's\", \"payment_method\": null}"}
+{"text":"USD 137.22 for petrol from Ola using UPI","target":"{\"amount\": 137.22, \"currency\": \"USD\", \"category\": \"travel\", \"merchant\": \"Ola\", \"payment_method\": \"upi\"}"}
+{"text":"Flipkart a phone cover 3410 INR via UPI","target":"{\"amount\": 3410, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": \"Flipkart\", \"payment_method\": \"upi\"}"}
+{"text":"Rs 9799 for groceries in cash","target":"{\"amount\": 9799, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": null, \"payment_method\": \"cash\"}"}
+{"text":"just paid Rs 1400 to Ola via UPI","target":"{\"amount\": 1400, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": \"Ola\", \"payment_method\": \"upi\"}"}
+{"text":"Amazon groceries Rs. 2900 via UPI","target":"{\"amount\": 2900, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": \"Amazon\", \"payment_method\": \"upi\"}"}
+{"text":"Bought a concert from BookMyShow for ₹8918 using debit card","target":"{\"amount\": 8918, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": \"BookMyShow\", \"payment_method\": \"card\"}"}
+{"text":"Spent ₹7300 on the wifi bill at Airtel using UPI","target":"{\"amount\": 7300, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": \"Airtel\", \"payment_method\": \"upi\"}"}
+{"text":"Spent Rs 6500 on biryani","target":"{\"amount\": 6500, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": null, \"payment_method\": null}"}
+{"text":"BESCOM the gas bill Rs 3,000","target":"{\"amount\": 3000, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": \"BESCOM\", \"payment_method\": null}"}
+{"text":"Swiggy dinner Rs. 4755","target":"{\"amount\": 4755, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": \"Swiggy\", \"payment_method\": null}"}
+{"text":"Rs 6294 for a blood test from 1mg","target":"{\"amount\": 6294, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"1mg\", \"payment_method\": null}"}
+{"text":"Spent 208 rupees on a gym membership with my card","target":"{\"amount\": 208, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": null, \"payment_method\": \"card\"}"}
+{"text":"Spent 3700 rupees on a concert at PVR with my card","target":"{\"amount\": 3700, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": \"PVR\", \"payment_method\": \"card\"}"}
+{"text":"BookMyShow a game Rs 153","target":"{\"amount\": 153, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": \"BookMyShow\", \"payment_method\": null}"}
+{"text":"Spent Rs 85 on a concert in cash","target":"{\"amount\": 85, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": null, \"payment_method\": \"cash\"}"}
+{"text":"Rs 5,700 for bowling from Spotify using UPI","target":"{\"amount\": 5700, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": \"Spotify\", \"payment_method\": \"upi\"}"}
+{"text":"BSNL the gas bill Rs 3,066 by cash","target":"{\"amount\": 3066, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": \"BSNL\", \"payment_method\": \"cash\"}"}
+{"text":"Bought groceries from DMart for 6448 rupees with my card","target":"{\"amount\": 6448, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": \"DMart\", \"payment_method\": \"card\"}"}
+{"text":"Spent Rs 6900 on bowling by card","target":"{\"amount\": 6900, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": null, \"payment_method\": \"card\"}"}
+{"text":"Rs 2,600 for a mobile recharge in cash","target":"{\"amount\": 2600, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": null, \"payment_method\": \"cash\"}"}
+{"text":"Rs 9064 for the electricity bill by cash","target":"{\"amount\": 9064, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": null, \"payment_method\": \"cash\"}"}
+{"text":"Log 6800 rupees - a t-shirt, Decathlon using debit card","target":"{\"amount\": 6800, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": \"Decathlon\", \"payment_method\": \"card\"}"}
+{"text":"Spent ₹1200 on bowling at Hotstar","target":"{\"amount\": 1200, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": \"Hotstar\", \"payment_method\": null}"}
+{"text":"Spent Rs 4,891 on a mobile recharge at Vodafone Idea in cash","target":"{\"amount\": 4891, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": \"Vodafone Idea\", \"payment_method\": \"cash\"}"}
+{"text":"just paid Rs 8187 to Apollo Pharmacy by card","target":"{\"amount\": 8187, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"Apollo Pharmacy\", \"payment_method\": \"card\"}"}
+{"text":"Rs. 115 for groceries","target":"{\"amount\": 115, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": null, \"payment_method\": null}"}
+{"text":"Spent ₹512 on an auto ride at IndiGo using debit card","target":"{\"amount\": 512, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": \"IndiGo\", \"payment_method\": \"card\"}"}
+{"text":"Log 843 INR - medicines, Practo using UPI","target":"{\"amount\": 843, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"Practo\", \"payment_method\": \"upi\"}"}
+{"text":"just paid Rs 8,473 to Swiggy by cash","target":"{\"amount\": 8473, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": \"Swiggy\", \"payment_method\": \"cash\"}"}
+{"text":"Spent Rs 6,237 on a concert at Steam via UPI","target":"{\"amount\": 6237, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": \"Steam\", \"payment_method\": \"upi\"}"}
+{"text":"Spent 107 INR on the wifi bill using UPI","target":"{\"amount\": 107, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": null, \"payment_method\": \"upi\"}"}
+{"text":"Spent Rs 6,024 on a phone cover at Amazon by card","target":"{\"amount\": 6024, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": \"Amazon\", \"payment_method\": \"card\"}"}
+{"text":"just paid Rs. 1304 to Rapido using debit card","target":"{\"amount\": 1304, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": \"Rapido\", \"payment_method\": \"card\"}"}
+{"text":"Spent Rs 2078 on a blood test at MedPlus with my card","target":"{\"amount\": 2078, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"MedPlus\", \"payment_method\": \"card\"}"}
+{"text":"Log Rs. 530 - a t-shirt, Ajio on UPI","target":"{\"amount\": 530, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": \"Ajio\", \"payment_method\": \"upi\"}"}
+{"text":"Rs 600 for a flight by card","target":"{\"amount\": 600, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": null, \"payment_method\": \"card\"}"}
+{"text":"Bought biryani from Haldiram's for Rs 2,900 using debit card","target":"{\"amount\": 2900, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": \"Haldiram's\", \"payment_method\": \"card\"}"}
+{"text":"Bought groceries from Flipkart for USD 266 with my card","target":"{\"amount\": 266, \"currency\": \"USD\", \"category\": \"shopping\", \"merchant\": \"Flipkart\", \"payment_method\": \"card\"}"}
+{"text":"just paid Rs 1,100 to Amazon","target":"{\"amount\": 1100, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": \"Amazon\", \"payment_method\": null}"}
+{"text":"Rs 6700 for groceries from DMart","target":"{\"amount\": 6700, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": \"DMart\", \"payment_method\": null}"}
+{"text":"Log 74 rupees - snacks, Zomato by cash","target":"{\"amount\": 74, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": \"Zomato\", \"payment_method\": \"cash\"}"}
+{"text":"Bought a doctor visit from 1mg for Rs 4,645 using UPI","target":"{\"amount\": 4645, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"1mg\", \"payment_method\": \"upi\"}"}
+{"text":"Paid Rapido 108 INR for a bus ticket on UPI","target":"{\"amount\": 108, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": \"Rapido\", \"payment_method\": \"upi\"}"}
+{"text":"Paid Practo Rs 3967 for a blood test by cash","target":"{\"amount\": 3967, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"Practo\", \"payment_method\": \"cash\"}"}
+{"text":"Paid Netflix ₹1800 for bowling","target":"{\"amount\": 1800, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": \"Netflix\", \"payment_method\": null}"}
+{"text":"Decathlon headphones Rs 1,900 on UPI","target":"{\"amount\": 1900, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": \"Decathlon\", \"payment_method\": \"upi\"}"}
+{"text":"Paid DMart ₹7731 for a phone cover with my card","target":"{\"amount\": 7731, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": \"DMart\", \"payment_method\": \"card\"}"}
+{"text":"Spent Rs 1,700 on bowling at INOX in cash","target":"{\"amount\": 1700, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": \"INOX\", \"payment_method\": \"cash\"}"}
+{"text":"Bought the electricity bill from Tata Power for Rs. 6895 on UPI","target":"{\"amount\": 6895, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": \"Tata Power\", \"payment_method\": \"upi\"}"}
+{"text":"INOX bowling 7500 rupees","target":"{\"amount\": 7500, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": \"INOX\", \"payment_method\": null}"}
+{"text":"just paid Rs 83 to Cult.fit using UPI","target":"{\"amount\": 83, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"Cult.fit\", \"payment_method\": \"upi\"}"}
+{"text":"Spotify movie tickets 823 INR in cash","target":"{\"amount\": 823, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": \"Spotify\", \"payment_method\": \"cash\"}"}
+{"text":"₹389 for coffee from Haldiram's via UPI","target":"{\"amount\": 389, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": \"Haldiram's\", \"payment_method\": \"upi\"}"}
+{"text":"203 dollars for biryani via UPI","target":"{\"amount\": 203, \"currency\": \"USD\", \"category\": \"food\", \"merchant\": null, \"payment_method\": \"upi\"}"}
+{"text":"MedPlus medicines Rs. 2964 in cash","target":"{\"amount\": 2964, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"MedPlus\", \"payment_method\": \"cash\"}"}
+{"text":"Paid RedBus $142 for a flight by card","target":"{\"amount\": 142, \"currency\": \"USD\", \"category\": \"travel\", \"merchant\": \"RedBus\", \"payment_method\": \"card\"}"}
+{"text":"Spent Rs. 4447 on shoes","target":"{\"amount\": 4447, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": null, \"payment_method\": null}"}
+{"text":"Spent Rs 4356 on vitamins at Apollo Pharmacy via UPI","target":"{\"amount\": 4356, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"Apollo Pharmacy\", \"payment_method\": \"upi\"}"}
+{"text":"Practo a gym membership 765 rupees","target":"{\"amount\": 765, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"Practo\", \"payment_method\": null}"}
+{"text":"Spent Rs 2,793 on headphones in cash","target":"{\"amount\": 2793, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": null, \"payment_method\": \"cash\"}"}
+{"text":"Bought the wifi bill from Tata Power for 219 dollars","target":"{\"amount\": 219, \"currency\": \"USD\", \"category\": \"bills\", \"merchant\": \"Tata Power\", \"payment_method\": null}"}
+{"text":"USD 155 for bowling from Steam in cash","target":"{\"amount\": 155, \"currency\": \"USD\", \"category\": \"entertainment\", \"merchant\": \"Steam\", \"payment_method\": \"cash\"}"}
+{"text":"Spent Rs. 337 on vitamins by cash","target":"{\"amount\": 337, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": null, \"payment_method\": \"cash\"}"}
+{"text":"Croma headphones 4331 INR","target":"{\"amount\": 4331, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": \"Croma\", \"payment_method\": null}"}
+{"text":"Myntra a phone cover Rs 1,800","target":"{\"amount\": 1800, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": \"Myntra\", \"payment_method\": null}"}
+{"text":"Rs 3900 for groceries with my card","target":"{\"amount\": 3900, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": null, \"payment_method\": \"card\"}"}
+{"text":"Bought a doctor visit from Practo for 710 rupees with my card","target":"{\"amount\": 710, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"Practo\", \"payment_method\": \"card\"}"}
+{"text":"BSNL the electricity bill Rs 4700 by cash","target":"{\"amount\": 4700, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": \"BSNL\", \"payment_method\": \"cash\"}"}
+{"text":"MedPlus vitamins Rs 2002 with my card","target":"{\"amount\": 2002, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"MedPlus\", \"payment_method\": \"card\"}"}
+{"text":"Airtel the wifi bill 387 rupees via UPI","target":"{\"amount\": 387, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": \"Airtel\", \"payment_method\": \"upi\"}"}
+{"text":"4500 rupees for a phone cover on UPI","target":"{\"amount\": 4500, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": null, \"payment_method\": \"upi\"}"}
+{"text":"7000 rupees for coffee from Zomato by cash","target":"{\"amount\": 7000, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": \"Zomato\", \"payment_method\": \"cash\"}"}
+{"text":"Spent 1300 INR on vitamins at Practo in cash","target":"{\"amount\": 1300, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"Practo\", \"payment_method\": \"cash\"}"}
+{"text":"Swiggy breakfast 5500 INR","target":"{\"amount\": 5500, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": \"Swiggy\", \"payment_method\": null}"}
+{"text":"Spent Rs. 276 on petrol at Ola","target":"{\"amount\": 276, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": \"Ola\", \"payment_method\": null}"}
+{"text":"Log $270.07 - movie tickets, Steam by card","target":"{\"amount\": 270.07, \"currency\": \"USD\", \"category\": \"entertainment\", \"merchant\": \"Steam\", \"payment_method\": \"card\"}"}
+{"text":"just paid Rs 4334 to Airtel using UPI","target":"{\"amount\": 4334, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": \"Airtel\", \"payment_method\": \"upi\"}"}
+{"text":"Bought pizza from Starbucks for 9039 INR","target":"{\"amount\": 9039, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": \"Starbucks\", \"payment_method\": null}"}
+{"text":"just paid Rs 3856 to ACT Fibernet with my card","target":"{\"amount\": 3856, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": \"ACT Fibernet\", \"payment_method\": \"card\"}"}
+{"text":"157 INR for petrol from Ola by cash","target":"{\"amount\": 157, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": \"Ola\", \"payment_method\": \"cash\"}"}
+{"text":"ACT Fibernet the wifi bill Rs. 9257","target":"{\"amount\": 9257, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": \"ACT Fibernet\", \"payment_method\": null}"}
+{"text":"Rs 5494 for a mobile recharge from Vodafone Idea by card","target":"{\"amount\": 5494, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": \"Vodafone Idea\", \"payment_method\": \"card\"}"}
+{"text":"Spent Rs 6693 on the wifi bill using debit card","target":"{\"amount\": 6693, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": null, \"payment_method\": \"card\"}"}
+{"text":"Spent 7445 rupees on movie tickets in cash","target":"{\"amount\": 7445, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": null, \"payment_method\": \"cash\"}"}
+{"text":"Paid Netmeds 258.8 dollars for a gym membership in cash","target":"{\"amount\": 258.8, \"currency\": \"USD\", \"category\": \"health\", \"merchant\": \"Netmeds\", \"payment_method\": \"cash\"}"}
+{"text":"Log Rs. 225 - a blood test, PharmEasy using UPI","target":"{\"amount\": 225, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"PharmEasy\", \"payment_method\": \"upi\"}"}
+{"text":"1700 rupees for a phone cover with my card","target":"{\"amount\": 1700, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": null, \"payment_method\": \"card\"}"}
+{"text":"Spent ₹6358 on a train ticket on UPI","target":"{\"amount\": 6358, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": null, \"payment_method\": \"upi\"}"}
+{"text":"Spent 802 rupees on a mobile recharge at Airtel by card","target":"{\"amount\": 802, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": \"Airtel\", \"payment_method\": \"card\"}"}
+{"text":"Spent Rs 1900 on a phone cover in cash","target":"{\"amount\": 1900, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": null, \"payment_method\": \"cash\"}"}
+{"text":"Bought a flight from IndiGo for Rs 964 on UPI","target":"{\"amount\": 964, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": \"IndiGo\", \"payment_method\": \"upi\"}"}
+{"text":"Paid Dominos ₹865 for snacks using UPI","target":"{\"amount\": 865, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": \"Dominos\", \"payment_method\": \"upi\"}"}
+{"text":"Paid BookMyShow Rs. 3600 for a game in cash","target":"{\"amount\": 3600, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": \"BookMyShow\", \"payment_method\": \"cash\"}"}
+{"text":"Spent 500 INR on a doctor visit at MedPlus","target":"{\"amount\": 500, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"MedPlus\", \"payment_method\": null}"}
+{"text":"Rs 4253 for movie tickets via UPI","target":"{\"amount\": 4253, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": null, \"payment_method\": \"upi\"}"}
+{"text":"Paid Rapido 15.66 dollars for a bus ticket on UPI","target":"{\"amount\": 15.66, \"currency\": \"USD\", \"category\": \"travel\", \"merchant\": \"Rapido\", \"payment_method\": \"upi\"}"}
+{"text":"Spent ₹629 on a mobile recharge using debit card","target":"{\"amount\": 629, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": null, \"payment_method\": \"card\"}"}
+{"text":"Paid Steam Rs 445 for a game in cash","target":"{\"amount\": 445, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": \"Steam\", \"payment_method\": \"cash\"}"}
+{"text":"Log ₹817 - a flight, Indian Oil using debit card","target":"{\"amount\": 817, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": \"Indian Oil\", \"payment_method\": \"card\"}"}
+{"text":"Paid Uber Rs 2,900 for a cab ride","target":"{\"amount\": 2900, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": \"Uber\", \"payment_method\": null}"}
+{"text":"just paid 54.01 dollars to Uber using debit card","target":"{\"amount\": 54.01, \"currency\": \"USD\", \"category\": \"travel\", \"merchant\": \"Uber\", \"payment_method\": \"card\"}"}
+{"text":"just paid USD 256.31 to PVR via UPI","target":"{\"amount\": 256.31, \"currency\": \"USD\", \"category\": \"entertainment\", \"merchant\": \"PVR\", \"payment_method\": \"upi\"}"}
+{"text":"just paid Rs 2,400 to MedPlus using UPI","target":"{\"amount\": 2400, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"MedPlus\", \"payment_method\": \"upi\"}"}
+{"text":"Log 8466 INR - the electricity bill, Airtel with my card","target":"{\"amount\": 8466, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": \"Airtel\", \"payment_method\": \"card\"}"}
+{"text":"Log 2400 INR - the wifi bill, Jio","target":"{\"amount\": 2400, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": \"Jio\", \"payment_method\": null}"}
+{"text":"4500 rupees for a concert from PVR","target":"{\"amount\": 4500, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": \"PVR\", \"payment_method\": null}"}
+{"text":"USD 125.22 for a phone cover","target":"{\"amount\": 125.22, \"currency\": \"USD\", \"category\": \"shopping\", \"merchant\": null, \"payment_method\": null}"}
+{"text":"Swiggy lunch Rs. 4700 by cash","target":"{\"amount\": 4700, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": \"Swiggy\", \"payment_method\": \"cash\"}"}
+{"text":"Spent ₹3295 on a phone cover at Myntra in cash","target":"{\"amount\": 3295, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": \"Myntra\", \"payment_method\": \"cash\"}"}
+{"text":"2299 INR for lunch from Dominos","target":"{\"amount\": 2299, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": \"Dominos\", \"payment_method\": null}"}
+{"text":"just paid ₹7655 to Vodafone Idea on UPI","target":"{\"amount\": 7655, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": \"Vodafone Idea\", \"payment_method\": \"upi\"}"}
+{"text":"Paid Spotify USD 191 for a concert via UPI","target":"{\"amount\": 191, \"currency\": \"USD\", \"category\": \"entertainment\", \"merchant\": \"Spotify\", \"payment_method\": \"upi\"}"}
+{"text":"₹6111 for a flight from IRCTC on UPI","target":"{\"amount\": 6111, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": \"IRCTC\", \"payment_method\": \"upi\"}"}
+{"text":"DMart groceries Rs. 397 using debit card","target":"{\"amount\": 397, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": \"DMart\", \"payment_method\": \"card\"}"}
+{"text":"Log ₹5819 - a blood test, Practo","target":"{\"amount\": 5819, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"Practo\", \"payment_method\": null}"}
+{"text":"Spent 195.54 dollars on a cab ride with my card","target":"{\"amount\": 195.54, \"currency\": \"USD\", \"category\": \"travel\", \"merchant\": null, \"payment_method\": \"card\"}"}
+{"text":"₹7881 for a gym membership","target":"{\"amount\": 7881, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": null, \"payment_method\": null}"}
+{"text":"Spent Rs. 2000 on a cab ride at Indian Oil","target":"{\"amount\": 2000, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": \"Indian Oil\", \"payment_method\": null}"}
+{"text":"Log 4374 rupees - the electricity bill, Tata Power","target":"{\"amount\": 4374, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": \"Tata Power\", \"payment_method\": null}"}
+{"text":"Rs 838 for shoes from DMart","target":"{\"amount\": 838, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": \"DMart\", \"payment_method\": null}"}
+{"text":"Rapido a train ticket 284 rupees","target":"{\"amount\": 284, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": \"Rapido\", \"payment_method\": null}"}
+{"text":"just paid ₹4800 to McDonald's","target":"{\"amount\": 4800, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": \"McDonald's\", \"payment_method\": null}"}
+{"text":"Log 4330 rupees - a gym membership, Apollo Pharmacy by cash","target":"{\"amount\": 4330, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"Apollo Pharmacy\", \"payment_method\": \"cash\"}"}
+{"text":"Paid DMart 7900 rupees for shoes by card","target":"{\"amount\": 7900, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": \"DMart\", \"payment_method\": \"card\"}"}
+{"text":"Spent ₹8647 on a mobile recharge with my card","target":"{\"amount\": 8647, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": null, \"payment_method\": \"card\"}"}
+{"text":"Spent 946 rupees on petrol using debit card","target":"{\"amount\": 946, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": null, \"payment_method\": \"card\"}"}
+{"text":"Log 7000 rupees - a mobile recharge, Vodafone Idea","target":"{\"amount\": 7000, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": \"Vodafone Idea\", \"payment_method\": null}"}
+{"text":"Spent $116.91 on shoes at Myntra using UPI","target":"{\"amount\": 116.91, \"currency\": \"USD\", \"category\": \"shopping\", \"merchant\": \"Myntra\", \"payment_method\": \"upi\"}"}
+{"text":"Spent 8626 INR on groceries by cash","target":"{\"amount\": 8626, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": null, \"payment_method\": \"cash\"}"}
+{"text":"136 rupees for a blood test by card","target":"{\"amount\": 136, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": null, \"payment_method\": \"card\"}"}
+{"text":"170 rupees for vitamins by cash","target":"{\"amount\": 170, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": null, \"payment_method\": \"cash\"}"}
+{"text":"just paid Rs. 6200 to Netflix","target":"{\"amount\": 6200, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": \"Netflix\", \"payment_method\": null}"}
+{"text":"Rs 488 for a subscription via UPI","target":"{\"amount\": 488, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": null, \"payment_method\": \"upi\"}"}
+{"text":"Spent Rs 1400 on a blood test at Apollo Pharmacy using UPI","target":"{\"amount\": 1400, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"Apollo Pharmacy\", \"payment_method\": \"upi\"}"}
+{"text":"Spent Rs 431 on the DTH recharge at Tata Power in cash","target":"{\"amount\": 431, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": \"Tata Power\", \"payment_method\": \"cash\"}"}
+{"text":"BESCOM a mobile recharge USD 185 with my card","target":"{\"amount\": 185, \"currency\": \"USD\", \"category\": \"bills\", \"merchant\": \"BESCOM\", \"payment_method\": \"card\"}"}
+{"text":"Bought a blood test from Apollo Pharmacy for Rs 7,200","target":"{\"amount\": 7200, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"Apollo Pharmacy\", \"payment_method\": null}"}
+{"text":"Spent 5368 rupees on bowling at Netflix by cash","target":"{\"amount\": 5368, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": \"Netflix\", \"payment_method\": \"cash\"}"}
+{"text":"Rapido an auto ride USD 157.76 using UPI","target":"{\"amount\": 157.76, \"currency\": \"USD\", \"category\": \"travel\", \"merchant\": \"Rapido\", \"payment_method\": \"upi\"}"}
+{"text":"Paid PharmEasy Rs. 7911 for a blood test","target":"{\"amount\": 7911, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"PharmEasy\", \"payment_method\": null}"}
+{"text":"Spent $147.93 on a subscription at Steam with my card","target":"{\"amount\": 147.93, \"currency\": \"USD\", \"category\": \"entertainment\", \"merchant\": \"Steam\", \"payment_method\": \"card\"}"}
+{"text":"Rs 8,531 for breakfast from Starbucks in cash","target":"{\"amount\": 8531, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": \"Starbucks\", \"payment_method\": \"cash\"}"}
+{"text":"just paid 9909 INR to Jio","target":"{\"amount\": 9909, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": \"Jio\", \"payment_method\": null}"}
+{"text":"Spent Rs 3500 on a bus ticket at Rapido by cash","target":"{\"amount\": 3500, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": \"Rapido\", \"payment_method\": \"cash\"}"}
+{"text":"Log 6000 rupees - vitamins, PharmEasy using UPI","target":"{\"amount\": 6000, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"PharmEasy\", \"payment_method\": \"upi\"}"}
+{"text":"₹985 for movie tickets from Netflix via UPI","target":"{\"amount\": 985, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": \"Netflix\", \"payment_method\": \"upi\"}"}
+{"text":"Bought an auto ride from Rapido for 1700 INR using UPI","target":"{\"amount\": 1700, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": \"Rapido\", \"payment_method\": \"upi\"}"}
+{"text":"Paid Haldiram's $63 for dinner by cash","target":"{\"amount\": 63, \"currency\": \"USD\", \"category\": \"food\", \"merchant\": \"Haldiram's\", \"payment_method\": \"cash\"}"}
+{"text":"just paid 5701 INR to Airtel using debit card","target":"{\"amount\": 5701, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": \"Airtel\", \"payment_method\": \"card\"}"}
+{"text":"Bought breakfast from Swiggy for Rs 3900 by cash","target":"{\"amount\": 3900, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": \"Swiggy\", \"payment_method\": \"cash\"}"}
+{"text":"MedPlus a doctor visit 286.89 dollars with my card","target":"{\"amount\": 286.89, \"currency\": \"USD\", \"category\": \"health\", \"merchant\": \"MedPlus\", \"payment_method\": \"card\"}"}
+{"text":"Spent ₹8900 on coffee at Swiggy","target":"{\"amount\": 8900, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": \"Swiggy\", \"payment_method\": null}"}
+{"text":"Bought pizza from Zomato for Rs. 786 using UPI","target":"{\"amount\": 786, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": \"Zomato\", \"payment_method\": \"upi\"}"}
+{"text":"just paid ₹100 to ACT Fibernet with my card","target":"{\"amount\": 100, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": \"ACT Fibernet\", \"payment_method\": \"card\"}"}
+{"text":"Paid Amazon ₹5085 for shoes on UPI","target":"{\"amount\": 5085, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": \"Amazon\", \"payment_method\": \"upi\"}"}
+{"text":"Ola petrol Rs 3500 by cash","target":"{\"amount\": 3500, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": \"Ola\", \"payment_method\": \"cash\"}"}
+{"text":"Log Rs. 762 - a bus ticket, Rapido by cash","target":"{\"amount\": 762, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": \"Rapido\", \"payment_method\": \"cash\"}"}
+{"text":"1mg a blood test 6327 rupees using debit card","target":"{\"amount\": 6327, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"1mg\", \"payment_method\": \"card\"}"}
+{"text":"just paid USD 42.38 to Ajio","target":"{\"amount\": 42.38, \"currency\": \"USD\", \"category\": \"shopping\", \"merchant\": \"Ajio\", \"payment_method\": null}"}
+{"text":"Spent ₹9174 on bowling at PVR by card","target":"{\"amount\": 9174, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": \"PVR\", \"payment_method\": \"card\"}"}
+{"text":"Log Rs 248 - a bus ticket, Uber by cash","target":"{\"amount\": 248, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": \"Uber\", \"payment_method\": \"cash\"}"}
+{"text":"₹5900 for petrol by card","target":"{\"amount\": 5900, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": null, \"payment_method\": \"card\"}"}
+{"text":"Spotify a game 198 dollars by card","target":"{\"amount\": 198, \"currency\": \"USD\", \"category\": \"entertainment\", \"merchant\": \"Spotify\", \"payment_method\": \"card\"}"}
+{"text":"just paid Rs. 9657 to MedPlus using UPI","target":"{\"amount\": 9657, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"MedPlus\", \"payment_method\": \"upi\"}"}
+{"text":"Rs. 2869 for the electricity bill from Jio","target":"{\"amount\": 2869, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": \"Jio\", \"payment_method\": null}"}
+{"text":"Paid ACT Fibernet USD 271.14 for the wifi bill via UPI","target":"{\"amount\": 271.14, \"currency\": \"USD\", \"category\": \"bills\", \"merchant\": \"ACT Fibernet\", \"payment_method\": \"upi\"}"}
+{"text":"Ola petrol Rs 719 using debit card","target":"{\"amount\": 719, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": \"Ola\", \"payment_method\": \"card\"}"}
+{"text":"₹809 for groceries from Amazon on UPI","target":"{\"amount\": 809, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": \"Amazon\", \"payment_method\": \"upi\"}"}
+{"text":"1mg a gym membership Rs 812","target":"{\"amount\": 812, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"1mg\", \"payment_method\": null}"}
+{"text":"just paid Rs. 6300 to Apollo Pharmacy by cash","target":"{\"amount\": 6300, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"Apollo Pharmacy\", \"payment_method\": \"cash\"}"}
+{"text":"Spent ₹6400 on headphones at Ajio","target":"{\"amount\": 6400, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": \"Ajio\", \"payment_method\": null}"}
+{"text":"Spent Rs 797 on bowling at INOX via UPI","target":"{\"amount\": 797, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": \"INOX\", \"payment_method\": \"upi\"}"}
+{"text":"Spent Rs 1,400 on petrol via UPI","target":"{\"amount\": 1400, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": null, \"payment_method\": \"upi\"}"}
+{"text":"BookMyShow a concert ₹489 on UPI","target":"{\"amount\": 489, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": \"BookMyShow\", \"payment_method\": \"upi\"}"}
+{"text":"Rs. 3500 for the DTH recharge by cash","target":"{\"amount\": 3500, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": null, \"payment_method\": \"cash\"}"}
+{"text":"Log 994 rupees - a backpack, Decathlon by card","target":"{\"amount\": 994, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": \"Decathlon\", \"payment_method\": \"card\"}"}
+{"text":"$27 for a t-shirt","target":"{\"amount\": 27, \"currency\": \"USD\", \"category\": \"shopping\", \"merchant\": null, \"payment_method\": null}"}
+{"text":"Spent 207 dollars on dinner in cash","target":"{\"amount\": 207, \"currency\": \"USD\", \"category\": \"food\", \"merchant\": null, \"payment_method\": \"cash\"}"}
+{"text":"Spent Rs 5,097 on vitamins in cash","target":"{\"amount\": 5097, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": null, \"payment_method\": \"cash\"}"}
+{"text":"just paid ₹2900 to PVR in cash","target":"{\"amount\": 2900, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": \"PVR\", \"payment_method\": \"cash\"}"}
+{"text":"Paid Spotify 5100 rupees for a game","target":"{\"amount\": 5100, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": \"Spotify\", \"payment_method\": null}"}
+{"text":"Spent 5949 INR on headphones at Croma using debit card","target":"{\"amount\": 5949, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": \"Croma\", \"payment_method\": \"card\"}"}
+{"text":"Swiggy snacks 4100 INR","target":"{\"amount\": 4100, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": \"Swiggy\", \"payment_method\": null}"}
+{"text":"8949 INR for shoes using UPI","target":"{\"amount\": 8949, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": null, \"payment_method\": \"upi\"}"}
+{"text":"Log Rs. 528 - a flight, IndiGo via UPI","target":"{\"amount\": 528, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": \"IndiGo\", \"payment_method\": \"upi\"}"}
+{"text":"Spent Rs 7501 on bowling in cash","target":"{\"amount\": 7501, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": null, \"payment_method\": \"cash\"}"}
+{"text":"Bought a train ticket from IndiGo for ₹463 using debit card","target":"{\"amount\": 463, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": \"IndiGo\", \"payment_method\": \"card\"}"}
+{"text":"Bought vitamins from Cult.fit for ₹106 on UPI","target":"{\"amount\": 106, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"Cult.fit\", \"payment_method\": \"upi\"}"}
+{"text":"just paid Rs 453 to Netmeds","target":"{\"amount\": 453, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"Netmeds\", \"payment_method\": null}"}
+{"text":"Spent USD 112 on a mobile recharge at Jio","target":"{\"amount\": 112, \"currency\": \"USD\", \"category\": \"bills\", \"merchant\": \"Jio\", \"payment_method\": null}"}
+{"text":"RedBus a cab ride 445 rupees in cash","target":"{\"amount\": 445, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": \"RedBus\", \"payment_method\": \"cash\"}"}
+{"text":"388 rupees for headphones from Decathlon by card","target":"{\"amount\": 388, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": \"Decathlon\", \"payment_method\": \"card\"}"}
+{"text":"Log Rs 4748 - an auto ride, Rapido by card","target":"{\"amount\": 4748, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": \"Rapido\", \"payment_method\": \"card\"}"}
+{"text":"Netmeds a doctor visit Rs. 4500","target":"{\"amount\": 4500, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"Netmeds\", \"payment_method\": null}"}
+{"text":"Rs 837 for the gas bill using debit card","target":"{\"amount\": 837, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": null, \"payment_method\": \"card\"}"}
+{"text":"USD 126.75 for pizza","target":"{\"amount\": 126.75, \"currency\": \"USD\", \"category\": \"food\", \"merchant\": null, \"payment_method\": null}"}
+{"text":"Bought biryani from Swiggy for ₹8081","target":"{\"amount\": 8081, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": \"Swiggy\", \"payment_method\": null}"}
+{"text":"Starbucks biryani Rs. 4700 using UPI","target":"{\"amount\": 4700, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": \"Starbucks\", \"payment_method\": \"upi\"}"}
+{"text":"Bought a concert from INOX for USD 70.41","target":"{\"amount\": 70.41, \"currency\": \"USD\", \"category\": \"entertainment\", \"merchant\": \"INOX\", \"payment_method\": null}"}
+{"text":"Log 120 dollars - a mobile recharge, BSNL","target":"{\"amount\": 120, \"currency\": \"USD\", \"category\": \"bills\", \"merchant\": \"BSNL\", \"payment_method\": null}"}
+{"text":"Log 9852 INR - pizza, Zomato on UPI","target":"{\"amount\": 9852, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": \"Zomato\", \"payment_method\": \"upi\"}"}
+{"text":"Log 3900 INR - a mobile recharge, BESCOM using UPI","target":"{\"amount\": 3900, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": \"BESCOM\", \"payment_method\": \"upi\"}"}
+{"text":"Paid PharmEasy Rs. 3357 for a gym membership","target":"{\"amount\": 3357, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"PharmEasy\", \"payment_method\": null}"}
+{"text":"Dominos coffee 1800 INR by card","target":"{\"amount\": 1800, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": \"Dominos\", \"payment_method\": \"card\"}"}
+{"text":"Paid Hotstar 2400 INR for bowling by cash","target":"{\"amount\": 2400, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": \"Hotstar\", \"payment_method\": \"cash\"}"}
+{"text":"Bought a blood test from Practo for 576 INR using UPI","target":"{\"amount\": 576, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"Practo\", \"payment_method\": \"upi\"}"}
+{"text":"Spent ₹3400 on an auto ride by card","target":"{\"amount\": 3400, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": null, \"payment_method\": \"card\"}"}
+{"text":"780 rupees for a flight with my card","target":"{\"amount\": 780, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": null, \"payment_method\": \"card\"}"}
+{"text":"Paid Jio Rs 405 for the wifi bill using UPI","target":"{\"amount\": 405, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": \"Jio\", \"payment_method\": \"upi\"}"}
+{"text":"Bought a concert from Steam for 4464 rupees using debit card","target":"{\"amount\": 4464, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": \"Steam\", \"payment_method\": \"card\"}"}
+{"text":"BookMyShow a concert 1723 rupees","target":"{\"amount\": 1723, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": \"BookMyShow\", \"payment_method\": null}"}
+{"text":"₹1500 for the DTH recharge from BESCOM via UPI","target":"{\"amount\": 1500, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": \"BESCOM\", \"payment_method\": \"upi\"}"}
+{"text":"₹2700 for a subscription in cash","target":"{\"amount\": 2700, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": null, \"payment_method\": \"cash\"}"}
+{"text":"Spent Rs 6600 on movie tickets","target":"{\"amount\": 6600, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": null, \"payment_method\": null}"}
+{"text":"Jio the electricity bill Rs 4,122","target":"{\"amount\": 4122, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": \"Jio\", \"payment_method\": null}"}
+{"text":"Spent Rs 391 on a train ticket by cash","target":"{\"amount\": 391, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": null, \"payment_method\": \"cash\"}"}
+{"text":"just paid Rs. 927 to McDonald's","target":"{\"amount\": 927, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": \"McDonald's\", \"payment_method\": null}"}
+{"text":"Jio a mobile recharge 4100 rupees with my card","target":"{\"amount\": 4100, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": \"Jio\", \"payment_method\": \"card\"}"}
+{"text":"Log Rs 2797 - the wifi bill, Tata Power","target":"{\"amount\": 2797, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": \"Tata Power\", \"payment_method\": null}"}
+{"text":"Log 367 INR - a phone cover, Ajio via UPI","target":"{\"amount\": 367, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": \"Ajio\", \"payment_method\": \"upi\"}"}
+{"text":"Bought a subscription from Steam for 281 dollars by cash","target":"{\"amount\": 281, \"currency\": \"USD\", \"category\": \"entertainment\", \"merchant\": \"Steam\", \"payment_method\": \"cash\"}"}
+{"text":"Rs 4900 for snacks from Starbucks","target":"{\"amount\": 4900, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": \"Starbucks\", \"payment_method\": null}"}
+{"text":"Spent 187 INR on pizza","target":"{\"amount\": 187, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": null, \"payment_method\": null}"}
+{"text":"Log 139 dollars - biryani, KFC","target":"{\"amount\": 139, \"currency\": \"USD\", \"category\": \"food\", \"merchant\": \"KFC\", \"payment_method\": null}"}
+{"text":"Paid Uber 566 INR for a flight with my card","target":"{\"amount\": 566, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": \"Uber\", \"payment_method\": \"card\"}"}
+{"text":"Spent 6457 rupees on a mobile recharge on UPI","target":"{\"amount\": 6457, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": null, \"payment_method\": \"upi\"}"}
+{"text":"Bought the wifi bill from Tata Power for 5146 INR with my card","target":"{\"amount\": 5146, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": \"Tata Power\", \"payment_method\": \"card\"}"}
+{"text":"Rs 8,892 for a backpack with my card","target":"{\"amount\": 8892, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": null, \"payment_method\": \"card\"}"}
+{"text":"7600 INR for a concert in cash","target":"{\"amount\": 7600, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": null, \"payment_method\": \"cash\"}"}
+{"text":"RedBus a cab ride Rs 8618 with my card","target":"{\"amount\": 8618, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": \"RedBus\", \"payment_method\": \"card\"}"}
+{"text":"Paid McDonald's 941 rupees for dinner by cash","target":"{\"amount\": 941, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": \"McDonald's\", \"payment_method\": \"cash\"}"}
+{"text":"Swiggy biryani Rs. 7239 by cash","target":"{\"amount\": 7239, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": \"Swiggy\", \"payment_method\": \"cash\"}"}
+{"text":"Spent 8094 rupees on breakfast","target":"{\"amount\": 8094, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": null, \"payment_method\": null}"}
+{"text":"Log 433 INR - a game, INOX","target":"{\"amount\": 433, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": \"INOX\", \"payment_method\": null}"}
+{"text":"59.62 dollars for movie tickets from Hotstar","target":"{\"amount\": 59.62, \"currency\": \"USD\", \"category\": \"entertainment\", \"merchant\": \"Hotstar\", \"payment_method\": null}"}
+{"text":"just paid 3158 rupees to Myntra in cash","target":"{\"amount\": 3158, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": \"Myntra\", \"payment_method\": \"cash\"}"}
+{"text":"Log $41 - headphones, Myntra using UPI","target":"{\"amount\": 41, \"currency\": \"USD\", \"category\": \"shopping\", \"merchant\": \"Myntra\", \"payment_method\": \"upi\"}"}
+{"text":"Rapido petrol $236","target":"{\"amount\": 236, \"currency\": \"USD\", \"category\": \"travel\", \"merchant\": \"Rapido\", \"payment_method\": null}"}
+{"text":"Paid Uber 444 INR for petrol in cash","target":"{\"amount\": 444, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": \"Uber\", \"payment_method\": \"cash\"}"}
+{"text":"5399 INR for a game","target":"{\"amount\": 5399, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": null, \"payment_method\": null}"}
+{"text":"Paid ACT Fibernet Rs 912 for a mobile recharge with my card","target":"{\"amount\": 912, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": \"ACT Fibernet\", \"payment_method\": \"card\"}"}
+{"text":"Netmeds vitamins Rs 4,786 by card","target":"{\"amount\": 4786, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"Netmeds\", \"payment_method\": \"card\"}"}
+{"text":"2400 rupees for vitamins from PharmEasy on UPI","target":"{\"amount\": 2400, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"PharmEasy\", \"payment_method\": \"upi\"}"}
+{"text":"Spent 3841 rupees on the wifi bill","target":"{\"amount\": 3841, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": null, \"payment_method\": null}"}
+{"text":"Log 9923 rupees - dinner, Starbucks by cash","target":"{\"amount\": 9923, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": \"Starbucks\", \"payment_method\": \"cash\"}"}
+{"text":"Rs. 45 for movie tickets from INOX by cash","target":"{\"amount\": 45, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": \"INOX\", \"payment_method\": \"cash\"}"}
+{"text":"₹1900 for a blood test by cash","target":"{\"amount\": 1900, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": null, \"payment_method\": \"cash\"}"}
+{"text":"just paid Rs. 795 to Swiggy with my card","target":"{\"amount\": 795, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": \"Swiggy\", \"payment_method\": \"card\"}"}
+{"text":"₹2687 for shoes using debit card","target":"{\"amount\": 2687, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": null, \"payment_method\": \"card\"}"}
+{"text":"Paid Decathlon 98.71 dollars for a backpack via UPI","target":"{\"amount\": 98.71, \"currency\": \"USD\", \"category\": \"shopping\", \"merchant\": \"Decathlon\", \"payment_method\": \"upi\"}"}
+{"text":"173 INR for the gas bill using UPI","target":"{\"amount\": 173, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": null, \"payment_method\": \"upi\"}"}
+{"text":"Rs 689 for a doctor visit from Practo via UPI","target":"{\"amount\": 689, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"Practo\", \"payment_method\": \"upi\"}"}
+{"text":"₹431 for the electricity bill using UPI","target":"{\"amount\": 431, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": null, \"payment_method\": \"upi\"}"}
+{"text":"Amazon shoes 291.52 dollars","target":"{\"amount\": 291.52, \"currency\": \"USD\", \"category\": \"shopping\", \"merchant\": \"Amazon\", \"payment_method\": null}"}
+{"text":"Spent 7456 INR on a concert on UPI","target":"{\"amount\": 7456, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": null, \"payment_method\": \"upi\"}"}
+{"text":"Uber a flight $194","target":"{\"amount\": 194, \"currency\": \"USD\", \"category\": \"travel\", \"merchant\": \"Uber\", \"payment_method\": null}"}
+{"text":"Spent 4425 INR on a concert","target":"{\"amount\": 4425, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": null, \"payment_method\": null}"}
+{"text":"Bought medicines from Practo for Rs 6,600 by card","target":"{\"amount\": 6600, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"Practo\", \"payment_method\": \"card\"}"}
+{"text":"$187 for a game by cash","target":"{\"amount\": 187, \"currency\": \"USD\", \"category\": \"entertainment\", \"merchant\": null, \"payment_method\": \"cash\"}"}
+{"text":"9548 INR for a concert","target":"{\"amount\": 9548, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": null, \"payment_method\": null}"}
+{"text":"Paid Steam ₹2100 for bowling using UPI","target":"{\"amount\": 2100, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": \"Steam\", \"payment_method\": \"upi\"}"}
+{"text":"1mg vitamins Rs 6,700 via UPI","target":"{\"amount\": 6700, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"1mg\", \"payment_method\": \"upi\"}"}
+{"text":"39.31 dollars for movie tickets by cash","target":"{\"amount\": 39.31, \"currency\": \"USD\", \"category\": \"entertainment\", \"merchant\": null, \"payment_method\": \"cash\"}"}
+{"text":"8852 rupees for breakfast by card","target":"{\"amount\": 8852, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": null, \"payment_method\": \"card\"}"}
+{"text":"Tata Power a mobile recharge Rs. 750 by cash","target":"{\"amount\": 750, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": \"Tata Power\", \"payment_method\": \"cash\"}"}
+{"text":"Spent 670 rupees on pizza using UPI","target":"{\"amount\": 670, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": null, \"payment_method\": \"upi\"}"}
+{"text":"1mg medicines 3400 INR using UPI","target":"{\"amount\": 3400, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"1mg\", \"payment_method\": \"upi\"}"}
+{"text":"5926 INR for the DTH recharge from Tata Power using UPI","target":"{\"amount\": 5926, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": \"Tata Power\", \"payment_method\": \"upi\"}"}
+{"text":"Log ₹7279 - headphones, Amazon","target":"{\"amount\": 7279, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": \"Amazon\", \"payment_method\": null}"}
+{"text":"Swiggy dinner Rs 922 using UPI","target":"{\"amount\": 922, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": \"Swiggy\", \"payment_method\": \"upi\"}"}
+{"text":"Spent 9077 rupees on pizza at Swiggy","target":"{\"amount\": 9077, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": \"Swiggy\", \"payment_method\": null}"}
+{"text":"3331 INR for a game by cash","target":"{\"amount\": 3331, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": null, \"payment_method\": \"cash\"}"}
+{"text":"256.92 dollars for petrol","target":"{\"amount\": 256.92, \"currency\": \"USD\", \"category\": \"travel\", \"merchant\": null, \"payment_method\": null}"}
+{"text":"Bought a blood test from 1mg for ₹2845 using UPI","target":"{\"amount\": 2845, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"1mg\", \"payment_method\": \"upi\"}"}
+{"text":"Rs 4400 for the DTH recharge by cash","target":"{\"amount\": 4400, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": null, \"payment_method\": \"cash\"}"}
+{"text":"Bought a concert from BookMyShow for 2600 INR using UPI","target":"{\"amount\": 2600, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": \"BookMyShow\", \"payment_method\": \"upi\"}"}
+{"text":"Spent Rs 3,843 on a phone cover at DMart","target":"{\"amount\": 3843, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": \"DMart\", \"payment_method\": null}"}
+{"text":"just paid Rs 386 to BESCOM","target":"{\"amount\": 386, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": \"BESCOM\", \"payment_method\": null}"}
+{"text":"just paid 395 rupees to Zomato on UPI","target":"{\"amount\": 395, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": \"Zomato\", \"payment_method\": \"upi\"}"}
+{"text":"Paid Apollo Pharmacy 607 rupees for vitamins by card","target":"{\"amount\": 607, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"Apollo Pharmacy\", \"payment_method\": \"card\"}"}
+{"text":"Ola a flight Rs 2200","target":"{\"amount\": 2200, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": \"Ola\", \"payment_method\": null}"}
+{"text":"99 rupees for medicines from Apollo Pharmacy by card","target":"{\"amount\": 99, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"Apollo Pharmacy\", \"payment_method\": \"card\"}"}
+{"text":"Bought a subscription from PVR for Rs. 8245 using debit card","target":"{\"amount\": 8245, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": \"PVR\", \"payment_method\": \"card\"}"}
+{"text":"just paid Rs. 130 to Rapido","target":"{\"amount\": 130, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": \"Rapido\", \"payment_method\": null}"}
+{"text":"Rs 499 for a train ticket from Uber using debit card","target":"{\"amount\": 499, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": \"Uber\", \"payment_method\": \"card\"}"}
+{"text":"554 rupees for a cab ride","target":"{\"amount\": 554, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": null, \"payment_method\": null}"}
+{"text":"Ola a train ticket ₹851 with my card","target":"{\"amount\": 851, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": \"Ola\", \"payment_method\": \"card\"}"}
+{"text":"6674 INR for a concert from Netflix by card","target":"{\"amount\": 6674, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": \"Netflix\", \"payment_method\": \"card\"}"}
+{"text":"94 dollars for coffee by card","target":"{\"amount\": 94, \"currency\": \"USD\", \"category\": \"food\", \"merchant\": null, \"payment_method\": \"card\"}"}
+{"text":"Spent Rs. 1300 on shoes at Ajio in cash","target":"{\"amount\": 1300, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": \"Ajio\", \"payment_method\": \"cash\"}"}
+{"text":"Tata Power the wifi bill Rs 2755 using debit card","target":"{\"amount\": 2755, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": \"Tata Power\", \"payment_method\": \"card\"}"}
+{"text":"Log USD 256.97 - a subscription, PVR in cash","target":"{\"amount\": 256.97, \"currency\": \"USD\", \"category\": \"entertainment\", \"merchant\": \"PVR\", \"payment_method\": \"cash\"}"}
+{"text":"Bought shoes from Ajio for Rs. 6700","target":"{\"amount\": 6700, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": \"Ajio\", \"payment_method\": null}"}
+{"text":"Spent Rs. 8531 on medicines at MedPlus","target":"{\"amount\": 8531, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"MedPlus\", \"payment_method\": null}"}
+{"text":"Bought a concert from PVR for Rs 8,012 using debit card","target":"{\"amount\": 8012, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": \"PVR\", \"payment_method\": \"card\"}"}
+{"text":"Log 2754 INR - headphones, Croma via UPI","target":"{\"amount\": 2754, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": \"Croma\", \"payment_method\": \"upi\"}"}
+{"text":"Spent 8392 rupees on the electricity bill","target":"{\"amount\": 8392, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": null, \"payment_method\": null}"}
+{"text":"KFC coffee Rs. 9063 on UPI","target":"{\"amount\": 9063, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": \"KFC\", \"payment_method\": \"upi\"}"}
+{"text":"Paid Spotify $148.12 for a game using UPI","target":"{\"amount\": 148.12, \"currency\": \"USD\", \"category\": \"entertainment\", \"merchant\": \"Spotify\", \"payment_method\": \"upi\"}"}
+{"text":"Spent Rs 3,300 on snacks at Zomato in cash","target":"{\"amount\": 3300, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": \"Zomato\", \"payment_method\": \"cash\"}"}
+{"text":"Dominos biryani ₹6369 with my card","target":"{\"amount\": 6369, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": \"Dominos\", \"payment_method\": \"card\"}"}
+{"text":"Bought a mobile recharge from BESCOM for 834 INR on UPI","target":"{\"amount\": 834, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": \"BESCOM\", \"payment_method\": \"upi\"}"}
+{"text":"Uber a bus ticket 601 INR via UPI","target":"{\"amount\": 601, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": \"Uber\", \"payment_method\": \"upi\"}"}
+{"text":"Paid BESCOM Rs 285 for the gas bill","target":"{\"amount\": 285, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": \"BESCOM\", \"payment_method\": null}"}
+{"text":"Paid BSNL ₹3300 for the wifi bill","target":"{\"amount\": 3300, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": \"BSNL\", \"payment_method\": null}"}
+{"text":"just paid Rs 9837 to RedBus by cash","target":"{\"amount\": 9837, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": \"RedBus\", \"payment_method\": \"cash\"}"}
+{"text":"3162 rupees for a game by cash","target":"{\"amount\": 3162, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": null, \"payment_method\": \"cash\"}"}
+{"text":"Spent Rs 1600 on a phone cover at Croma using UPI","target":"{\"amount\": 1600, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": \"Croma\", \"payment_method\": \"upi\"}"}
+{"text":"Bought an auto ride from Ola for Rs. 9277 by cash","target":"{\"amount\": 9277, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": \"Ola\", \"payment_method\": \"cash\"}"}
+{"text":"Rs 4000 for lunch","target":"{\"amount\": 4000, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": null, \"payment_method\": null}"}
+{"text":"BookMyShow a game Rs. 6800","target":"{\"amount\": 6800, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": \"BookMyShow\", \"payment_method\": null}"}
+{"text":"$211.7 for shoes from DMart on UPI","target":"{\"amount\": 211.7, \"currency\": \"USD\", \"category\": \"shopping\", \"merchant\": \"DMart\", \"payment_method\": \"upi\"}"}
+{"text":"867 rupees for the DTH recharge from Tata Power using debit card","target":"{\"amount\": 867, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": \"Tata Power\", \"payment_method\": \"card\"}"}
+{"text":"IRCTC an auto ride 679 rupees","target":"{\"amount\": 679, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": \"IRCTC\", \"payment_method\": null}"}
+{"text":"PVR a game Rs 3,800 with my card","target":"{\"amount\": 3800, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": \"PVR\", \"payment_method\": \"card\"}"}
+{"text":"Spent USD 106.98 on groceries at Decathlon by cash","target":"{\"amount\": 106.98, \"currency\": \"USD\", \"category\": \"shopping\", \"merchant\": \"Decathlon\", \"payment_method\": \"cash\"}"}
+{"text":"Log Rs 9,424 - the electricity bill, Vodafone Idea using debit card","target":"{\"amount\": 9424, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": \"Vodafone Idea\", \"payment_method\": \"card\"}"}
+{"text":"Spent Rs 247 on bowling at Netflix","target":"{\"amount\": 247, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": \"Netflix\", \"payment_method\": null}"}
+{"text":"990 rupees for a phone cover via UPI","target":"{\"amount\": 990, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": null, \"payment_method\": \"upi\"}"}
+{"text":"$18.25 for lunch on UPI","target":"{\"amount\": 18.25, \"currency\": \"USD\", \"category\": \"food\", \"merchant\": null, \"payment_method\": \"upi\"}"}
+{"text":"Log 6600 rupees - a mobile recharge, Airtel","target":"{\"amount\": 6600, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": \"Airtel\", \"payment_method\": null}"}
+{"text":"2500 INR for shoes","target":"{\"amount\": 2500, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": null, \"payment_method\": null}"}
+{"text":"just paid ₹9180 to ACT Fibernet","target":"{\"amount\": 9180, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": \"ACT Fibernet\", \"payment_method\": null}"}
+{"text":"Bought the gas bill from Jio for 570 rupees on UPI","target":"{\"amount\": 570, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": \"Jio\", \"payment_method\": \"upi\"}"}
+{"text":"578 rupees for a mobile recharge from Jio using debit card","target":"{\"amount\": 578, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": \"Jio\", \"payment_method\": \"card\"}"}
+{"text":"Ola a bus ticket Rs 6300 using debit card","target":"{\"amount\": 6300, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": \"Ola\", \"payment_method\": \"card\"}"}
+{"text":"Spent 3796 rupees on a t-shirt at Ajio using UPI","target":"{\"amount\": 3796, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": \"Ajio\", \"payment_method\": \"upi\"}"}
+{"text":"Spent Rs 3,852 on a game at Netflix by cash","target":"{\"amount\": 3852, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": \"Netflix\", \"payment_method\": \"cash\"}"}
+{"text":"₹250 for vitamins from MedPlus using UPI","target":"{\"amount\": 250, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"MedPlus\", \"payment_method\": \"upi\"}"}
+{"text":"Log $108.73 - lunch, Swiggy on UPI","target":"{\"amount\": 108.73, \"currency\": \"USD\", \"category\": \"food\", \"merchant\": \"Swiggy\", \"payment_method\": \"upi\"}"}
+{"text":"Log Rs. 4500 - a game, BookMyShow in cash","target":"{\"amount\": 4500, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": \"BookMyShow\", \"payment_method\": \"cash\"}"}
+{"text":"Rs. 6500 for a mobile recharge from BSNL by cash","target":"{\"amount\": 6500, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": \"BSNL\", \"payment_method\": \"cash\"}"}
+{"text":"Rs 6775 for a flight from Uber by cash","target":"{\"amount\": 6775, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": \"Uber\", \"payment_method\": \"cash\"}"}
+{"text":"Spent ₹6583 on headphones at Croma in cash","target":"{\"amount\": 6583, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": \"Croma\", \"payment_method\": \"cash\"}"}
+{"text":"Rs 872 for a doctor visit from 1mg using debit card","target":"{\"amount\": 872, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"1mg\", \"payment_method\": \"card\"}"}
+{"text":"Paid 1mg Rs 3,900 for medicines using UPI","target":"{\"amount\": 3900, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"1mg\", \"payment_method\": \"upi\"}"}
+{"text":"Bought the wifi bill from BSNL for $187 in cash","target":"{\"amount\": 187, \"currency\": \"USD\", \"category\": \"bills\", \"merchant\": \"BSNL\", \"payment_method\": \"cash\"}"}
+{"text":"Haldiram's breakfast ₹5000 using debit card","target":"{\"amount\": 5000, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": \"Haldiram's\", \"payment_method\": \"card\"}"}
+{"text":"just paid 5800 INR to Flipkart via UPI","target":"{\"amount\": 5800, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": \"Flipkart\", \"payment_method\": \"upi\"}"}
+{"text":"just paid Rs 6552 to PVR on UPI","target":"{\"amount\": 6552, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": \"PVR\", \"payment_method\": \"upi\"}"}
+{"text":"Log Rs 3,437 - a concert, Netflix in cash","target":"{\"amount\": 3437, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": \"Netflix\", \"payment_method\": \"cash\"}"}
+{"text":"Log Rs. 9254 - a blood test, Practo via UPI","target":"{\"amount\": 9254, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"Practo\", \"payment_method\": \"upi\"}"}
+{"text":"Spent 5880 rupees on lunch using debit card","target":"{\"amount\": 5880, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": null, \"payment_method\": \"card\"}"}
+{"text":"just paid Rs 4,700 to IRCTC in cash","target":"{\"amount\": 4700, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": \"IRCTC\", \"payment_method\": \"cash\"}"}
+{"text":"Rs. 58 for a phone cover","target":"{\"amount\": 58, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": null, \"payment_method\": null}"}
+{"text":"Paid Netflix USD 220 for bowling using UPI","target":"{\"amount\": 220, \"currency\": \"USD\", \"category\": \"entertainment\", \"merchant\": \"Netflix\", \"payment_method\": \"upi\"}"}
+{"text":"Bought the gas bill from ACT Fibernet for 4537 INR using debit card","target":"{\"amount\": 4537, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": \"ACT Fibernet\", \"payment_method\": \"card\"}"}
+{"text":"Rs. 888 for a cab ride from Ola","target":"{\"amount\": 888, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": \"Ola\", \"payment_method\": null}"}
+{"text":"Spent Rs 411 on coffee in cash","target":"{\"amount\": 411, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": null, \"payment_method\": \"cash\"}"}
+{"text":"Log 174 dollars - a doctor visit, Cult.fit in cash","target":"{\"amount\": 174, \"currency\": \"USD\", \"category\": \"health\", \"merchant\": \"Cult.fit\", \"payment_method\": \"cash\"}"}
+{"text":"Paid Decathlon 106 INR for headphones by card","target":"{\"amount\": 106, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": \"Decathlon\", \"payment_method\": \"card\"}"}
+{"text":"Spent ₹769 on a backpack at Decathlon on UPI","target":"{\"amount\": 769, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": \"Decathlon\", \"payment_method\": \"upi\"}"}
+{"text":"Spent Rs. 5600 on a bus ticket at IRCTC","target":"{\"amount\": 5600, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": \"IRCTC\", \"payment_method\": null}"}
+{"text":"Amazon groceries 121 INR in cash","target":"{\"amount\": 121, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": \"Amazon\", \"payment_method\": \"cash\"}"}
+{"text":"IRCTC a flight 8087 INR on UPI","target":"{\"amount\": 8087, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": \"IRCTC\", \"payment_method\": \"upi\"}"}
+{"text":"Paid Apollo Pharmacy Rs 5400 for a blood test using debit card","target":"{\"amount\": 5400, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"Apollo Pharmacy\", \"payment_method\": \"card\"}"}
+{"text":"Spent Rs 1,433 on a doctor visit with my card","target":"{\"amount\": 1433, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": null, \"payment_method\": \"card\"}"}
+{"text":"Paid Cult.fit ₹955 for medicines","target":"{\"amount\": 955, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"Cult.fit\", \"payment_method\": null}"}
+{"text":"Log Rs 962 - a mobile recharge, BSNL in cash","target":"{\"amount\": 962, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": \"BSNL\", \"payment_method\": \"cash\"}"}
+{"text":"520 rupees for pizza from McDonald's by card","target":"{\"amount\": 520, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": \"McDonald's\", \"payment_method\": \"card\"}"}
+{"text":"just paid 156.63 dollars to MedPlus in cash","target":"{\"amount\": 156.63, \"currency\": \"USD\", \"category\": \"health\", \"merchant\": \"MedPlus\", \"payment_method\": \"cash\"}"}
+{"text":"Spent Rs. 7047 on a phone cover at Flipkart","target":"{\"amount\": 7047, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": \"Flipkart\", \"payment_method\": null}"}
+{"text":"Paid Netmeds ₹1400 for a doctor visit by cash","target":"{\"amount\": 1400, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"Netmeds\", \"payment_method\": \"cash\"}"}
+{"text":"Log 2800 rupees - pizza, Swiggy by cash","target":"{\"amount\": 2800, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": \"Swiggy\", \"payment_method\": \"cash\"}"}
+{"text":"566 rupees for the DTH recharge from Jio on UPI","target":"{\"amount\": 566, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": \"Jio\", \"payment_method\": \"upi\"}"}
+{"text":"ACT Fibernet the DTH recharge ₹5800","target":"{\"amount\": 5800, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": \"ACT Fibernet\", \"payment_method\": null}"}
+{"text":"Bought headphones from Flipkart for ₹664","target":"{\"amount\": 664, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": \"Flipkart\", \"payment_method\": null}"}
+{"text":"$149 for vitamins from PharmEasy","target":"{\"amount\": 149, \"currency\": \"USD\", \"category\": \"health\", \"merchant\": \"PharmEasy\", \"payment_method\": null}"}
+{"text":"₹4165 for vitamins from 1mg","target":"{\"amount\": 4165, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"1mg\", \"payment_method\": null}"}
+{"text":"₹7142 for the DTH recharge from Tata Power by cash","target":"{\"amount\": 7142, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": \"Tata Power\", \"payment_method\": \"cash\"}"}
+{"text":"496 rupees for headphones from Flipkart in cash","target":"{\"amount\": 496, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": \"Flipkart\", \"payment_method\": \"cash\"}"}
+{"text":"Spent ₹3800 on a bus ticket with my card","target":"{\"amount\": 3800, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": null, \"payment_method\": \"card\"}"}
+{"text":"Rs 4409 for lunch from Haldiram's with my card","target":"{\"amount\": 4409, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": \"Haldiram's\", \"payment_method\": \"card\"}"}
+{"text":"Spent 396 INR on the wifi bill at BSNL via UPI","target":"{\"amount\": 396, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": \"BSNL\", \"payment_method\": \"upi\"}"}
+{"text":"Spent 804 rupees on a doctor visit at MedPlus by cash","target":"{\"amount\": 804, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"MedPlus\", \"payment_method\": \"cash\"}"}
+{"text":"5298 rupees for the gas bill","target":"{\"amount\": 5298, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": null, \"payment_method\": null}"}
+{"text":"Spent $219.46 on a flight at IndiGo","target":"{\"amount\": 219.46, \"currency\": \"USD\", \"category\": \"travel\", \"merchant\": \"IndiGo\", \"payment_method\": null}"}
+{"text":"Amazon shoes Rs. 954 in cash","target":"{\"amount\": 954, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": \"Amazon\", \"payment_method\": \"cash\"}"}
+{"text":"Hotstar movie tickets $257","target":"{\"amount\": 257, \"currency\": \"USD\", \"category\": \"entertainment\", \"merchant\": \"Hotstar\", \"payment_method\": null}"}
+{"text":"Spent USD 4 on a game at Steam using debit card","target":"{\"amount\": 4, \"currency\": \"USD\", \"category\": \"entertainment\", \"merchant\": \"Steam\", \"payment_method\": \"card\"}"}
+{"text":"Paid Practo ₹187 for medicines with my card","target":"{\"amount\": 187, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"Practo\", \"payment_method\": \"card\"}"}
+{"text":"Bought coffee from Zomato for Rs 6700 with my card","target":"{\"amount\": 6700, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": \"Zomato\", \"payment_method\": \"card\"}"}
+{"text":"Uber petrol 1986 rupees by cash","target":"{\"amount\": 1986, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": \"Uber\", \"payment_method\": \"cash\"}"}
+{"text":"Spent 6779 INR on vitamins on UPI","target":"{\"amount\": 6779, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": null, \"payment_method\": \"upi\"}"}
+{"text":"Log Rs 8,986 - vitamins, 1mg on UPI","target":"{\"amount\": 8986, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"1mg\", \"payment_method\": \"upi\"}"}
+{"text":"Paid Airtel USD 271.23 for the gas bill","target":"{\"amount\": 271.23, \"currency\": \"USD\", \"category\": \"bills\", \"merchant\": \"Airtel\", \"payment_method\": null}"}
+{"text":"just paid $46.61 to Decathlon","target":"{\"amount\": 46.61, \"currency\": \"USD\", \"category\": \"shopping\", \"merchant\": \"Decathlon\", \"payment_method\": null}"}
+{"text":"Myntra a phone cover 2849 rupees by cash","target":"{\"amount\": 2849, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": \"Myntra\", \"payment_method\": \"cash\"}"}
+{"text":"just paid USD 96 to BESCOM using debit card","target":"{\"amount\": 96, \"currency\": \"USD\", \"category\": \"bills\", \"merchant\": \"BESCOM\", \"payment_method\": \"card\"}"}
+{"text":"5300 INR for a mobile recharge in cash","target":"{\"amount\": 5300, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": null, \"payment_method\": \"cash\"}"}
+{"text":"Bought the wifi bill from Tata Power for ₹65","target":"{\"amount\": 65, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": \"Tata Power\", \"payment_method\": null}"}
+{"text":"Bought a game from Steam for ₹722 using debit card","target":"{\"amount\": 722, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": \"Steam\", \"payment_method\": \"card\"}"}
+{"text":"Log Rs 435 - vitamins, 1mg by card","target":"{\"amount\": 435, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"1mg\", \"payment_method\": \"card\"}"}
+{"text":"Log Rs 9893 - a concert, Spotify using UPI","target":"{\"amount\": 9893, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": \"Spotify\", \"payment_method\": \"upi\"}"}
+{"text":"Spent 278 dollars on a t-shirt at Flipkart on UPI","target":"{\"amount\": 278, \"currency\": \"USD\", \"category\": \"shopping\", \"merchant\": \"Flipkart\", \"payment_method\": \"upi\"}"}
+{"text":"Bought the electricity bill from Jio for ₹2122 via UPI","target":"{\"amount\": 2122, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": \"Jio\", \"payment_method\": \"upi\"}"}
+{"text":"Log 7100 INR - movie tickets, Hotstar","target":"{\"amount\": 7100, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": \"Hotstar\", \"payment_method\": null}"}
+{"text":"Spent 12 dollars on lunch at KFC using UPI","target":"{\"amount\": 12, \"currency\": \"USD\", \"category\": \"food\", \"merchant\": \"KFC\", \"payment_method\": \"upi\"}"}
+{"text":"Spent 4162 INR on a doctor visit at 1mg by card","target":"{\"amount\": 4162, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"1mg\", \"payment_method\": \"card\"}"}
+{"text":"Rs 3,626 for a blood test from Cult.fit","target":"{\"amount\": 3626, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"Cult.fit\", \"payment_method\": null}"}
+{"text":"Rs. 6239 for dinner via UPI","target":"{\"amount\": 6239, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": null, \"payment_method\": \"upi\"}"}
+{"text":"Paid Apollo Pharmacy 3726 rupees for vitamins by cash","target":"{\"amount\": 3726, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"Apollo Pharmacy\", \"payment_method\": \"cash\"}"}
+{"text":"Spent Rs. 4700 on the electricity bill at Vodafone Idea by cash","target":"{\"amount\": 4700, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": \"Vodafone Idea\", \"payment_method\": \"cash\"}"}
+{"text":"USD 180 for a game from Steam with my card","target":"{\"amount\": 180, \"currency\": \"USD\", \"category\": \"entertainment\", \"merchant\": \"Steam\", \"payment_method\": \"card\"}"}
+{"text":"Rs. 616 for a gym membership using debit card","target":"{\"amount\": 616, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": null, \"payment_method\": \"card\"}"}
+{"text":"just paid 4499 INR to PharmEasy","target":"{\"amount\": 4499, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"PharmEasy\", \"payment_method\": null}"}
+{"text":"Rs. 1400 for petrol in cash","target":"{\"amount\": 1400, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": null, \"payment_method\": \"cash\"}"}
+{"text":"276 rupees for a mobile recharge from Airtel","target":"{\"amount\": 276, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": \"Airtel\", \"payment_method\": null}"}
+{"text":"Spent Rs 7200 on a phone cover via UPI","target":"{\"amount\": 7200, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": null, \"payment_method\": \"upi\"}"}
+{"text":"75.22 dollars for a phone cover in cash","target":"{\"amount\": 75.22, \"currency\": \"USD\", \"category\": \"shopping\", \"merchant\": null, \"payment_method\": \"cash\"}"}
+{"text":"Log 5600 INR - coffee, Starbucks by cash","target":"{\"amount\": 5600, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": \"Starbucks\", \"payment_method\": \"cash\"}"}
+{"text":"Spent ₹7700 on pizza","target":"{\"amount\": 7700, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": null, \"payment_method\": null}"}
+{"text":"Spent Rs 6468 on the gas bill in cash","target":"{\"amount\": 6468, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": null, \"payment_method\": \"cash\"}"}
+{"text":"Spent Rs. 722 on the DTH recharge at Airtel in cash","target":"{\"amount\": 722, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": \"Airtel\", \"payment_method\": \"cash\"}"}
+{"text":"Spent ₹9301 on a bus ticket by card","target":"{\"amount\": 9301, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": null, \"payment_method\": \"card\"}"}
+{"text":"Vodafone Idea a mobile recharge 603 INR","target":"{\"amount\": 603, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": \"Vodafone Idea\", \"payment_method\": null}"}
+{"text":"Bought groceries from DMart for 371 rupees","target":"{\"amount\": 371, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": \"DMart\", \"payment_method\": null}"}
+{"text":"149 dollars for breakfast","target":"{\"amount\": 149, \"currency\": \"USD\", \"category\": \"food\", \"merchant\": null, \"payment_method\": null}"}
+{"text":"just paid 624 rupees to Myntra by card","target":"{\"amount\": 624, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": \"Myntra\", \"payment_method\": \"card\"}"}
+{"text":"Rs. 2887 for pizza from Haldiram's with my card","target":"{\"amount\": 2887, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": \"Haldiram's\", \"payment_method\": \"card\"}"}
+{"text":"₹6255 for a concert from PVR with my card","target":"{\"amount\": 6255, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": \"PVR\", \"payment_method\": \"card\"}"}
+{"text":"Spent Rs 6300 on a blood test at PharmEasy using debit card","target":"{\"amount\": 6300, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"PharmEasy\", \"payment_method\": \"card\"}"}
+{"text":"Log 537 rupees - a backpack, Decathlon using debit card","target":"{\"amount\": 537, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": \"Decathlon\", \"payment_method\": \"card\"}"}
+{"text":"Spent USD 53 on a cab ride in cash","target":"{\"amount\": 53, \"currency\": \"USD\", \"category\": \"travel\", \"merchant\": null, \"payment_method\": \"cash\"}"}
+{"text":"Spent Rs 1,300 on a game via UPI","target":"{\"amount\": 1300, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": null, \"payment_method\": \"upi\"}"}
+{"text":"Paid BSNL $267.97 for a mobile recharge","target":"{\"amount\": 267.97, \"currency\": \"USD\", \"category\": \"bills\", \"merchant\": \"BSNL\", \"payment_method\": null}"}
+{"text":"Rs 894 for a concert from PVR via UPI","target":"{\"amount\": 894, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": \"PVR\", \"payment_method\": \"upi\"}"}
+{"text":"just paid Rs 2716 to Flipkart by card","target":"{\"amount\": 2716, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": \"Flipkart\", \"payment_method\": \"card\"}"}
+{"text":"Spent Rs. 5800 on breakfast at Dominos by cash","target":"{\"amount\": 5800, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": \"Dominos\", \"payment_method\": \"cash\"}"}
+{"text":"Log 554 rupees - medicines, MedPlus with my card","target":"{\"amount\": 554, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"MedPlus\", \"payment_method\": \"card\"}"}
+{"text":"Bought petrol from Indian Oil for Rs. 6072 with my card","target":"{\"amount\": 6072, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": \"Indian Oil\", \"payment_method\": \"card\"}"}
+{"text":"Spent ₹243 on a subscription at Spotify using UPI","target":"{\"amount\": 243, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": \"Spotify\", \"payment_method\": \"upi\"}"}
+{"text":"just paid Rs. 224 to Airtel","target":"{\"amount\": 224, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": \"Airtel\", \"payment_method\": null}"}
+{"text":"just paid ₹1000 to Flipkart","target":"{\"amount\": 1000, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": \"Flipkart\", \"payment_method\": null}"}
+{"text":"Vodafone Idea the gas bill 8995 INR using UPI","target":"{\"amount\": 8995, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": \"Vodafone Idea\", \"payment_method\": \"upi\"}"}
+{"text":"Paid RedBus 995 INR for a flight using UPI","target":"{\"amount\": 995, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": \"RedBus\", \"payment_method\": \"upi\"}"}
+{"text":"Netmeds medicines ₹7100 on UPI","target":"{\"amount\": 7100, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"Netmeds\", \"payment_method\": \"upi\"}"}
+{"text":"Spent Rs 4215 on the gas bill at ACT Fibernet","target":"{\"amount\": 4215, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": \"ACT Fibernet\", \"payment_method\": null}"}
+{"text":"Log Rs. 4300 - a backpack, DMart","target":"{\"amount\": 4300, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": \"DMart\", \"payment_method\": null}"}
+{"text":"Bought a cab ride from IRCTC for Rs 96 by card","target":"{\"amount\": 96, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": \"IRCTC\", \"payment_method\": \"card\"}"}
+{"text":"Spent Rs 75 on a blood test at Practo using UPI","target":"{\"amount\": 75, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"Practo\", \"payment_method\": \"upi\"}"}
+{"text":"Paid Spotify Rs 1,225 for a concert in cash","target":"{\"amount\": 1225, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": \"Spotify\", \"payment_method\": \"cash\"}"}
+{"text":"Rs 1,045 for shoes from Ajio on UPI","target":"{\"amount\": 1045, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": \"Ajio\", \"payment_method\": \"upi\"}"}
+{"text":"Paid Indian Oil ₹1900 for petrol by cash","target":"{\"amount\": 1900, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": \"Indian Oil\", \"payment_method\": \"cash\"}"}
+{"text":"Bought a concert from INOX for ₹764 in cash","target":"{\"amount\": 764, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": \"INOX\", \"payment_method\": \"cash\"}"}
+{"text":"Bought a cab ride from IndiGo for Rs 7,300","target":"{\"amount\": 7300, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": \"IndiGo\", \"payment_method\": null}"}
+{"text":"Paid DMart Rs 1,700 for shoes","target":"{\"amount\": 1700, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": \"DMart\", \"payment_method\": null}"}
+{"text":"USD 120 for a flight by cash","target":"{\"amount\": 120, \"currency\": \"USD\", \"category\": \"travel\", \"merchant\": null, \"payment_method\": \"cash\"}"}
+{"text":"Paid Dominos 4856 rupees for pizza by card","target":"{\"amount\": 4856, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": \"Dominos\", \"payment_method\": \"card\"}"}
+{"text":"Spent ₹464 on the gas bill at Airtel","target":"{\"amount\": 464, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": \"Airtel\", \"payment_method\": null}"}
+{"text":"Spent 3373 INR on vitamins at 1mg via UPI","target":"{\"amount\": 3373, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"1mg\", \"payment_method\": \"upi\"}"}
+{"text":"Log Rs 350 - movie tickets, Steam by card","target":"{\"amount\": 350, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": \"Steam\", \"payment_method\": \"card\"}"}
+{"text":"₹8441 for coffee from Swiggy in cash","target":"{\"amount\": 8441, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": \"Swiggy\", \"payment_method\": \"cash\"}"}
+{"text":"₹446 for a game from INOX by cash","target":"{\"amount\": 446, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": \"INOX\", \"payment_method\": \"cash\"}"}
+{"text":"Rs 4,000 for vitamins from Cult.fit using debit card","target":"{\"amount\": 4000, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"Cult.fit\", \"payment_method\": \"card\"}"}
+{"text":"Log Rs 6800 - biryani, McDonald's in cash","target":"{\"amount\": 6800, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": \"McDonald's\", \"payment_method\": \"cash\"}"}
+{"text":"Rs 8827 for a mobile recharge","target":"{\"amount\": 8827, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": null, \"payment_method\": null}"}
+{"text":"Paid Apollo Pharmacy 7300 rupees for vitamins via UPI","target":"{\"amount\": 7300, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"Apollo Pharmacy\", \"payment_method\": \"upi\"}"}
+{"text":"Paid Dominos Rs 6,400 for dinner on UPI","target":"{\"amount\": 6400, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": \"Dominos\", \"payment_method\": \"upi\"}"}
+{"text":"Airtel the gas bill 218.27 dollars","target":"{\"amount\": 218.27, \"currency\": \"USD\", \"category\": \"bills\", \"merchant\": \"Airtel\", \"payment_method\": null}"}
+{"text":"Spent ₹2600 on a backpack on UPI","target":"{\"amount\": 2600, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": null, \"payment_method\": \"upi\"}"}
+{"text":"Spent 4486 INR on the DTH recharge at BESCOM using UPI","target":"{\"amount\": 4486, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": \"BESCOM\", \"payment_method\": \"upi\"}"}
+{"text":"Log 453 INR - a gym membership, Practo with my card","target":"{\"amount\": 453, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"Practo\", \"payment_method\": \"card\"}"}
+{"text":"Spent 476 rupees on a blood test on UPI","target":"{\"amount\": 476, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": null, \"payment_method\": \"upi\"}"}
+{"text":"Spent Rs 2,000 on a cab ride in cash","target":"{\"amount\": 2000, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": null, \"payment_method\": \"cash\"}"}
+{"text":"Bought movie tickets from INOX for $150.99 with my card","target":"{\"amount\": 150.99, \"currency\": \"USD\", \"category\": \"entertainment\", \"merchant\": \"INOX\", \"payment_method\": \"card\"}"}
+{"text":"Log ₹2700 - medicines, PharmEasy","target":"{\"amount\": 2700, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"PharmEasy\", \"payment_method\": null}"}
+{"text":"Log ₹3600 - a subscription, PVR","target":"{\"amount\": 3600, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": \"PVR\", \"payment_method\": null}"}
+{"text":"Rs 3,908 for breakfast by card","target":"{\"amount\": 3908, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": null, \"payment_method\": \"card\"}"}
+{"text":"Jio the wifi bill Rs 3100 with my card","target":"{\"amount\": 3100, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": \"Jio\", \"payment_method\": \"card\"}"}
+{"text":"Paid PharmEasy Rs 2888 for a blood test using UPI","target":"{\"amount\": 2888, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"PharmEasy\", \"payment_method\": \"upi\"}"}
+{"text":"Spent Rs. 6900 on a mobile recharge at Airtel with my card","target":"{\"amount\": 6900, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": \"Airtel\", \"payment_method\": \"card\"}"}
+{"text":"Bought vitamins from Cult.fit for Rs 8,545 using UPI","target":"{\"amount\": 8545, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"Cult.fit\", \"payment_method\": \"upi\"}"}
+{"text":"Spent 1100 rupees on a flight at Ola using debit card","target":"{\"amount\": 1100, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": \"Ola\", \"payment_method\": \"card\"}"}
+{"text":"Rs 6331 for a mobile recharge using debit card","target":"{\"amount\": 6331, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": null, \"payment_method\": \"card\"}"}
+{"text":"Spent Rs 775 on a game by cash","target":"{\"amount\": 775, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": null, \"payment_method\": \"cash\"}"}
+{"text":"Log 139 rupees - the electricity bill, BSNL via UPI","target":"{\"amount\": 139, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": \"BSNL\", \"payment_method\": \"upi\"}"}
+{"text":"Log Rs 636 - a doctor visit, Netmeds by card","target":"{\"amount\": 636, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"Netmeds\", \"payment_method\": \"card\"}"}
+{"text":"Log Rs 775 - headphones, Ajio in cash","target":"{\"amount\": 775, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": \"Ajio\", \"payment_method\": \"cash\"}"}
+{"text":"Spent ₹6900 on a blood test on UPI","target":"{\"amount\": 6900, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": null, \"payment_method\": \"upi\"}"}
+{"text":"Spent Rs. 1700 on a concert at Hotstar on UPI","target":"{\"amount\": 1700, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": \"Hotstar\", \"payment_method\": \"upi\"}"}
+{"text":"Bought headphones from Ajio for 4800 rupees by cash","target":"{\"amount\": 4800, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": \"Ajio\", \"payment_method\": \"cash\"}"}
+{"text":"Rs 1,388 for an auto ride with my card","target":"{\"amount\": 1388, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": null, \"payment_method\": \"card\"}"}
+{"text":"just paid Rs 5,200 to Indian Oil using UPI","target":"{\"amount\": 5200, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": \"Indian Oil\", \"payment_method\": \"upi\"}"}
+{"text":"Swiggy pizza USD 54 by cash","target":"{\"amount\": 54, \"currency\": \"USD\", \"category\": \"food\", \"merchant\": \"Swiggy\", \"payment_method\": \"cash\"}"}
+{"text":"Paid Ola Rs 6300 for a cab ride in cash","target":"{\"amount\": 6300, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": \"Ola\", \"payment_method\": \"cash\"}"}
+{"text":"Log ₹5100 - an auto ride, Rapido","target":"{\"amount\": 5100, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": \"Rapido\", \"payment_method\": null}"}
+{"text":"Paid IRCTC ₹1168 for petrol using UPI","target":"{\"amount\": 1168, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": \"IRCTC\", \"payment_method\": \"upi\"}"}
+{"text":"Log 6287 rupees - a blood test, MedPlus via UPI","target":"{\"amount\": 6287, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"MedPlus\", \"payment_method\": \"upi\"}"}
+{"text":"Spent Rs. 3500 on a cab ride","target":"{\"amount\": 3500, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": null, \"payment_method\": null}"}
+{"text":"Log Rs. 4700 - biryani, Zomato via UPI","target":"{\"amount\": 4700, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": \"Zomato\", \"payment_method\": \"upi\"}"}
+{"text":"Rs. 7038 for vitamins from Netmeds by cash","target":"{\"amount\": 7038, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"Netmeds\", \"payment_method\": \"cash\"}"}
+{"text":"just paid Rs. 172 to PharmEasy by cash","target":"{\"amount\": 172, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"PharmEasy\", \"payment_method\": \"cash\"}"}
+{"text":"RedBus petrol Rs 6700 by cash","target":"{\"amount\": 6700, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": \"RedBus\", \"payment_method\": \"cash\"}"}
+{"text":"Bought vitamins from 1mg for 129.13 dollars with my card","target":"{\"amount\": 129.13, \"currency\": \"USD\", \"category\": \"health\", \"merchant\": \"1mg\", \"payment_method\": \"card\"}"}
+{"text":"just paid 5204 rupees to Flipkart using debit card","target":"{\"amount\": 5204, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": \"Flipkart\", \"payment_method\": \"card\"}"}
+{"text":"IRCTC a flight 901 rupees by cash","target":"{\"amount\": 901, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": \"IRCTC\", \"payment_method\": \"cash\"}"}
+{"text":"Spent 382 rupees on an auto ride","target":"{\"amount\": 382, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": null, \"payment_method\": null}"}
+{"text":"Paid Dominos Rs 823 for biryani","target":"{\"amount\": 823, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": \"Dominos\", \"payment_method\": null}"}
+{"text":"KFC biryani USD 103.94","target":"{\"amount\": 103.94, \"currency\": \"USD\", \"category\": \"food\", \"merchant\": \"KFC\", \"payment_method\": null}"}
+{"text":"Rapido a cab ride 7541 rupees","target":"{\"amount\": 7541, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": \"Rapido\", \"payment_method\": null}"}
+{"text":"just paid 518 rupees to Myntra with my card","target":"{\"amount\": 518, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": \"Myntra\", \"payment_method\": \"card\"}"}
+{"text":"₹277 for a doctor visit from Practo using debit card","target":"{\"amount\": 277, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"Practo\", \"payment_method\": \"card\"}"}
+{"text":"Log 3541 INR - dinner, Haldiram's","target":"{\"amount\": 3541, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": \"Haldiram's\", \"payment_method\": null}"}
+{"text":"just paid Rs 3,102 to 1mg by card","target":"{\"amount\": 3102, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"1mg\", \"payment_method\": \"card\"}"}
+{"text":"Spent 1698 INR on biryani at Starbucks","target":"{\"amount\": 1698, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": \"Starbucks\", \"payment_method\": null}"}
+{"text":"Spent Rs. 7900 on medicines via UPI","target":"{\"amount\": 7900, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": null, \"payment_method\": \"upi\"}"}
+{"text":"110 dollars for snacks from Dominos","target":"{\"amount\": 110, \"currency\": \"USD\", \"category\": \"food\", \"merchant\": \"Dominos\", \"payment_method\": null}"}
+{"text":"₹911 for a bus ticket from IRCTC with my card","target":"{\"amount\": 911, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": \"IRCTC\", \"payment_method\": \"card\"}"}
+{"text":"Spent Rs. 519 on headphones","target":"{\"amount\": 519, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": null, \"payment_method\": null}"}
+{"text":"Hotstar a game 243 INR using debit card","target":"{\"amount\": 243, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": \"Hotstar\", \"payment_method\": \"card\"}"}
+{"text":"just paid 3700 rupees to Spotify by cash","target":"{\"amount\": 3700, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": \"Spotify\", \"payment_method\": \"cash\"}"}
+{"text":"Paid Apollo Pharmacy ₹3900 for a doctor visit with my card","target":"{\"amount\": 3900, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"Apollo Pharmacy\", \"payment_method\": \"card\"}"}
+{"text":"Bought headphones from Decathlon for 5260 rupees via UPI","target":"{\"amount\": 5260, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": \"Decathlon\", \"payment_method\": \"upi\"}"}
+{"text":"MedPlus vitamins 21.33 dollars","target":"{\"amount\": 21.33, \"currency\": \"USD\", \"category\": \"health\", \"merchant\": \"MedPlus\", \"payment_method\": null}"}
+{"text":"Log ₹411 - a game, INOX","target":"{\"amount\": 411, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": \"INOX\", \"payment_method\": null}"}
+{"text":"just paid 5700 INR to 1mg via UPI","target":"{\"amount\": 5700, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"1mg\", \"payment_method\": \"upi\"}"}
+{"text":"22 INR for a cab ride from Rapido using debit card","target":"{\"amount\": 22, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": \"Rapido\", \"payment_method\": \"card\"}"}
+{"text":"2200 rupees for the DTH recharge from Jio by card","target":"{\"amount\": 2200, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": \"Jio\", \"payment_method\": \"card\"}"}
+{"text":"Paid IndiGo 2647 rupees for petrol","target":"{\"amount\": 2647, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": \"IndiGo\", \"payment_method\": null}"}
+{"text":"Spent 388 INR on medicines at 1mg in cash","target":"{\"amount\": 388, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"1mg\", \"payment_method\": \"cash\"}"}
+{"text":"Spent Rs 9853 on shoes at DMart on UPI","target":"{\"amount\": 9853, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": \"DMart\", \"payment_method\": \"upi\"}"}
+{"text":"Bought dinner from Zomato for 960 INR using UPI","target":"{\"amount\": 960, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": \"Zomato\", \"payment_method\": \"upi\"}"}
+{"text":"Spent Rs. 195 on a cab ride at Uber by cash","target":"{\"amount\": 195, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": \"Uber\", \"payment_method\": \"cash\"}"}
+{"text":"Spent Rs. 6541 on a train ticket","target":"{\"amount\": 6541, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": null, \"payment_method\": null}"}
+{"text":"just paid Rs. 26 to Practo by cash","target":"{\"amount\": 26, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"Practo\", \"payment_method\": \"cash\"}"}
+{"text":"268 rupees for vitamins from MedPlus using debit card","target":"{\"amount\": 268, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"MedPlus\", \"payment_method\": \"card\"}"}
+{"text":"just paid Rs 4800 to Steam","target":"{\"amount\": 4800, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": \"Steam\", \"payment_method\": null}"}
+{"text":"just paid 5000 INR to Indian Oil using debit card","target":"{\"amount\": 5000, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": \"Indian Oil\", \"payment_method\": \"card\"}"}
+{"text":"Spent Rs. 3610 on a gym membership by cash","target":"{\"amount\": 3610, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": null, \"payment_method\": \"cash\"}"}
+{"text":"Paid Ajio 3800 INR for a backpack on UPI","target":"{\"amount\": 3800, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": \"Ajio\", \"payment_method\": \"upi\"}"}
+{"text":"Rs 799 for a game from INOX by cash","target":"{\"amount\": 799, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": \"INOX\", \"payment_method\": \"cash\"}"}
+{"text":"just paid 343 INR to Vodafone Idea","target":"{\"amount\": 343, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": \"Vodafone Idea\", \"payment_method\": null}"}
+{"text":"$248 for a cab ride by cash","target":"{\"amount\": 248, \"currency\": \"USD\", \"category\": \"travel\", \"merchant\": null, \"payment_method\": \"cash\"}"}
+{"text":"Paid INOX Rs 4,500 for a game","target":"{\"amount\": 4500, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": \"INOX\", \"payment_method\": null}"}
+{"text":"Spent Rs. 4300 on the DTH recharge using UPI","target":"{\"amount\": 4300, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": null, \"payment_method\": \"upi\"}"}
+{"text":"MedPlus a doctor visit Rs 4800 in cash","target":"{\"amount\": 4800, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"MedPlus\", \"payment_method\": \"cash\"}"}
+{"text":"Steam bowling USD 77 via UPI","target":"{\"amount\": 77, \"currency\": \"USD\", \"category\": \"entertainment\", \"merchant\": \"Steam\", \"payment_method\": \"upi\"}"}
+{"text":"Uber a cab ride Rs. 409 in cash","target":"{\"amount\": 409, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": \"Uber\", \"payment_method\": \"cash\"}"}
+{"text":"just paid Rs 161 to Dominos","target":"{\"amount\": 161, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": \"Dominos\", \"payment_method\": null}"}
+{"text":"Spent 250 rupees on a train ticket in cash","target":"{\"amount\": 250, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": null, \"payment_method\": \"cash\"}"}
+{"text":"just paid 143 dollars to Ajio on UPI","target":"{\"amount\": 143, \"currency\": \"USD\", \"category\": \"shopping\", \"merchant\": \"Ajio\", \"payment_method\": \"upi\"}"}
+{"text":"160 rupees for petrol via UPI","target":"{\"amount\": 160, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": null, \"payment_method\": \"upi\"}"}
+{"text":"Bought a train ticket from Uber for 4700 rupees on UPI","target":"{\"amount\": 4700, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": \"Uber\", \"payment_method\": \"upi\"}"}
+{"text":"$42 for snacks from Haldiram's in cash","target":"{\"amount\": 42, \"currency\": \"USD\", \"category\": \"food\", \"merchant\": \"Haldiram's\", \"payment_method\": \"cash\"}"}
+{"text":"5095 INR for a bus ticket from Indian Oil on UPI","target":"{\"amount\": 5095, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": \"Indian Oil\", \"payment_method\": \"upi\"}"}
+{"text":"2600 INR for a train ticket from IRCTC","target":"{\"amount\": 2600, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": \"IRCTC\", \"payment_method\": null}"}
+{"text":"Paid Cult.fit 3400 rupees for a gym membership by card","target":"{\"amount\": 3400, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"Cult.fit\", \"payment_method\": \"card\"}"}
+{"text":"Spent $45.69 on snacks","target":"{\"amount\": 45.69, \"currency\": \"USD\", \"category\": \"food\", \"merchant\": null, \"payment_method\": null}"}
+{"text":"Rs. 4400 for pizza from Zomato in cash","target":"{\"amount\": 4400, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": \"Zomato\", \"payment_method\": \"cash\"}"}
+{"text":"Paid Netmeds ₹926 for medicines in cash","target":"{\"amount\": 926, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"Netmeds\", \"payment_method\": \"cash\"}"}
+{"text":"Rs 5,366 for a train ticket from RedBus using debit card","target":"{\"amount\": 5366, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": \"RedBus\", \"payment_method\": \"card\"}"}
+{"text":"just paid ₹2183 to DMart","target":"{\"amount\": 2183, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": \"DMart\", \"payment_method\": null}"}
+{"text":"Paid Flipkart Rs. 3690 for a backpack by cash","target":"{\"amount\": 3690, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": \"Flipkart\", \"payment_method\": \"cash\"}"}
+{"text":"Rs 2900 for lunch from Starbucks","target":"{\"amount\": 2900, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": \"Starbucks\", \"payment_method\": null}"}
+{"text":"Spent Rs 3300 on headphones","target":"{\"amount\": 3300, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": null, \"payment_method\": null}"}
+{"text":"Paid 1mg 6400 rupees for a doctor visit in cash","target":"{\"amount\": 6400, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"1mg\", \"payment_method\": \"cash\"}"}
+{"text":"Ola an auto ride ₹2200","target":"{\"amount\": 2200, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": \"Ola\", \"payment_method\": null}"}
+{"text":"Uber a cab ride 100.04 dollars","target":"{\"amount\": 100.04, \"currency\": \"USD\", \"category\": \"travel\", \"merchant\": \"Uber\", \"payment_method\": null}"}
+{"text":"USD 57.24 for shoes from Amazon via UPI","target":"{\"amount\": 57.24, \"currency\": \"USD\", \"category\": \"shopping\", \"merchant\": \"Amazon\", \"payment_method\": \"upi\"}"}
+{"text":"Paid Vodafone Idea ₹5800 for the gas bill using debit card","target":"{\"amount\": 5800, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": \"Vodafone Idea\", \"payment_method\": \"card\"}"}
+{"text":"Paid PharmEasy 6355 rupees for a gym membership with my card","target":"{\"amount\": 6355, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"PharmEasy\", \"payment_method\": \"card\"}"}
+{"text":"Spent 239 rupees on vitamins at Cult.fit by cash","target":"{\"amount\": 239, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"Cult.fit\", \"payment_method\": \"cash\"}"}
+{"text":"Rs 1,300 for snacks with my card","target":"{\"amount\": 1300, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": null, \"payment_method\": \"card\"}"}
+{"text":"Bought breakfast from Zomato for Rs 6700 using debit card","target":"{\"amount\": 6700, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": \"Zomato\", \"payment_method\": \"card\"}"}
+{"text":"Rs. 6872 for coffee in cash","target":"{\"amount\": 6872, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": null, \"payment_method\": \"cash\"}"}
+{"text":"Bought the gas bill from Vodafone Idea for 193 INR by cash","target":"{\"amount\": 193, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": \"Vodafone Idea\", \"payment_method\": \"cash\"}"}
+{"text":"Paid INOX Rs 5,600 for movie tickets by card","target":"{\"amount\": 5600, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": \"INOX\", \"payment_method\": \"card\"}"}
+{"text":"Spent 179 INR on a mobile recharge at Jio with my card","target":"{\"amount\": 179, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": \"Jio\", \"payment_method\": \"card\"}"}
+{"text":"Bought a backpack from Decathlon for $78 with my card","target":"{\"amount\": 78, \"currency\": \"USD\", \"category\": \"shopping\", \"merchant\": \"Decathlon\", \"payment_method\": \"card\"}"}
+{"text":"Bought medicines from Apollo Pharmacy for 1000 rupees by cash","target":"{\"amount\": 1000, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"Apollo Pharmacy\", \"payment_method\": \"cash\"}"}
+{"text":"Paid Uber 7100 INR for a cab ride","target":"{\"amount\": 7100, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": \"Uber\", \"payment_method\": null}"}
+{"text":"Rs. 6091 for movie tickets","target":"{\"amount\": 6091, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": null, \"payment_method\": null}"}
+{"text":"Spent ₹761 on a t-shirt with my card","target":"{\"amount\": 761, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": null, \"payment_method\": \"card\"}"}
+{"text":"Spent Rs 1300 on the DTH recharge at Airtel with my card","target":"{\"amount\": 1300, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": \"Airtel\", \"payment_method\": \"card\"}"}
+{"text":"just paid Rs 5,200 to INOX","target":"{\"amount\": 5200, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": \"INOX\", \"payment_method\": null}"}
+{"text":"just paid Rs 291 to BESCOM on UPI","target":"{\"amount\": 291, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": \"BESCOM\", \"payment_method\": \"upi\"}"}
+{"text":"Log Rs 5,292 - a bus ticket, Indian Oil with my card","target":"{\"amount\": 5292, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": \"Indian Oil\", \"payment_method\": \"card\"}"}
+{"text":"Log 704 rupees - an auto ride, RedBus via UPI","target":"{\"amount\": 704, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": \"RedBus\", \"payment_method\": \"upi\"}"}
+{"text":"Rs 5643 for biryani using UPI","target":"{\"amount\": 5643, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": null, \"payment_method\": \"upi\"}"}
+{"text":"Paid PVR 656 rupees for a concert by card","target":"{\"amount\": 656, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": \"PVR\", \"payment_method\": \"card\"}"}
+{"text":"DMart a phone cover Rs. 7397 by cash","target":"{\"amount\": 7397, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": \"DMart\", \"payment_method\": \"cash\"}"}
+{"text":"PVR a subscription Rs. 2300 using UPI","target":"{\"amount\": 2300, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": \"PVR\", \"payment_method\": \"upi\"}"}
+{"text":"Spent Rs 7136 on vitamins by card","target":"{\"amount\": 7136, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": null, \"payment_method\": \"card\"}"}
+{"text":"Spent ₹1236 on headphones at Flipkart","target":"{\"amount\": 1236, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": \"Flipkart\", \"payment_method\": null}"}
+{"text":"269 rupees for the gas bill from ACT Fibernet in cash","target":"{\"amount\": 269, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": \"ACT Fibernet\", \"payment_method\": \"cash\"}"}
+{"text":"just paid ₹2600 to Rapido by cash","target":"{\"amount\": 2600, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": \"Rapido\", \"payment_method\": \"cash\"}"}
+{"text":"just paid Rs 1500 to 1mg in cash","target":"{\"amount\": 1500, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"1mg\", \"payment_method\": \"cash\"}"}
+{"text":"Rs. 799 for a blood test by cash","target":"{\"amount\": 799, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": null, \"payment_method\": \"cash\"}"}
+{"text":"Airtel a mobile recharge Rs. 894 in cash","target":"{\"amount\": 894, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": \"Airtel\", \"payment_method\": \"cash\"}"}
+{"text":"Log 6000 rupees - vitamins, Practo","target":"{\"amount\": 6000, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"Practo\", \"payment_method\": null}"}
+{"text":"Spent Rs 87 on groceries","target":"{\"amount\": 87, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": null, \"payment_method\": null}"}
+{"text":"Paid Indian Oil 458 INR for a train ticket","target":"{\"amount\": 458, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": \"Indian Oil\", \"payment_method\": null}"}
+{"text":"Paid Steam 240 rupees for a game with my card","target":"{\"amount\": 240, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": \"Steam\", \"payment_method\": \"card\"}"}
+{"text":"Spent ₹4300 on a cab ride by cash","target":"{\"amount\": 4300, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": null, \"payment_method\": \"cash\"}"}
+{"text":"Spent Rs 6900 on a mobile recharge by cash","target":"{\"amount\": 6900, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": null, \"payment_method\": \"cash\"}"}
+{"text":"Paid KFC Rs. 6200 for dinner using UPI","target":"{\"amount\": 6200, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": \"KFC\", \"payment_method\": \"upi\"}"}
+{"text":"Paid Practo 7500 rupees for a doctor visit by card","target":"{\"amount\": 7500, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"Practo\", \"payment_method\": \"card\"}"}
+{"text":"just paid ₹6000 to BSNL using UPI","target":"{\"amount\": 6000, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": \"BSNL\", \"payment_method\": \"upi\"}"}
+{"text":"Myntra a phone cover Rs. 5500 on UPI","target":"{\"amount\": 5500, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": \"Myntra\", \"payment_method\": \"upi\"}"}
+{"text":"Bought a train ticket from Ola for ₹1000","target":"{\"amount\": 1000, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": \"Ola\", \"payment_method\": null}"}
+{"text":"Paid PharmEasy USD 191.04 for a gym membership","target":"{\"amount\": 191.04, \"currency\": \"USD\", \"category\": \"health\", \"merchant\": \"PharmEasy\", \"payment_method\": null}"}
+{"text":"4500 INR for a backpack","target":"{\"amount\": 4500, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": null, \"payment_method\": null}"}
+{"text":"Spent 1630 rupees on the gas bill at ACT Fibernet by card","target":"{\"amount\": 1630, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": \"ACT Fibernet\", \"payment_method\": \"card\"}"}
+{"text":"Bought a blood test from MedPlus for 305 INR with my card","target":"{\"amount\": 305, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"MedPlus\", \"payment_method\": \"card\"}"}
+{"text":"Spent Rs. 5200 on headphones at Ajio in cash","target":"{\"amount\": 5200, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": \"Ajio\", \"payment_method\": \"cash\"}"}
+{"text":"Spent Rs 6724 on an auto ride","target":"{\"amount\": 6724, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": null, \"payment_method\": null}"}
+{"text":"378 rupees for a concert with my card","target":"{\"amount\": 378, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": null, \"payment_method\": \"card\"}"}
+{"text":"Bought dinner from Haldiram's for Rs. 2700 using UPI","target":"{\"amount\": 2700, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": \"Haldiram's\", \"payment_method\": \"upi\"}"}
+{"text":"Spent 7100 INR on a backpack in cash","target":"{\"amount\": 7100, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": null, \"payment_method\": \"cash\"}"}
+{"text":"Rs 442 for a t-shirt from Myntra by cash","target":"{\"amount\": 442, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": \"Myntra\", \"payment_method\": \"cash\"}"}
+{"text":"Spent 7620 rupees on a doctor visit at PharmEasy in cash","target":"{\"amount\": 7620, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"PharmEasy\", \"payment_method\": \"cash\"}"}
+{"text":"Bought medicines from Cult.fit for 5100 rupees using UPI","target":"{\"amount\": 5100, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"Cult.fit\", \"payment_method\": \"upi\"}"}
+{"text":"Paid Zomato 11 dollars for coffee by cash","target":"{\"amount\": 11, \"currency\": \"USD\", \"category\": \"food\", \"merchant\": \"Zomato\", \"payment_method\": \"cash\"}"}
+{"text":"Bought medicines from Cult.fit for Rs. 3500","target":"{\"amount\": 3500, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"Cult.fit\", \"payment_method\": null}"}
+{"text":"Log ₹4400 - coffee, Zomato using UPI","target":"{\"amount\": 4400, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": \"Zomato\", \"payment_method\": \"upi\"}"}
+{"text":"Ola an auto ride 169 rupees via UPI","target":"{\"amount\": 169, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": \"Ola\", \"payment_method\": \"upi\"}"}
+{"text":"Paid ACT Fibernet ₹1800 for the wifi bill on UPI","target":"{\"amount\": 1800, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": \"ACT Fibernet\", \"payment_method\": \"upi\"}"}
+{"text":"Bought a blood test from Cult.fit for ₹5900 using debit card","target":"{\"amount\": 5900, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": \"Cult.fit\", \"payment_method\": \"card\"}"}
+{"text":"Spent Rs 4378 on a concert using debit card","target":"{\"amount\": 4378, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": null, \"payment_method\": \"card\"}"}
+{"text":"Paid Ajio $81 for a phone cover using UPI","target":"{\"amount\": 81, \"currency\": \"USD\", \"category\": \"shopping\", \"merchant\": \"Ajio\", \"payment_method\": \"upi\"}"}
+{"text":"IRCTC a train ticket Rs. 558","target":"{\"amount\": 558, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": \"IRCTC\", \"payment_method\": null}"}
+{"text":"Spent Rs. 232 on shoes at Amazon using debit card","target":"{\"amount\": 232, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": \"Amazon\", \"payment_method\": \"card\"}"}
+{"text":"just paid 109 INR to Netflix by cash","target":"{\"amount\": 109, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": \"Netflix\", \"payment_method\": \"cash\"}"}
+{"text":"Log 6900 rupees - a phone cover, DMart by card","target":"{\"amount\": 6900, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": \"DMart\", \"payment_method\": \"card\"}"}
+{"text":"Bought groceries from Ajio for Rs. 799 by card","target":"{\"amount\": 799, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": \"Ajio\", \"payment_method\": \"card\"}"}
+{"text":"Spent 4868 rupees on lunch at Starbucks in cash","target":"{\"amount\": 4868, \"currency\": \"INR\", \"category\": \"food\", \"merchant\": \"Starbucks\", \"payment_method\": \"cash\"}"}
+{"text":"Log ₹601 - the electricity bill, Airtel via UPI","target":"{\"amount\": 601, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": \"Airtel\", \"payment_method\": \"upi\"}"}
+{"text":"Spent $158 on a blood test","target":"{\"amount\": 158, \"currency\": \"USD\", \"category\": \"health\", \"merchant\": null, \"payment_method\": null}"}
+{"text":"₹5400 for a blood test in cash","target":"{\"amount\": 5400, \"currency\": \"INR\", \"category\": \"health\", \"merchant\": null, \"payment_method\": \"cash\"}"}
+{"text":"IRCTC a cab ride Rs 5800","target":"{\"amount\": 5800, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": \"IRCTC\", \"payment_method\": null}"}
+{"text":"Spent USD 145 on a blood test at 1mg using debit card","target":"{\"amount\": 145, \"currency\": \"USD\", \"category\": \"health\", \"merchant\": \"1mg\", \"payment_method\": \"card\"}"}
+{"text":"Spent 5554 INR on a game at Steam with my card","target":"{\"amount\": 5554, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": \"Steam\", \"payment_method\": \"card\"}"}
+{"text":"Spent 3928 rupees on an auto ride with my card","target":"{\"amount\": 3928, \"currency\": \"INR\", \"category\": \"travel\", \"merchant\": null, \"payment_method\": \"card\"}"}
+{"text":"$59.33 for the gas bill by card","target":"{\"amount\": 59.33, \"currency\": \"USD\", \"category\": \"bills\", \"merchant\": null, \"payment_method\": \"card\"}"}
+{"text":"Spent 2708 rupees on a phone cover","target":"{\"amount\": 2708, \"currency\": \"INR\", \"category\": \"shopping\", \"merchant\": null, \"payment_method\": null}"}
+{"text":"PVR bowling 1700 INR using UPI","target":"{\"amount\": 1700, \"currency\": \"INR\", \"category\": \"entertainment\", \"merchant\": \"PVR\", \"payment_method\": \"upi\"}"}
+{"text":"Spent 8980 INR on the electricity bill using debit card","target":"{\"amount\": 8980, \"currency\": \"INR\", \"category\": \"bills\", \"merchant\": null, \"payment_method\": \"card\"}"}
+{"text":"just paid USD 121 to RedBus by card","target":"{\"amount\": 121, \"currency\": \"USD\", \"category\": \"travel\", \"merchant\": \"RedBus\", \"payment_method\": \"card\"}"}

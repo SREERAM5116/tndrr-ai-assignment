@@ -1,0 +1,605 @@
+text,gold,base_output,finetuned_output,ft_valid_json,ft_amount,ft_currency,ft_category,ft_merchant,ft_payment_method,ft_exact_match
+Yesterday's coffee at Barbeque Nation cost me 5121 rupees on my Visa,"{""amount"": 5121, ""currency"": ""INR"", ""category"": ""food"", ""merchant"": ""Barbeque Nation"", ""payment_method"": ""card""}","{
+  ""amount"": 5121,
+  ""currency"": ""INR"",
+  ""category"": ""food"",
+  ""merchant"": ""Barbeque Nation"",
+  ""payment_method"": ""visa""
+}","{""amount"": 5121, ""currency"": ""INR"", ""category"": ""food"", ""merchant"": ""Barbeque Nation"", ""payment_method"": ""card""}",True,True,True,True,True,True,True
+My medicines (Dr Lal PathLabs) came to 5700 rupees,"{""amount"": 5700, ""currency"": ""INR"", ""category"": ""health"", ""merchant"": ""Dr Lal PathLabs"", ""payment_method"": null}","{
+  ""amount"": 5700,
+  ""currency"": ""INR"",
+  ""category"": ""food"",
+  ""merchant"": ""Dr Lal PathLabs"",
+  ""payment_method"": ""cash""
+}","{""amount"": 5700, ""currency"": ""INR"", ""category"": ""health"", ""merchant"": ""Dr Lal PathLabs"", ""payment_method"": null}",True,True,True,True,True,True,True
+My a t-shirt (Nykaa) came to 558 rupees,"{""amount"": 558, ""currency"": ""INR"", ""category"": ""shopping"", ""merchant"": ""Nykaa"", ""payment_method"": null}","{
+  ""amount"": 558,
+  ""currency"": ""INR"",
+  ""category"": ""food"",
+  ""merchant"": null,
+  ""payment_method"": ""cash""
+}","{""amount"": 558, ""currency"": ""INR"", ""category"": ""shopping"", ""merchant"": ""Nykaa"", ""payment_method"": null}",True,True,True,True,True,True,True
+just paid ₹7793 to Big Bazaar through PhonePe,"{""amount"": 7793, ""currency"": ""INR"", ""category"": ""shopping"", ""merchant"": ""Big Bazaar"", ""payment_method"": ""upi""}","{
+  ""amount"": 7793,
+  ""currency"": ""INR"",
+  ""category"": ""shopping"",
+  ""merchant"": ""Big Bazaar"",
+  ""payment_method"": ""PhonePe""
+}","{""amount"": 7793, ""currency"": ""INR"", ""category"": ""shopping"", ""merchant"": ""Big Bazaar"", ""payment_method"": ""upi""}",True,True,True,True,True,True,True
+Spent ₹7.2k on the gas bill with Paytm,"{""amount"": 7200, ""currency"": ""INR"", ""category"": ""bills"", ""merchant"": null, ""payment_method"": ""upi""}","{
+  ""amount"": 7200,
+  ""currency"": ""INR"",
+  ""category"": ""bills"",
+  ""merchant"": ""Paytm"",
+  ""payment_method"": ""cash""
+}","{""amount"": 7200, ""currency"": ""INR"", ""category"": ""bills"", ""merchant"": ""Paytm"", ""payment_method"": ""upi""}",True,True,True,True,False,True,False
+Spent ₹3720 on groceries via GPay,"{""amount"": 3720, ""currency"": ""INR"", ""category"": ""shopping"", ""merchant"": null, ""payment_method"": ""upi""}","{
+  ""amount"": 3720,
+  ""currency"": ""INR"",
+  ""category"": ""groceries"",
+  ""merchant"": ""GPay"",
+  ""payment_method"": ""gpay""
+}","{""amount"": 3720, ""currency"": ""INR"", ""category"": ""shopping"", ""merchant"": null, ""payment_method"": ""upi""}",True,True,True,True,True,True,True
+6109 INR for a gym membership by credit card,"{""amount"": 6109, ""currency"": ""INR"", ""category"": ""health"", ""merchant"": null, ""payment_method"": ""card""}","{
+  ""amount"": 6109,
+  ""currency"": ""INR"",
+  ""category"": ""food"",
+  ""merchant"": ""gym membership"",
+  ""payment_method"": ""credit card""
+}","{""amount"": 6109, ""currency"": ""INR"", ""category"": ""health"", ""merchant"": null, ""payment_method"": ""card""}",True,True,True,True,True,True,True
+Note down USD 245 that I gave PharmEasy for medicines paid cash,"{""amount"": 245, ""currency"": ""USD"", ""category"": ""health"", ""merchant"": ""PharmEasy"", ""payment_method"": ""cash""}","{
+  ""amount"": 245,
+  ""currency"": ""INR"",
+  ""category"": ""food"",
+  ""merchant"": ""PharmEasy"",
+  ""payment_method"": ""cash""
+}","{""amount"": 245, ""currency"": ""USD"", ""category"": ""health"", ""merchant"": ""PharmEasy"", ""payment_method"": ""cash""}",True,True,True,True,True,True,True
+Paid Ajio 894 rupees for shoes by cash,"{""amount"": 894, ""currency"": ""INR"", ""category"": ""shopping"", ""merchant"": ""Ajio"", ""payment_method"": ""cash""}","{
+  ""amount"": 894,
+  ""currency"": ""INR"",
+  ""category"": ""shoes"",
+  ""merchant"": ""Ajio"",
+  ""payment_method"": ""cash""
+}","{""amount"": 894, ""currency"": ""INR"", ""category"": ""shopping"", ""merchant"": ""Ajio"", ""payment_method"": ""cash""}",True,True,True,True,True,True,True
+Can you add an expense of 23 dollars for a t-shirt? It was at Reliance Trends by cash,"{""amount"": 23, ""currency"": ""USD"", ""category"": ""shopping"", ""merchant"": ""Reliance Trends"", ""payment_method"": ""cash""}","{
+  ""amount"": 23,
+  ""currency"": ""INR"",
+  ""category"": ""food"",
+  ""merchant"": ""Reliance Trends"",
+  ""payment_method"": ""cash""
+}","{""amount"": 23, ""currency"": ""USD"", ""category"": ""shopping"", ""merchant"": ""Reliance Trends"", ""payment_method"": ""cash""}",True,True,True,True,True,True,True
+Spent 833 INR on an auto ride at IRCTC by cash,"{""amount"": 833, ""currency"": ""INR"", ""category"": ""travel"", ""merchant"": ""IRCTC"", ""payment_method"": ""cash""}","{""amount"":833,""currency"":""INR"",""category"":""food"",""merchant"":"""",""payment_method"":""cash""}","{""amount"": 833, ""currency"": ""INR"", ""category"": ""travel"", ""merchant"": ""IRCTC"", ""payment_method"": ""cash""}",True,True,True,True,True,True,True
+My a doctor visit (Apollo Pharmacy) came to ₹1.5k,"{""amount"": 1500, ""currency"": ""INR"", ""category"": ""health"", ""merchant"": ""Apollo Pharmacy"", ""payment_method"": null}","{
+  ""amount"": 1500,
+  ""currency"": ""INR"",
+  ""category"": ""shopping"",
+  ""merchant"": ""Apollo Pharmacy"",
+  ""payment_method"": ""cash""
+}","{""amount"": 1500, ""currency"": ""INR"", ""category"": ""health"", ""merchant"": ""Apollo Pharmacy"", ""payment_method"": null}",True,True,True,True,True,True,True
+Can you add an expense of Rs. 9491 for coffee? It was at Swiggy,"{""amount"": 9491, ""currency"": ""INR"", ""category"": ""food"", ""merchant"": ""Swiggy"", ""payment_method"": null}","{
+  ""amount"": 9491,
+  ""currency"": ""INR"",
+  ""category"": ""food"",
+  ""merchant"": ""Swiggy"",
+  ""payment_method"": ""cash""
+}","{""amount"": 9491, ""currency"": ""INR"", ""category"": ""food"", ""merchant"": ""Swiggy"", ""payment_method"": null}",True,True,True,True,True,True,True
+"Log 3303 rupees - a t-shirt, Nykaa by cash","{""amount"": 3303, ""currency"": ""INR"", ""category"": ""shopping"", ""merchant"": ""Nykaa"", ""payment_method"": ""cash""}","{""amount"":3303,""currency"":""INR"",""category"":""food"",""merchant"":"""",""payment_method"":""cash""}","{""amount"": 3303, ""currency"": ""INR"", ""category"": ""shopping"", ""merchant"": ""Nykaa"", ""payment_method"": ""cash""}",True,True,True,True,True,True,True
+Yesterday's a flight at Air India cost me 745 rupees,"{""amount"": 745, ""currency"": ""INR"", ""category"": ""travel"", ""merchant"": ""Air India"", ""payment_method"": null}","{
+  ""amount"": 745,
+  ""currency"": ""INR"",
+  ""category"": ""travel"",
+  ""merchant"": """",
+  ""payment_method"": ""cash""
+}","{""amount"": 745, ""currency"": ""INR"", ""category"": ""travel"", ""merchant"": ""Air India"", ""payment_method"": null}",True,True,True,True,True,True,True
+just paid Rs. 305 to Dominos by cash,"{""amount"": 305, ""currency"": ""INR"", ""category"": ""food"", ""merchant"": ""Dominos"", ""payment_method"": ""cash""}","{
+  ""amount"": 305,
+  ""currency"": ""INR"",
+  ""category"": ""food"",
+  ""merchant"": ""Domino's"",
+  ""payment_method"": ""cash""
+}","{""amount"": 305, ""currency"": ""INR"", ""category"": ""food"", ""merchant"": ""Dominos"", ""payment_method"": ""cash""}",True,True,True,True,True,True,True
+Can you add an expense of USD 226 for biryani? It was at Swiggy with my card,"{""amount"": 226, ""currency"": ""USD"", ""category"": ""food"", ""merchant"": ""Swiggy"", ""payment_method"": ""card""}","{
+  ""amount"": 226,
+  ""currency"": ""INR"",
+  ""category"": ""food"",
+  ""merchant"": ""Swiggy"",
+  ""payment_method"": ""card""
+}","{""amount"": 226, ""currency"": ""USD"", ""category"": ""food"", ""merchant"": ""Swiggy"", ""payment_method"": ""card""}",True,True,True,True,True,True,True
+Mahanagar Gas the gas bill 3600 rupees paid cash,"{""amount"": 3600, ""currency"": ""INR"", ""category"": ""bills"", ""merchant"": ""Mahanagar Gas"", ""payment_method"": ""cash""}","{
+  ""amount"": 3600,
+  ""currency"": ""INR"",
+  ""category"": ""bills"",
+  ""merchant"": ""Mahanagar Gas"",
+  ""payment_method"": ""cash""
+}","{""amount"": 3600, ""currency"": ""INR"", ""category"": ""bills"", ""merchant"": ""Mahanagar Gas"", ""payment_method"": ""cash""}",True,True,True,True,True,True,True
+Spent 2500 rupees on a game on UPI,"{""amount"": 2500, ""currency"": ""INR"", ""category"": ""entertainment"", ""merchant"": null, ""payment_method"": ""upi""}","{""amount"":2500,""currency"":""INR"",""category"":""entertainment"",""merchant"":"""",""payment_method"":""UPI""}","{""amount"": 2500, ""currency"": ""INR"", ""category"": ""entertainment"", ""merchant"": null, ""payment_method"": ""upi""}",True,True,True,True,True,True,True
+"Had dinner, it was ₹6.7k","{""amount"": 6700, ""currency"": ""INR"", ""category"": ""food"", ""merchant"": null, ""payment_method"": null}","{
+  ""amount"": 6700,
+  ""currency"": ""INR"",
+  ""category"": ""food"",
+  ""merchant"": null,
+  ""payment_method"": ""cash""
+}","{""amount"": 67000, ""currency"": ""INR"", ""category"": ""food"", ""merchant"": null, ""payment_method"": null}",True,False,True,True,True,True,False
+"Can you add an expense of Rs 1,900 for a game? It was at BookMyShow with my card","{""amount"": 1900, ""currency"": ""INR"", ""category"": ""entertainment"", ""merchant"": ""BookMyShow"", ""payment_method"": ""card""}","{
+  ""amount"": 1900,
+  ""currency"": ""INR"",
+  ""category"": ""shopping"",
+  ""merchant"": ""BookMyShow"",
+  ""payment_method"": ""card""
+}","{""amount"": 1900, ""currency"": ""INR"", ""category"": ""entertainment"", ""merchant"": ""BookMyShow"", ""payment_method"": ""card""}",True,True,True,True,True,True,True
+Fortis medicines Rs 6480,"{""amount"": 6480, ""currency"": ""INR"", ""category"": ""health"", ""merchant"": ""Fortis"", ""payment_method"": null}","{
+  ""amount"": 6480,
+  ""currency"": ""INR"",
+  ""category"": ""food"",
+  ""merchant"": null,
+  ""payment_method"": ""cash""
+}","{""amount"": 6480, ""currency"": ""INR"", ""category"": ""health"", ""merchant"": ""Fortis"", ""payment_method"": null}",True,True,True,True,True,True,True
+Can you add an expense of Rs. 317 for coffee? It was at Starbucks on UPI,"{""amount"": 317, ""currency"": ""INR"", ""category"": ""food"", ""merchant"": ""Starbucks"", ""payment_method"": ""upi""}","{
+  ""amount"": 317,
+  ""currency"": ""INR"",
+  ""category"": ""food"",
+  ""merchant"": ""Starbucks"",
+  ""payment_method"": ""UPI""
+}","{""amount"": 317, ""currency"": ""INR"", ""category"": ""food"", ""merchant"": ""Starbucks"", ""payment_method"": ""upi""}",True,True,True,True,True,True,True
+Tata Power the wifi bill 323 INR,"{""amount"": 323, ""currency"": ""INR"", ""category"": ""bills"", ""merchant"": ""Tata Power"", ""payment_method"": null}","{
+  ""amount"": 323,
+  ""currency"": ""INR"",
+  ""category"": ""bills"",
+  ""merchant"": ""Tata Power"",
+  ""payment_method"": ""cash""
+}","{""amount"": 323, ""currency"": ""INR"", ""category"": ""bills"", ""merchant"": ""Tata Power"", ""payment_method"": null}",True,True,True,True,True,True,True
+Paid Smaaash ₹2200 for a game on my Visa,"{""amount"": 2200, ""currency"": ""INR"", ""category"": ""entertainment"", ""merchant"": ""Smaaash"", ""payment_method"": ""card""}","{
+  ""amount"": 2200,
+  ""currency"": ""INR"",
+  ""category"": ""food"",
+  ""merchant"": ""SMAAASH"",
+  ""payment_method"": ""visa""
+}","{""amount"": 2200, ""currency"": ""INR"", ""category"": ""entertainment"", ""merchant"": ""Samaaash"", ""payment_method"": ""card""}",True,True,True,True,False,True,False
+Spent 3900 INR on lunch at Zomato on my Visa,"{""amount"": 3900, ""currency"": ""INR"", ""category"": ""food"", ""merchant"": ""Zomato"", ""payment_method"": ""card""}","{""amount"":3900,""currency"":""INR"",""category"":""food"",""merchant"":"""",""payment_method"":""visa""}","{""amount"": 3900, ""currency"": ""INR"", ""category"": ""food"", ""merchant"": ""Zomato"", ""payment_method"": ""card""}",True,True,True,True,True,True,True
+Uber a bus ticket Rs 274 by credit card,"{""amount"": 274, ""currency"": ""INR"", ""category"": ""travel"", ""merchant"": ""Uber"", ""payment_method"": ""card""}","{
+  ""amount"": 274,
+  ""currency"": ""INR"",
+  ""category"": ""travel"",
+  ""merchant"": ""Uber"",
+  ""payment_method"": ""credit card""
+}","{""amount"": 274, ""currency"": ""INR"", ""category"": ""travel"", ""merchant"": ""Uber"", ""payment_method"": ""card""}",True,True,True,True,True,True,True
+5900 INR for headphones from DMart by cash,"{""amount"": 5900, ""currency"": ""INR"", ""category"": ""shopping"", ""merchant"": ""DMart"", ""payment_method"": ""cash""}","{""amount"":5900,""currency"":""INR"",""category"":""food"",""merchant"":"""",""payment_method"":""cash""}","{""amount"": 5900, ""currency"": ""INR"", ""category"": ""shopping"", ""merchant"": ""DMart"", ""payment_method"": ""cash""}",True,True,True,True,True,True,True
+Spent 2333 INR on a t-shirt on my Visa,"{""amount"": 2333, ""currency"": ""INR"", ""category"": ""shopping"", ""merchant"": null, ""payment_method"": ""card""}","{
+  ""amount"": 2333,
+  ""currency"": ""INR"",
+  ""category"": ""food"",
+  ""merchant"": ""t-shirt"",
+  ""payment_method"": ""cash""
+}","{""amount"": 2333, ""currency"": ""INR"", ""category"": ""shopping"", ""merchant"": null, ""payment_method"": ""card""}",True,True,True,True,True,True,True
+"Had a mobile recharge, it was Rs 9,578","{""amount"": 9578, ""currency"": ""INR"", ""category"": ""bills"", ""merchant"": null, ""payment_method"": null}","{
+  ""amount"": 9578,
+  ""currency"": ""INR"",
+  ""category"": ""shopping"",
+  ""merchant"": """",
+  ""payment_method"": ""cash""
+}","{""amount"": 9578, ""currency"": ""INR"", ""category"": ""bills"", ""merchant"": null, ""payment_method"": null}",True,True,True,True,True,True,True
+Subway lunch ₹5900 by credit card,"{""amount"": 5900, ""currency"": ""INR"", ""category"": ""food"", ""merchant"": ""Subway"", ""payment_method"": ""card""}","{
+  ""amount"": 5900,
+  ""currency"": ""INR"",
+  ""category"": ""food"",
+  ""merchant"": ""Subway"",
+  ""payment_method"": ""credit card""
+}","{""amount"": 5900, ""currency"": ""INR"", ""category"": ""food"", ""merchant"": ""Subway"", ""payment_method"": ""card""}",True,True,True,True,True,True,True
+"Expense: Spotify, Rs 3600, bowling by cash","{""amount"": 3600, ""currency"": ""INR"", ""category"": ""entertainment"", ""merchant"": ""Spotify"", ""payment_method"": ""cash""}","{
+  ""amount"": 3600,
+  ""currency"": ""INR"",
+  ""category"": ""food"",
+  ""merchant"": ""Spotify"",
+  ""payment_method"": ""cash""
+}","{""amount"": 3600, ""currency"": ""INR"", ""category"": ""entertainment"", ""merchant"": ""Spotify"", ""payment_method"": ""cash""}",True,True,True,True,True,True,True
+Spent Rs. 534 on the wifi bill via UPI,"{""amount"": 534, ""currency"": ""INR"", ""category"": ""bills"", ""merchant"": null, ""payment_method"": ""upi""}","{""amount"":534,""currency"":""INR"",""category"":""bills"",""merchant"":"""",""payment_method"":""UPI""}","{""amount"": 534, ""currency"": ""INR"", ""category"": ""bills"", ""merchant"": null, ""payment_method"": ""upi""}",True,True,True,True,True,True,True
+410 INR for a blood test from Apollo Pharmacy by cash,"{""amount"": 410, ""currency"": ""INR"", ""category"": ""health"", ""merchant"": ""Apollo Pharmacy"", ""payment_method"": ""cash""}","{""amount"":410,""currency"":""INR"",""category"":""food"",""merchant"":"""",""payment_method"":""cash""}","{""amount"": 410, ""currency"": ""INR"", ""category"": ""health"", ""merchant"": ""Apollo Pharmacy"", ""payment_method"": ""cash""}",True,True,True,True,True,True,True
+"Barbeque Nation coffee Rs 9,163 by credit card","{""amount"": 9163, ""currency"": ""INR"", ""category"": ""food"", ""merchant"": ""Barbeque Nation"", ""payment_method"": ""card""}","{
+  ""amount"": 9163,
+  ""currency"": ""INR"",
+  ""category"": ""food"",
+  ""merchant"": ""Barbeque Nation"",
+  ""payment_method"": ""credit card""
+}","{""amount"": 9163, ""currency"": ""INR"", ""category"": ""food"", ""merchant"": ""Barbeque Nation"", ""payment_method"": ""card""}",True,True,True,True,True,True,True
+"Note down Rs 7,438 that I gave MedPlus for a doctor visit paid cash","{""amount"": 7438, ""currency"": ""INR"", ""category"": ""health"", ""merchant"": ""MedPlus"", ""payment_method"": ""cash""}","{
+  ""amount"": 7438,
+  ""currency"": ""INR"",
+  ""category"": ""shopping"",
+  ""merchant"": """",
+  ""payment_method"": ""cash""
+}","{""amount"": 7438, ""currency"": ""INR"", ""category"": ""health"", ""merchant"": ""MedPlus"", ""payment_method"": ""cash""}",True,True,True,True,True,True,True
+111 INR for a mobile recharge from BSNL,"{""amount"": 111, ""currency"": ""INR"", ""category"": ""bills"", ""merchant"": ""BSNL"", ""payment_method"": null}","{""amount"":111,""currency"":""INR"",""category"":""food"",""merchant"":"""",""payment_method"":""cash""}","{""amount"": 111, ""currency"": ""INR"", ""category"": ""bills"", ""merchant"": ""BSNL"", ""payment_method"": null}",True,True,True,True,True,True,True
+"Paid Smaaash Rs 5,600 for a game using UPI","{""amount"": 5600, ""currency"": ""INR"", ""category"": ""entertainment"", ""merchant"": ""Smaaash"", ""payment_method"": ""upi""}","{
+  ""amount"": 5600,
+  ""currency"": ""INR"",
+  ""category"": ""shopping"",
+  ""merchant"": ""SMAAASH"",
+  ""payment_method"": ""UPI""
+}","{""amount"": 5600, ""currency"": ""INR"", ""category"": ""entertainment"", ""merchant"": ""Samaaash"", ""payment_method"": ""upi""}",True,True,True,True,False,True,False
+Note down Rs 6600 that I gave Nykaa for a t-shirt via UPI,"{""amount"": 6600, ""currency"": ""INR"", ""category"": ""shopping"", ""merchant"": ""Nykaa"", ""payment_method"": ""upi""}","{
+  ""amount"": 6600,
+  ""currency"": ""INR"",
+  ""category"": ""shopping"",
+  ""merchant"": null,
+  ""payment_method"": ""UPI""
+}","{""amount"": 6600, ""currency"": ""INR"", ""category"": ""shopping"", ""merchant"": ""Nykaa"", ""payment_method"": ""upi""}",True,True,True,True,True,True,True
+just paid 2.7k rupees to Mahanagar Gas,"{""amount"": 2700, ""currency"": ""INR"", ""category"": ""bills"", ""merchant"": ""Mahanagar Gas"", ""payment_method"": null}","{
+  ""amount"": 2700,
+  ""currency"": ""INR"",
+  ""category"": ""food"",
+  ""merchant"": ""Mahanagar Gas"",
+  ""payment_method"": ""cash""
+}","{""amount"": 27000, ""currency"": ""INR"", ""category"": ""bills"", ""merchant"": ""Mahanagar Gas"", ""payment_method"": null}",True,False,True,True,True,True,False
+7544 INR for a phone cover through PhonePe,"{""amount"": 7544, ""currency"": ""INR"", ""category"": ""shopping"", ""merchant"": null, ""payment_method"": ""upi""}","{""amount"":7544,""currency"":""INR"",""category"":""food"",""merchant"":"""",""payment_method"":""cash""}","{""amount"": 7544, ""currency"": ""INR"", ""category"": ""shopping"", ""merchant"": ""PhonePe"", ""payment_method"": null}",True,True,True,True,False,False,False
+My a gym membership (Fortis) came to ₹5500,"{""amount"": 5500, ""currency"": ""INR"", ""category"": ""health"", ""merchant"": ""Fortis"", ""payment_method"": null}","{
+  ""amount"": 5500,
+  ""currency"": ""INR"",
+  ""category"": ""food"",
+  ""merchant"": ""gym"",
+  ""payment_method"": ""cash""
+}","{""amount"": 5500, ""currency"": ""INR"", ""category"": ""health"", ""merchant"": ""Fortis"", ""payment_method"": null}",True,True,True,True,True,True,True
+Note down 1137 INR that I gave Mahanagar Gas for the gas bill via UPI,"{""amount"": 1137, ""currency"": ""INR"", ""category"": ""bills"", ""merchant"": ""Mahanagar Gas"", ""payment_method"": ""upi""}","{
+  ""amount"": 1137,
+  ""currency"": ""INR"",
+  ""category"": ""bills"",
+  ""merchant"": ""Mahanagar Gas"",
+  ""payment_method"": ""UPI""
+}","{""amount"": 1137, ""currency"": ""INR"", ""category"": ""bills"", ""merchant"": ""Mahanagar Gas"", ""payment_method"": ""upi""}",True,True,True,True,True,True,True
+₹968 for a concert from Timezone using debit card,"{""amount"": 968, ""currency"": ""INR"", ""category"": ""entertainment"", ""merchant"": ""Timezone"", ""payment_method"": ""card""}","{""amount"":968,""currency"":""INR"",""category"":""food"",""merchant"":"""",""payment_method"":""debit card""}","{""amount"": 968, ""currency"": ""INR"", ""category"": ""entertainment"", ""merchant"": ""Timezone"", ""payment_method"": ""card""}",True,True,True,True,True,True,True
+Yesterday's the electricity bill at Mahanagar Gas cost me ₹1500 in cash,"{""amount"": 1500, ""currency"": ""INR"", ""category"": ""bills"", ""merchant"": ""Mahanagar Gas"", ""payment_method"": ""cash""}","{
+  ""amount"": 1500,
+  ""currency"": ""INR"",
+  ""category"": ""electricity"",
+  ""merchant"": ""Mahanagar Gas"",
+  ""payment_method"": ""cash""
+}","{""amount"": 1500, ""currency"": ""INR"", ""category"": ""bills"", ""merchant"": ""Mahanagar Gas"", ""payment_method"": ""cash""}",True,True,True,True,True,True,True
+Note down Rs. 139 that I gave Hathway for the gas bill by cash,"{""amount"": 139, ""currency"": ""INR"", ""category"": ""bills"", ""merchant"": ""Hathway"", ""payment_method"": ""cash""}","{
+  ""amount"": 139,
+  ""currency"": ""INR"",
+  ""category"": ""bills"",
+  ""merchant"": ""Hathway"",
+  ""payment_method"": ""cash""
+}","{""amount"": 139, ""currency"": ""INR"", ""category"": ""bills"", ""merchant"": ""Hathway"", ""payment_method"": ""cash""}",True,True,True,True,True,True,True
+Paid Spotify Rs 7574 for a game,"{""amount"": 7574, ""currency"": ""INR"", ""category"": ""entertainment"", ""merchant"": ""Spotify"", ""payment_method"": null}","{
+  ""amount"": 7574,
+  ""currency"": ""INR"",
+  ""category"": ""food"",
+  ""merchant"": ""Spotify"",
+  ""payment_method"": ""cash""
+}","{""amount"": 7574, ""currency"": ""INR"", ""category"": ""entertainment"", ""merchant"": ""Spotify"", ""payment_method"": null}",True,True,True,True,True,True,True
+Can you add an expense of ₹151 for the gas bill? It was at Tata Power by cash,"{""amount"": 151, ""currency"": ""INR"", ""category"": ""bills"", ""merchant"": ""Tata Power"", ""payment_method"": ""cash""}","{
+  ""amount"": 151,
+  ""currency"": ""INR"",
+  ""category"": ""gas"",
+  ""merchant"": ""Tata Power"",
+  ""payment_method"": ""cash""
+}","{""amount"": 151, ""currency"": ""INR"", ""category"": ""bills"", ""merchant"": ""Tata Power"", ""payment_method"": ""cash""}",True,True,True,True,True,True,True
+Note down 6400 rupees that I gave Fortis for a blood test,"{""amount"": 6400, ""currency"": ""INR"", ""category"": ""health"", ""merchant"": ""Fortis"", ""payment_method"": null}","{
+  ""amount"": 6400,
+  ""currency"": ""INR"",
+  ""category"": ""food"",
+  ""merchant"": ""Fortis"",
+  ""payment_method"": ""cash""
+}","{""amount"": 6400, ""currency"": ""INR"", ""category"": ""health"", ""merchant"": ""Fortis"", ""payment_method"": null}",True,True,True,True,True,True,True
+Can you add an expense of ₹575 for an auto ride? It was at MakeMyTrip paid cash,"{""amount"": 575, ""currency"": ""INR"", ""category"": ""travel"", ""merchant"": ""MakeMyTrip"", ""payment_method"": ""cash""}","{
+  ""amount"": 575,
+  ""currency"": ""INR"",
+  ""category"": ""travel"",
+  ""merchant"": ""MakeMyTrip"",
+  ""payment_method"": ""cash""
+}","{""amount"": 575, ""currency"": ""INR"", ""category"": ""travel"", ""merchant"": ""MakeMyTrip"", ""payment_method"": ""cash""}",True,True,True,True,True,True,True
+My movie tickets (PVR) came to $38,"{""amount"": 38, ""currency"": ""USD"", ""category"": ""entertainment"", ""merchant"": ""PVR"", ""payment_method"": null}","{
+  ""amount"": 38,
+  ""currency"": ""INR"",
+  ""category"": ""food"",
+  ""merchant"": null,
+  ""payment_method"": ""cash""
+}","{""amount"": 38, ""currency"": ""USD"", ""category"": ""entertainment"", ""merchant"": ""PVR"", ""payment_method"": null}",True,True,True,True,True,True,True
+"Expense: Smaaash, 9308 rupees, a concert on my Visa","{""amount"": 9308, ""currency"": ""INR"", ""category"": ""entertainment"", ""merchant"": ""Smaaash"", ""payment_method"": ""card""}","{
+  ""amount"": 9308,
+  ""currency"": ""INR"",
+  ""category"": ""food"",
+  ""merchant"": ""concert"",
+  ""payment_method"": ""visa""
+}","{""amount"": 9308, ""currency"": ""INR"", ""category"": ""entertainment"", ""merchant"": ""Samaaash"", ""payment_method"": ""card""}",True,True,True,True,False,True,False
+Yesterday's vitamins at MedPlus cost me Rs 6400 on UPI,"{""amount"": 6400, ""currency"": ""INR"", ""category"": ""health"", ""merchant"": ""MedPlus"", ""payment_method"": ""upi""}","{
+  ""amount"": 6400,
+  ""currency"": ""INR"",
+  ""category"": ""shopping"",
+  ""merchant"": ""MedPlus"",
+  ""payment_method"": ""UPI""
+}","{""amount"": 6400, ""currency"": ""INR"", ""category"": ""health"", ""merchant"": ""MedPlus"", ""payment_method"": ""upi""}",True,True,True,True,True,True,True
+My coffee (Cafe Coffee Day) came to 9962 rupees,"{""amount"": 9962, ""currency"": ""INR"", ""category"": ""food"", ""merchant"": ""Cafe Coffee Day"", ""payment_method"": null}","{
+  ""amount"": 9962,
+  ""currency"": ""INR"",
+  ""category"": ""food"",
+  ""merchant"": null,
+  ""payment_method"": ""cash""
+}","{""amount"": 9962, ""currency"": ""INR"", ""category"": ""food"", ""merchant"": ""Cafe Coffee Day"", ""payment_method"": null}",True,True,True,True,True,True,True
+My a game (Spotify) came to USD 44,"{""amount"": 44, ""currency"": ""USD"", ""category"": ""entertainment"", ""merchant"": ""Spotify"", ""payment_method"": null}","{
+  ""amount"": 44,
+  ""currency"": ""USD"",
+  ""category"": ""entertainment"",
+  ""merchant"": null,
+  ""payment_method"": ""cash""
+}","{""amount"": 44, ""currency"": ""USD"", ""category"": ""entertainment"", ""merchant"": ""Spotify"", ""payment_method"": null}",True,True,True,True,True,True,True
+Bought a subscription from Wonderla for Rs. 59 with my card,"{""amount"": 59, ""currency"": ""INR"", ""category"": ""entertainment"", ""merchant"": ""Wonderla"", ""payment_method"": ""card""}","{
+  ""amount"": 59,
+  ""currency"": ""INR"",
+  ""category"": ""shopping"",
+  ""merchant"": ""Wonderla"",
+  ""payment_method"": ""card""
+}","{""amount"": 59, ""currency"": ""INR"", ""category"": ""entertainment"", ""merchant"": ""Wonderla"", ""payment_method"": ""card""}",True,True,True,True,True,True,True
+Note down Rs 6300 that I gave Air India for an auto ride with Paytm,"{""amount"": 6300, ""currency"": ""INR"", ""category"": ""travel"", ""merchant"": ""Air India"", ""payment_method"": ""upi""}","{
+  ""amount"": 6300,
+  ""currency"": ""INR"",
+  ""category"": ""travel"",
+  ""merchant"": ""Air India"",
+  ""payment_method"": ""Paytm""
+}","{""amount"": 6300, ""currency"": ""INR"", ""category"": ""travel"", ""merchant"": ""Air India"", ""payment_method"": ""paytm""}",True,True,True,True,True,False,False
+Spent Rs 7429 on a doctor visit at 1mg by credit card,"{""amount"": 7429, ""currency"": ""INR"", ""category"": ""health"", ""merchant"": ""1mg"", ""payment_method"": ""card""}","{
+  ""amount"": 7429,
+  ""currency"": ""INR"",
+  ""category"": ""health"",
+  ""merchant"": ""doctor visit"",
+  ""payment_method"": ""credit card""
+}","{""amount"": 7429, ""currency"": ""INR"", ""category"": ""health"", ""merchant"": ""1mg"", ""payment_method"": ""card""}",True,True,True,True,True,True,True
+"Tata Power the wifi bill Rs 3,400 by credit card","{""amount"": 3400, ""currency"": ""INR"", ""category"": ""bills"", ""merchant"": ""Tata Power"", ""payment_method"": ""card""}","{
+  ""amount"": 3400,
+  ""currency"": ""INR"",
+  ""category"": ""shopping"",
+  ""merchant"": ""Tata Power"",
+  ""payment_method"": ""credit_card""
+}","{""amount"": 3400, ""currency"": ""INR"", ""category"": ""bills"", ""merchant"": ""Tata Power"", ""payment_method"": ""card""}",True,True,True,True,True,True,True
+Spent 650 rupees on snacks using UPI,"{""amount"": 650, ""currency"": ""INR"", ""category"": ""food"", ""merchant"": null, ""payment_method"": ""upi""}","{
+  ""amount"": 650,
+  ""currency"": ""INR"",
+  ""category"": ""shopping"",
+  ""merchant"": ""UPI"",
+  ""payment_method"": ""upi""
+}","{""amount"": 650, ""currency"": ""INR"", ""category"": ""food"", ""merchant"": null, ""payment_method"": ""upi""}",True,True,True,True,True,True,True
+Note down Rs. 761 that I gave Barbeque Nation for snacks,"{""amount"": 761, ""currency"": ""INR"", ""category"": ""food"", ""merchant"": ""Barbeque Nation"", ""payment_method"": null}","{
+  ""amount"": 761,
+  ""currency"": ""INR"",
+  ""category"": ""food"",
+  ""merchant"": ""Barbeque Nation"",
+  ""payment_method"": ""cash""
+}","{""amount"": 761, ""currency"": ""INR"", ""category"": ""food"", ""merchant"": ""Barbeque Nation"", ""payment_method"": null}",True,True,True,True,True,True,True
+₹2062 for medicines from Fortis,"{""amount"": 2062, ""currency"": ""INR"", ""category"": ""health"", ""merchant"": ""Fortis"", ""payment_method"": null}","{""amount"":2062,""currency"":""INR"",""category"":""food"",""merchant"":"""",""payment_method"":""cash""}","{""amount"": 2062, ""currency"": ""INR"", ""category"": ""health"", ""merchant"": ""Fortis"", ""payment_method"": null}",True,True,True,True,True,True,True
+Bought the gas bill from Mahanagar Gas for 4324 INR through PhonePe,"{""amount"": 4324, ""currency"": ""INR"", ""category"": ""bills"", ""merchant"": ""Mahanagar Gas"", ""payment_method"": ""upi""}","{
+  ""amount"": 4324,
+  ""currency"": ""INR"",
+  ""category"": ""bills"",
+  ""merchant"": ""Mahanagar Gas"",
+  ""payment_method"": ""phonepe""
+}","{""amount"": 4324, ""currency"": ""INR"", ""category"": ""bills"", ""merchant"": ""Mahanagar Gas"", ""payment_method"": ""upi""}",True,True,True,True,True,True,True
+201 dollars for movie tickets,"{""amount"": 201, ""currency"": ""USD"", ""category"": ""entertainment"", ""merchant"": null, ""payment_method"": null}","{""amount"":201,""currency"":""INR"",""category"":""food"",""merchant"":"""",""payment_method"":""cash""}","{""amount"": 201, ""currency"": ""USD"", ""category"": ""entertainment"", ""merchant"": null, ""payment_method"": null}",True,True,True,True,True,True,True
+My the DTH recharge (Tata Play) came to 9726 INR,"{""amount"": 9726, ""currency"": ""INR"", ""category"": ""bills"", ""merchant"": ""Tata Play"", ""payment_method"": null}","{
+  ""amount"": 9726,
+  ""currency"": ""INR"",
+  ""category"": ""shopping"",
+  ""merchant"": ""DTH"",
+  ""payment_method"": ""cash""
+}","{""amount"": 9726, ""currency"": ""INR"", ""category"": ""bills"", ""merchant"": ""Tata Play"", ""payment_method"": null}",True,True,True,True,True,True,True
+My a blood test (Max Hospital) came to 6971 INR,"{""amount"": 6971, ""currency"": ""INR"", ""category"": ""health"", ""merchant"": ""Max Hospital"", ""payment_method"": null}","{
+  ""amount"": 6971,
+  ""currency"": ""INR"",
+  ""category"": ""bills"",
+  ""merchant"": ""Max Hospital"",
+  ""payment_method"": ""cash""
+}","{""amount"": 6971, ""currency"": ""INR"", ""category"": ""health"", ""merchant"": ""Max Hospital"", ""payment_method"": null}",True,True,True,True,True,True,True
+"Had a subscription, it was Rs 45 by card","{""amount"": 45, ""currency"": ""INR"", ""category"": ""entertainment"", ""merchant"": null, ""payment_method"": ""card""}","{
+  ""amount"": 45,
+  ""currency"": ""INR"",
+  ""category"": ""subscription"",
+  ""merchant"": ""card"",
+  ""payment_method"": ""card""
+}","{""amount"": 45, ""currency"": ""INR"", ""category"": ""entertainment"", ""merchant"": null, ""payment_method"": ""card""}",True,True,True,True,True,True,True
+"Log USD 169 - a train ticket, Indian Oil by credit card","{""amount"": 169, ""currency"": ""USD"", ""category"": ""travel"", ""merchant"": ""Indian Oil"", ""payment_method"": ""card""}","{
+  ""amount"": 169,
+  ""currency"": ""INR"",
+  ""category"": ""travel"",
+  ""merchant"": ""Indian Oil"",
+  ""payment_method"": ""credit_card""
+}","{""amount"": 169, ""currency"": ""USD"", ""category"": ""travel"", ""merchant"": ""Indian Oil"", ""payment_method"": ""card""}",True,True,True,True,True,True,True
+Spent 168.22 dollars on lunch paid cash,"{""amount"": 168.22, ""currency"": ""USD"", ""category"": ""food"", ""merchant"": null, ""payment_method"": ""cash""}","{""amount"":168.22,""currency"":""INR"",""category"":""food"",""merchant"":"""",""payment_method"":""cash""}","{""amount"": 168.22, ""currency"": ""USD"", ""category"": ""food"", ""merchant"": null, ""payment_method"": ""cash""}",True,True,True,True,True,True,True
+"Had a subscription, it was 9344 rupees with my card","{""amount"": 9344, ""currency"": ""INR"", ""category"": ""entertainment"", ""merchant"": null, ""payment_method"": ""card""}","{
+  ""amount"": 9344,
+  ""currency"": ""INR"",
+  ""category"": ""subscription"",
+  ""merchant"": ""subscription"",
+  ""payment_method"": ""card""
+}","{""amount"": 9344, ""currency"": ""INR"", ""category"": ""entertainment"", ""merchant"": null, ""payment_method"": ""card""}",True,True,True,True,True,True,True
+"Had the gas bill, it was Rs. 2257","{""amount"": 2257, ""currency"": ""INR"", ""category"": ""bills"", ""merchant"": null, ""payment_method"": null}","{
+  ""amount"": 2257,
+  ""currency"": ""INR"",
+  ""category"": ""gas_bill"",
+  ""merchant"": null,
+  ""payment_method"": ""cash""
+}","{""amount"": 2257, ""currency"": ""INR"", ""category"": ""bills"", ""merchant"": null, ""payment_method"": null}",True,True,True,True,True,True,True
+Can you add an expense of Rs. 5500 for petrol? It was at Uber in cash,"{""amount"": 5500, ""currency"": ""INR"", ""category"": ""travel"", ""merchant"": ""Uber"", ""payment_method"": ""cash""}","{
+  ""amount"": 5500,
+  ""currency"": ""INR"",
+  ""category"": ""food"",
+  ""merchant"": ""Uber"",
+  ""payment_method"": ""cash""
+}","{""amount"": 5500, ""currency"": ""INR"", ""category"": ""travel"", ""merchant"": ""Uber"", ""payment_method"": ""cash""}",True,True,True,True,True,True,True
+Paid Air India Rs. 268 for a cab ride paid cash,"{""amount"": 268, ""currency"": ""INR"", ""category"": ""travel"", ""merchant"": ""Air India"", ""payment_method"": ""cash""}","{
+  ""amount"": 268,
+  ""currency"": ""INR"",
+  ""category"": ""food"",
+  ""merchant"": """",
+  ""payment_method"": ""cash""
+}","{""amount"": 268, ""currency"": ""INR"", ""category"": ""travel"", ""merchant"": ""Air India"", ""payment_method"": ""cash""}",True,True,True,True,True,True,True
+Bought a game from PVR for Rs 560 by credit card,"{""amount"": 560, ""currency"": ""INR"", ""category"": ""entertainment"", ""merchant"": ""PVR"", ""payment_method"": ""card""}","{
+  ""amount"": 560,
+  ""currency"": ""INR"",
+  ""category"": ""shopping"",
+  ""merchant"": ""PVR"",
+  ""payment_method"": ""credit_card""
+}","{""amount"": 560, ""currency"": ""INR"", ""category"": ""entertainment"", ""merchant"": ""PVR"", ""payment_method"": ""card""}",True,True,True,True,True,True,True
+988 INR for a doctor visit from Dr Lal PathLabs,"{""amount"": 988, ""currency"": ""INR"", ""category"": ""health"", ""merchant"": ""Dr Lal PathLabs"", ""payment_method"": null}","{""amount"":988,""currency"":""INR"",""category"":""food"",""merchant"":"""",""payment_method"":""cash""}","{""amount"": 988, ""currency"": ""INR"", ""category"": ""health"", ""merchant"": ""Dr Lal PathLabs"", ""payment_method"": null}",True,True,True,True,True,True,True
+Yesterday's headphones at Reliance Trends cost me Rs. 4200,"{""amount"": 4200, ""currency"": ""INR"", ""category"": ""shopping"", ""merchant"": ""Reliance Trends"", ""payment_method"": null}","{
+  ""amount"": 4200,
+  ""currency"": ""INR"",
+  ""category"": ""shopping"",
+  ""merchant"": ""Reliance Trends"",
+  ""payment_method"": ""cash""
+}","{""amount"": 4200, ""currency"": ""INR"", ""category"": ""shopping"", ""merchant"": ""Reliance Trends"", ""payment_method"": null}",True,True,True,True,True,True,True
+"Had the DTH recharge, it was ₹6k using UPI","{""amount"": 6000, ""currency"": ""INR"", ""category"": ""bills"", ""merchant"": null, ""payment_method"": ""upi""}","{
+  ""amount"": 6000,
+  ""currency"": ""INR"",
+  ""category"": ""bills"",
+  ""merchant"": ""UD"",
+  ""payment_method"": ""UPI""
+}","{""amount"": 6000, ""currency"": ""INR"", ""category"": ""bills"", ""merchant"": null, ""payment_method"": ""upi""}",True,True,True,True,True,True,True
+"Had groceries, it was ₹5034 by credit card","{""amount"": 5034, ""currency"": ""INR"", ""category"": ""shopping"", ""merchant"": null, ""payment_method"": ""card""}","{
+  ""amount"": 5034,
+  ""currency"": ""INR"",
+  ""category"": ""food"",
+  ""merchant"": ""groceries"",
+  ""payment_method"": ""credit_card""
+}","{""amount"": 5034, ""currency"": ""INR"", ""category"": ""shopping"", ""merchant"": null, ""payment_method"": ""card""}",True,True,True,True,True,True,True
+Bought the electricity bill from Hathway for ₹5.9k,"{""amount"": 5900, ""currency"": ""INR"", ""category"": ""bills"", ""merchant"": ""Hathway"", ""payment_method"": null}","{
+  ""amount"": 5900,
+  ""currency"": ""INR"",
+  ""category"": ""bills"",
+  ""merchant"": ""Hathway"",
+  ""payment_method"": ""cash""
+}","{""amount"": 59000, ""currency"": ""INR"", ""category"": ""bills"", ""merchant"": ""Hathway"", ""payment_method"": null}",True,False,True,True,True,True,False
+"Expense: Netmeds, Rs 776, a blood test by card","{""amount"": 776, ""currency"": ""INR"", ""category"": ""health"", ""merchant"": ""Netmeds"", ""payment_method"": ""card""}","{
+  ""amount"": 776,
+  ""currency"": ""INR"",
+  ""category"": ""bills"",
+  ""merchant"": ""Netmeds"",
+  ""payment_method"": ""card""
+}","{""amount"": 776, ""currency"": ""INR"", ""category"": ""health"", ""merchant"": ""Netmeds"", ""payment_method"": ""card""}",True,True,True,True,True,True,True
+₹5901 for the electricity bill from Tata Play with Paytm,"{""amount"": 5901, ""currency"": ""INR"", ""category"": ""bills"", ""merchant"": ""Tata Play"", ""payment_method"": ""upi""}","{
+  ""amount"": 5901,
+  ""currency"": ""INR"",
+  ""category"": ""bills"",
+  ""merchant"": ""Tata Play"",
+  ""payment_method"": ""Paytm""
+}","{""amount"": 5901, ""currency"": ""INR"", ""category"": ""bills"", ""merchant"": ""Tata Play"", ""payment_method"": ""paytm""}",True,True,True,True,True,False,False
+Can you add an expense of 251.61 dollars for a mobile recharge? It was at Airtel with Paytm,"{""amount"": 251.61, ""currency"": ""USD"", ""category"": ""bills"", ""merchant"": ""Airtel"", ""payment_method"": ""upi""}","{
+  ""amount"": 251.61,
+  ""currency"": ""INR"",
+  ""category"": ""shopping"",
+  ""merchant"": ""Airtel"",
+  ""payment_method"": ""Paytm""
+}","{""amount"": 251.61, ""currency"": ""USD"", ""category"": ""bills"", ""merchant"": ""Airtel"", ""payment_method"": ""upi""}",True,True,True,True,True,True,True
+Can you add an expense of 431 rupees for a gym membership? It was at Cult.fit by cash,"{""amount"": 431, ""currency"": ""INR"", ""category"": ""health"", ""merchant"": ""Cult.fit"", ""payment_method"": ""cash""}","{
+  ""amount"": 431,
+  ""currency"": ""INR"",
+  ""category"": ""food"",
+  ""merchant"": ""Cult.fit"",
+  ""payment_method"": ""cash""
+}","{""amount"": 431, ""currency"": ""INR"", ""category"": ""health"", ""merchant"": ""Cult.fit"", ""payment_method"": ""cash""}",True,True,True,True,True,True,True
+"Spent Rs 8,899 on the DTH recharge at Tata Play by card","{""amount"": 8899, ""currency"": ""INR"", ""category"": ""bills"", ""merchant"": ""Tata Play"", ""payment_method"": ""card""}","{
+  ""amount"": 8899,
+  ""currency"": ""INR"",
+  ""category"": ""shopping"",
+  ""merchant"": ""Tata Play"",
+  ""payment_method"": ""card""
+}","{""amount"": 8899, ""currency"": ""INR"", ""category"": ""bills"", ""merchant"": ""Tata Play"", ""payment_method"": ""card""}",True,True,True,True,True,True,True
+My groceries (Big Bazaar) came to 517 INR,"{""amount"": 517, ""currency"": ""INR"", ""category"": ""shopping"", ""merchant"": ""Big Bazaar"", ""payment_method"": null}","{
+  ""amount"": 517,
+  ""currency"": ""INR"",
+  ""category"": ""food"",
+  ""merchant"": """",
+  ""payment_method"": ""cash""
+}","{""amount"": 517, ""currency"": ""INR"", ""category"": ""shopping"", ""merchant"": ""Big Bazaar"", ""payment_method"": null}",True,True,True,True,True,True,True
+Yesterday's a bus ticket at MakeMyTrip cost me Rs 4432,"{""amount"": 4432, ""currency"": ""INR"", ""category"": ""travel"", ""merchant"": ""MakeMyTrip"", ""payment_method"": null}","{
+  ""amount"": 4432,
+  ""currency"": ""INR"",
+  ""category"": ""travel"",
+  ""merchant"": ""MakeMyTrip"",
+  ""payment_method"": ""cash""
+}","{""amount"": 4432, ""currency"": ""INR"", ""category"": ""travel"", ""merchant"": ""MakeMyTrip"", ""payment_method"": null}",True,True,True,True,True,True,True
+Rs 3947 for headphones from Amazon on my Visa,"{""amount"": 3947, ""currency"": ""INR"", ""category"": ""shopping"", ""merchant"": ""Amazon"", ""payment_method"": ""card""}","{""amount"":3947,""currency"":""INR"",""category"":""food"",""merchant"":""Amazon"",""payment_method"":""visa""}","{""amount"": 3947, ""currency"": ""INR"", ""category"": ""shopping"", ""merchant"": ""Amazon"", ""payment_method"": ""card""}",True,True,True,True,True,True,True
+Bought a game from Smaaash for ₹8478 by card,"{""amount"": 8478, ""currency"": ""INR"", ""category"": ""entertainment"", ""merchant"": ""Smaaash"", ""payment_method"": ""card""}","{
+  ""amount"": 8478,
+  ""currency"": ""INR"",
+  ""category"": ""shopping"",
+  ""merchant"": ""Smaaash"",
+  ""payment_method"": ""card""
+}","{""amount"": 8478, ""currency"": ""INR"", ""category"": ""entertainment"", ""merchant"": ""Smaaash"", ""payment_method"": ""card""}",True,True,True,True,True,True,True
+Can you add an expense of 111.42 dollars for a concert? It was at BookMyShow in cash,"{""amount"": 111.42, ""currency"": ""USD"", ""category"": ""entertainment"", ""merchant"": ""BookMyShow"", ""payment_method"": ""cash""}","{
+  ""amount"": 111.42,
+  ""currency"": ""INR"",
+  ""category"": ""food"",
+  ""merchant"": ""BookMyShow"",
+  ""payment_method"": ""cash""
+}","{""amount"": 111.42, ""currency"": ""USD"", ""category"": ""entertainment"", ""merchant"": ""BookMyShow"", ""payment_method"": ""cash""}",True,True,True,True,True,True,True
+Spent 676 INR on a cab ride,"{""amount"": 676, ""currency"": ""INR"", ""category"": ""travel"", ""merchant"": null, ""payment_method"": null}","{""amount"":676,""currency"":""INR"",""category"":""travel"",""merchant"":"""",""payment_method"":""cash""}","{""amount"": 676, ""currency"": ""INR"", ""category"": ""travel"", ""merchant"": null, ""payment_method"": null}",True,True,True,True,True,True,True
+Can you add an expense of ₹233 for a game? It was at Spotify on my Visa,"{""amount"": 233, ""currency"": ""INR"", ""category"": ""entertainment"", ""merchant"": ""Spotify"", ""payment_method"": ""card""}","{
+  ""amount"": 233,
+  ""currency"": ""INR"",
+  ""category"": ""food"",
+  ""merchant"": ""Spotify"",
+  ""payment_method"": ""visa""
+}","{""amount"": 233, ""currency"": ""INR"", ""category"": ""entertainment"", ""merchant"": ""Spotify"", ""payment_method"": ""card""}",True,True,True,True,True,True,True
+"Spent Rs 6,749 on a cab ride with Paytm","{""amount"": 6749, ""currency"": ""INR"", ""category"": ""travel"", ""merchant"": null, ""payment_method"": ""upi""}","{
+  ""amount"": 6749,
+  ""currency"": ""INR"",
+  ""category"": ""travel"",
+  ""merchant"": ""Paytm"",
+  ""payment_method"": ""cash""
+}","{""amount"": 6749, ""currency"": ""INR"", ""category"": ""travel"", ""merchant"": ""Paytm"", ""payment_method"": ""upi""}",True,True,True,True,False,True,False
+Spent $34 on a bus ticket at Namma Metro using debit card,"{""amount"": 34, ""currency"": ""USD"", ""category"": ""travel"", ""merchant"": ""Namma Metro"", ""payment_method"": ""card""}","{
+  ""amount"": 34,
+  ""currency"": ""INR"",
+  ""category"": ""travel"",
+  ""merchant"": ""Namma Metro"",
+  ""payment_method"": ""debit card""
+}","{""amount"": 34, ""currency"": ""USD"", ""category"": ""travel"", ""merchant"": ""Namma Metro"", ""payment_method"": ""card""}",True,True,True,True,True,True,True
+Can you add an expense of USD 193 for a blood test? It was at Netmeds in cash,"{""amount"": 193, ""currency"": ""USD"", ""category"": ""health"", ""merchant"": ""Netmeds"", ""payment_method"": ""cash""}","{
+  ""amount"": 193,
+  ""currency"": ""INR"",
+  ""category"": ""bills"",
+  ""merchant"": ""Netmeds"",
+  ""payment_method"": ""cash""
+}","{""amount"": 193, ""currency"": ""USD"", ""category"": ""health"", ""merchant"": ""Netmeds"", ""payment_method"": ""cash""}",True,True,True,True,True,True,True
+Note down $189 that I gave BESCOM for the wifi bill in cash,"{""amount"": 189, ""currency"": ""USD"", ""category"": ""bills"", ""merchant"": ""BESCOM"", ""payment_method"": ""cash""}","{
+  ""amount"": 189,
+  ""currency"": ""INR"",
+  ""category"": ""bills"",
+  ""merchant"": ""BESCOM"",
+  ""payment_method"": ""cash""
+}","{""amount"": 189, ""currency"": ""USD"", ""category"": ""bills"", ""merchant"": ""BESCOM"", ""payment_method"": ""cash""}",True,True,True,True,True,True,True
+"Expense: Dr Lal PathLabs, 568 rupees, a doctor visit using debit card","{""amount"": 568, ""currency"": ""INR"", ""category"": ""health"", ""merchant"": ""Dr Lal PathLabs"", ""payment_method"": ""card""}","{
+  ""amount"": 568,
+  ""currency"": ""INR"",
+  ""category"": ""health"",
+  ""merchant"": ""Dr Lal PathLabs"",
+  ""payment_method"": ""debit card""
+}","{""amount"": 568, ""currency"": ""INR"", ""category"": ""health"", ""merchant"": ""Dr Lal PathLabs"", ""payment_method"": ""card""}",True,True,True,True,True,True,True
+"Had vitamins, it was USD 291.34","{""amount"": 291.34, ""currency"": ""USD"", ""category"": ""health"", ""merchant"": null, ""payment_method"": null}","{
+  ""amount"": 291.34,
+  ""currency"": ""INR"",
+  ""category"": ""food"",
+  ""merchant"": null,
+  ""payment_method"": ""cash""
+}","{""amount"": 291.34, ""currency"": ""USD"", ""category"": ""health"", ""merchant"": null, ""payment_method"": null}",True,True,True,True,True,True,True
+Paid Croma Rs 5800 for shoes using debit card,"{""amount"": 5800, ""currency"": ""INR"", ""category"": ""shopping"", ""merchant"": ""Croma"", ""payment_method"": ""card""}","{
+  ""amount"": 5800,
+  ""currency"": ""INR"",
+  ""category"": ""shopping"",
+  ""merchant"": ""Croma"",
+  ""payment_method"": ""debit card""
+}","{""amount"": 5800, ""currency"": ""INR"", ""category"": ""shopping"", ""merchant"": ""Croma"", ""payment_method"": ""card""}",True,True,True,True,True,True,True
+Rs. 1900 for a concert from INOX on my Visa,"{""amount"": 1900, ""currency"": ""INR"", ""category"": ""entertainment"", ""merchant"": ""INOX"", ""payment_method"": ""card""}","{
+  ""amount"": 1900,
+  ""currency"": ""INR"",
+  ""category"": ""food"",
+  ""merchant"": ""INOX"",
+  ""payment_method"": ""visa""
+}","{""amount"": 1900, ""currency"": ""INR"", ""category"": ""entertainment"", ""merchant"": ""INOX"", ""payment_method"": ""card""}",True,True,True,True,True,True,True
+Can you add an expense of ₹372 for a gym membership? It was at Max Hospital paid cash,"{""amount"": 372, ""currency"": ""INR"", ""category"": ""health"", ""merchant"": ""Max Hospital"", ""payment_method"": ""cash""}","{
+  ""amount"": 372,
+  ""currency"": ""INR"",
+  ""category"": ""food"",
+  ""merchant"": ""Max Hospital"",
+  ""payment_method"": ""cash""
+}","{""amount"": 372, ""currency"": ""INR"", ""category"": ""health"", ""merchant"": ""Max Hospital"", ""payment_method"": ""cash""}",True,True,True,True,True,True,True

@@ -1,0 +1,7 @@
+,,recall@1,recall@5,recall@10,MRR@10
+small (100 words),embedding,0.067,0.4,0.467,0.226
+small (100 words),BM25,0.333,0.467,0.6,0.38
+small (100 words),hybrid,0.267,0.6,0.733,0.391
+large (300 words),embedding,0.067,0.267,0.6,0.184
+large (300 words),BM25,0.067,0.333,0.6,0.207
+large (300 words),hybrid,0.267,0.667,0.8,0.408
